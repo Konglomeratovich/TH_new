@@ -296,8 +296,8 @@
 			"Message":"Новый пароль не может совпадать со старым."
 		},
 		"PasswordResetSucceeded":{
-			"Title":"succeed",
-			"Message":"Password reset succeeded."
+			"Title":"Успешно",
+			"Message":"Сброс пароля выполнен успешно."
 		},
 		"RenewSucceeded":{
 			"Title":"Renew succeeded",
