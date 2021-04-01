@@ -220,48 +220,48 @@
 			"Message":"Мы отправили код безопасности на вашу электронную почту [{0}], Введите код безопасности здесь.\r\nЕсли вы не нашли код безопасности в почтовом ящике - проверьте папку "Спам"."
 		},
 		"EmailSent":{
-			"Title":"Email Sent",
-			"Message":"{0}“, Please check your Emailbox."
+			"Title":"Email отправлен",
+			"Message":"{0}“, Проверьте вашу почту."
 		},
 		"IncompleteInformation":{
-			"Title":"Incomplete information",
-			"Message":"Please fill in the complete information!"
+			"Title":"Неполная информация",
+			"Message":"Заполните, пожалуйста, полную информацию!"
 		},
 		"EmailCaptchaCodeTimedOut":{
-			"Title":"Timed Out",
-			"Message":"The Email security code timed out, Please resend code!"
+			"Title":"Истекло время ожидания",
+			"Message":"Истекло время ожидания кода безопасности электронной почты, пожалуйста, отправьте код еще раз!"
 		},
 		"EmailCaptchaCodeInvalid":{
-			"Title":"Invalid",
-			"Message":"The Email security code is invalid! Please check the security code in your Emailbox"
+			"Title":"Недействительно",
+			"Message":"Код безопасности электронной почты недействителен! Проверьте код безопасности в своем почтовом ящике!"
 		},
 		"EmailIsUsed":{
-			"Title":"The EMail is used",
-			"Message":"That Email address is already in use! Please change an Email and register again, or retrieve the original account through this Email address."
+			"Title":"EMail уже используется",
+			"Message":"Данный адрес электронной почты уже используется! Измените адрес электронной почты и зарегистрируйтесь снова или восстановите исходную учетную запись через этот адрес электронной почты"
 		},
 		"EmailIsUsedForRebind":{
-			"Title":"fail",
-			"Message":"This Email address has been bound to other account, please change a new Email address!"
+			"Title":"Провал",
+			"Message":"Этот адрес электронной почты был привязан к другой учетной записи, пожалуйста, измените адрес электронной почты!"
 		},
 		"UserNameHasBeenUsed":{
-			"Title":"The user name is used",
-			"Message":"That user name is already in use! Please change the user name."
+			"Title":"Имя пользователя занято",
+			"Message":"Это имя пользователя уже используется! Используйте другое имя пользователя"
 		},
 		"LicenseHasBeenUsed":{
-			"Title":"The license has been used",
-			"Message":"This license has been used and cannot be reused!"
+			"Title":"Лицензия уже используется",
+			"Message":"Эта лицензия была использована и не может быть использована повторно!"
 		},
 		"InvalidLicense":{
-			"Title":"Invalid license",
-			"Message":"{0} Invalid license! \r\nPlease check again. It is recommended to copy and paste the license to avoid input Ошибкаs"
+			"Title":"Недействительная лицензия",
+			"Message":"{0} Недействительная лицензия! \r\nПроверьте снова. Рекомендуем скопировать и вставить лицензию."
 		},
 		"RegistrationSuccessful":{
-			"Title":"succeed",
-			"Message":"Registration successful! Expiry date: {0}"
+			"Title":"Успешно",
+			"Message":"Регистрация прошла успешно! Срок действия: {0}"
 		},
 		"HWIDBanned":{
-			"Title":"HWID Banned",
-			"Message":"Your HWID is banned! Please contact customer service for reasons."
+			"Title":"HWID заблокирован",
+			"Message":"Ваш HWID заблокирован! Пожалуйста, свяжитесь со службой поддержки для выяснения причин»"
 		},
 		"InvalidUserName":{
 			"Title":"Invalid user name",
