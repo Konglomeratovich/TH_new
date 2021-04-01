@@ -502,7 +502,7 @@
 		"Windows_EliteMonsterAffix":"Аффикс элиты",
 		"Windows_MonsterPack":"Пак элиты",
 		"Windows_DangerousSkill":"Опасный навык",
-		"Windows_Обновлениеr":"Обновление TurboHUD",
+		"Windows_Updater":"Обновление TurboHUD",
 		"Windows_Downloader":"Загрузчик обновлений TurboHUD"
 	},
 	"GroupBox":{
@@ -651,35 +651,35 @@
 			"height":120
 		},
 		"GroupBox_RunD3_3step":{
-			"text":"Step 3: launch the game ",
+			"text":"Шаг 3: запустите игру ",
 			"left":7,
 			"top":185,
 			"width":370,
 			"height":130
 		},
 		"GroupBox_RunD3_2step":{
-			"text":"Step 2: create a standard system account",
+			"text":"Шаг 2: создайте стандартную системную учетную запись",
 			"left":7,
 			"top":42,
 			"width":370,
 			"height":139
 		},
 		"GroupBox_RunD3_SecondWay":{
-			"text":"Second way (step 1 game path must be set) ",
+			"text":"Второй способ (необходимо указать игровой путь шага 1) ",
 			"left":7,
 			"top":186,
 			"width":370,
 			"height":96
 		},
 		"GroupBox_RunD3_FirstWay":{
-			"text":"First way (Battle.net)",
+			"text":"Первый способ (Battle.net)",
 			"left":7,
 			"top":48,
 			"width":370,
 			"height":125
 		},
 		"GroupBox_RunD3_1step":{
-			"text":"Step 1: set the game path ",
+			"text":"Шаг 1: установите игровой путь",
 			"left":10,
 			"top":35,
 			"width":384,
@@ -722,7 +722,7 @@
 			"height":128
 		},
 		"GroupBox_COE":{
-			"text":"Convention Of Elements",
+			"text":"Собрание стихий",
 			"left":12,
 			"top":106,
 			"width":795,
@@ -735,7 +735,7 @@
 			"height":60
 		},
 		"GroupBox_21Season":{
-			"text":"21 Season Buff",
+			"text":"21 сезонный бафф",
 			"left":12,
 			"top":573,
 			"width":795,
@@ -766,7 +766,7 @@
 			"height":89
 		},
 		"GroupBox_OtherItemPlugins":{
-			"text":"Other Item Plugins",
+			"text":"Плагины для других предметов",
 			"left":12,
 			"top":595,
 			"width":794,
@@ -779,7 +779,7 @@
 			"height":57
 		},
 		"GroupBox_InventoryAndStash":{
-			"text":"Inventory And Stash",
+			"text":"Инвентарь и тайник",
 			"left":12,
 			"top":38,
 			"width":795,
@@ -810,7 +810,7 @@
 			"height":75
 		},
 		"GroupBox_OtherMonsterPlugins":{
-			"text":"Other Monster Plugins",
+			"text":"Другие плагины монстров",
 			"left":12,
 			"top":520,
 			"width":795,
@@ -829,14 +829,14 @@
 			"height":72
 		},
 		"GroupBox_MonsterRiftProgression":{
-			"text":"Monster Rift Progression",
+			"text":"Монстровый прогресс портала",
 			"left":12,
 			"top":108,
 			"width":795,
 			"height":90
 		},
 		"GroupBox_MonsterRadar":{
-			"text":"Monster Radar",
+			"text":"Радар монстров",
 			"left":12,
 			"top":38,
 			"width":795,
@@ -851,49 +851,49 @@
 	},
 	"CheckBox":{
 		"CheckBox_LowPriority":{
-			"text":"Low Priority",
+			"text":"низкий приоритет",
 			"left":16,
 			"top":26,
 			"width":98,
 			"height":32
 		},
 		"CheckBox_AutoHideHUD":{
-			"text":"Auto Hide HUD",
+			"text":"автоскрытие HUD",
 			"left":150,
 			"top":26,
 			"width":186,
 			"height":32
 		},
 		"CheckBox_AutoTerminate":{
-			"text":"Auto Terminate",
+			"text":"Автоматическое завершение",
 			"left":295,
 			"top":26,
 			"width":174,
 			"height":32
 		},
 		"CheckBox_HighFramerate":{
-			"text":"High Framerate",
+			"text":"Высокая частота кадров",
 			"left":435,
 			"top":26,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_ParagonCapture":{
-			"text":"Paragon capture\r\nSaved in capture_paragon folder",
+			"text":"Захват парагона \ r \ n Сохраняется в папке capture_paragon",
 			"left":580,
 			"top":26,
 			"width":232,
 			"height":32
 		},
 		"CheckBox_TextToSpeechVolumen":{
-			"text":"Text to speech volume",
+			"text":"Громкость текста в речь",
 			"left":16,
 			"top":64,
 			"width":178,
 			"height":32
 		},
 		"CheckBox_Login_Remember":{
-			"text":"Remember",
+			"text":"Запомнить",
 			"left":83,
 			"top":192,
 			"width":110,
@@ -5311,7 +5311,7 @@
 		"TabControl_text":{
 			"tab1":"Readme",
 			"tab2":"FAQ",
-			"tab3":"Обновление Log",
+			"tab3":"Update Log",
 			"left":7,
 			"top":575,
 			"width":806,
@@ -6545,14 +6545,14 @@
 			"width":158,
 			"height":32
 		},
-		"Button_Обновлениеr_Manual":{
+		"Button_Updater_Manual":{
 			"text":"Manual",
 			"left":281,
 			"top":83,
 			"width":87,
 			"height":32
 		},
-		"Button_Обновлениеr_Auto":{
+		"Button_Updater_Auto":{
 			"text":"Download",
 			"left":142,
 			"top":83,
@@ -6560,7 +6560,7 @@
 			"height":32
 		},
 		"Button_Downloader_Auto":{
-			"text":"Обновление checked files",
+			"text":"Update checked files",
 			"left":184,
 			"top":345,
 			"width":170,
@@ -7874,14 +7874,14 @@
 			"width":500,
 			"height":32
 		},
-		"Label_Обновлениеr_DownloadSpeed":{
+		"Label_Updater_DownloadSpeed":{
 			"left":16,
 			"top":131,
 			"width":78,
 			"height":24
 		},
 		"Label_Downloader_Tips":{
-			"text":"It is recommended to add the directory to the whitelist of antivirus software to avoid file Обновление failure",
+			"text":"It is recommended to add the directory to the whitelist of antivirus software to avoid file Update failure",
 			"HorizontalCenter":1,
 			"top":382,
 			"width":425,
@@ -7897,7 +7897,7 @@
 	},
 	"TextBox":{
 		"TextBox_Readme":{
-			"text":"Legal\r\n\r\nTurboHUD is not affiliated to Activision Blizzard and it may go against game TOS\/EULA: Blizzard Entertainment: Battle.net End User License Agreement\r\nDiablo is a registered trademark of Blizzard Entertainment, Inc.\r\n\r\nSince TurboHUD was introduced I haven't got any notification from Blizzard regarding TurboHUD. Active Diablo 3 players posted multiple questions on official battle.net forums asking for an official statement without any clear conclusion. When a statement from Blizzard \/or a legal C&D letter\/ forbids the release of TurboHUD then it will be immediately removed from the Internet and the development will be halted.\r\n\r\nIn the meanwhile TurboHUD is accessible as-is, free for every player, only for non-competetive gameplay, and serves as a gameplay-experience enchancement.\r\n\r\nThe features of this software:1.automatic Обновление\r\n2.Integrating excellent plugins\r\n3.Customization of plugins\r\n4.Automatic problem solving\r\n5.Profiles management\r\n7.Added LightningMOD, Contains a large of automation plugins\r\n8.Support multi games\r\n\r\nTurboHUD Required:\r\n1. Be sure to have at least Microsoft .NET Framework 4.7.2\r\n2. Be sure to have at least DirectX11\r\n3. Windows 7 users have to install Windows 7 SP1, Platform Обновление and KB2670838\r\n4. Windows 7 users have to enable Aero\r\n\r\n\r\nLightningMOD:http:\/\/d3fz.com\r\nTurboHUD:http:\/\/www.ownedcore.com\/forums\/diablo-3\/turbohud\/\r\nTurboHUD author:KillerJohn",
+			"text":"Legal\r\n\r\nTurboHUD is not affiliated to Activision Blizzard and it may go against game TOS\/EULA: Blizzard Entertainment: Battle.net End User License Agreement\r\nDiablo is a registered trademark of Blizzard Entertainment, Inc.\r\n\r\nSince TurboHUD was introduced I haven't got any notification from Blizzard regarding TurboHUD. Active Diablo 3 players posted multiple questions on official battle.net forums asking for an official statement without any clear conclusion. When a statement from Blizzard \/or a legal C&D letter\/ forbids the release of TurboHUD then it will be immediately removed from the Internet and the development will be halted.\r\n\r\nIn the meanwhile TurboHUD is accessible as-is, free for every player, only for non-competetive gameplay, and serves as a gameplay-experience enchancement.\r\n\r\nThe features of this software:1.automatic Update\r\n2.Integrating excellent plugins\r\n3.Customization of plugins\r\n4.Automatic problem solving\r\n5.Profiles management\r\n7.Added LightningMOD, Contains a large of automation plugins\r\n8.Support multi games\r\n\r\nTurboHUD Required:\r\n1. Be sure to have at least Microsoft .NET Framework 4.7.2\r\n2. Be sure to have at least DirectX11\r\n3. Windows 7 users have to install Windows 7 SP1, Platform Update and KB2670838\r\n4. Windows 7 users have to enable Aero\r\n\r\n\r\nLightningMOD:http:\/\/d3fz.com\r\nTurboHUD:http:\/\/www.ownedcore.com\/forums\/diablo-3\/turbohud\/\r\nTurboHUD author:KillerJohn",
 			"left":0,
 			"top":36,
 			"width":806,
@@ -8089,7 +8089,7 @@
 			"width":45,
 			"height":24
 		},
-		"TextBox_ОбновлениеLog":{
+		"TextBox_UpdateLog":{
 			"left":0,
 			"top":36,
 			"width":806,
@@ -8708,7 +8708,7 @@
 			"width":45,
 			"height":32
 		},
-		"TextBox_Downloader_ОбновлениеLog":{
+		"TextBox_Downloader_UpdateLog":{
 			"left":7,
 			"top":31,
 			"width":440,
@@ -8736,7 +8736,7 @@
 			"width":500,
 			"height":14
 		},
-		"ProgressBar_Обновлениеr":{
+		"ProgressBar_Updater":{
 			"left":5,
 			"top":165,
 			"width":500,
@@ -8753,15 +8753,15 @@
 	},
 	"ListView":{
 		"ListView_Lightning_OpenGreatRift_Map":{
-			"id1":"Halls of Agony",
-			"id2":"Ancient Waterway",
-			"id3":"Flooded Cave",
-			"id4":"Cave of the Betrayer",
-			"id5":"Tidal Cave",
-			"id6":"Cave",
-			"id7":"Winding Cave",
-			"id8":"Caverns of Araneae",
-			"id9":"Sewers of Caldeum",
+			"id1":"Залы агонии",
+			"id2":"Древний водосток",
+			"id3":"Затопленная пещера",
+			"id4":"Пещера Предателя",
+			"id5":"Пещера приливов",
+			"id6":"Пещера",
+			"id7":"Извилистая пещера",
+			"id8":"Пещеры Араны",
+			"id9":"Калдейские стоки",
 			"id10":"Vault of the Assassin",
 			"id11":"Archives of Zultun Kulle",
 			"id12":"Hell Rift",
@@ -8777,101 +8777,101 @@
 			"id22":"Shrouded Moors",
 			"id23":"Desert",
 			"id24":"The Festering Woods",
-			"id25":"Cathedral",
-			"id26":"Crypt",
-			"id27":"Plague Tunnels",
-			"id28":"Ruins of Corvus",
-			"id29":"Pandemonium Fortress",
-			"id30":"Battlefields of Eternity",
-			"id31":"Realm of the Banished",
-			"id32":"Westmarch Heights",
-			"id33":"Westmarch Commons",
+			"id25":"Собор",
+			"id26":"Склеп",
+			"id27":"Чумные туннели",
+			"id28":"Руины Корвуса",
+			"id29":"Крепость пандемония",
+			"id30":"Поля вечного боя",
+			"id31":"Царство изгнанников",
+			"id32":"Верхний Вестмарш",
+			"id33":"Торговый квартал Вестмарша",
 			"width":280,
 			"height":200
 		},
 		"ListView_CooldownSoundPlayer":{
-			"column1":"Skills",
-			"column2":"Sonuds",
+			"column1":"Умения",
+			"column2":"Звуки",
 			"left":8,
 			"top":48,
 			"width":480,
 			"height":260
 		},
 		"ListView_BuffManager_Necromancer":{
-			"column1":"Order",
-			"column2":"Buff name",
+			"column1":"Порядок",
+			"column2":"Название баффа",
 			"left":92,
 			"top":2,
 			"width":360,
 			"height":228
 		},
 		"ListView_BuffManager_DemonHunter":{
-			"column1":"Order",
-			"column2":"Buff name",
+			"column1":"Порядок",
+			"column2":"Название баффа",
 			"left":92,
 			"top":2,
 			"width":360,
 			"height":228
 		},
 		"ListView_BuffManager_Crusader":{
-			"column1":"Order",
-			"column2":"Buff name",
+			"column1":"Порядок",
+			"column2":"Название баффа",
 			"left":92,
 			"top":2,
 			"width":360,
 			"height":228
 		},
 		"ListView_BuffManager_WitchDoctor":{
-			"column1":"Order",
-			"column2":"Buff name",
+			"column1":"Порядок",
+			"column2":"Название баффа",
 			"left":92,
 			"top":2,
 			"width":360,
 			"height":228
 		},
 		"ListView_BuffManager_Barbarian":{
-			"column1":"Order",
-			"column2":"Buff name",
+			"column1":"Порядок",
+			"column2":"Название баффа",
 			"left":92,
 			"top":2,
 			"width":360,
 			"height":228
 		},
 		"ListView_BuffManager_Monk":{
-			"column1":"Order",
-			"column2":"Buff name",
+			"column1":"Порядок",
+			"column2":"Название баффа",
 			"left":92,
 			"top":2,
 			"width":360,
 			"height":228
 		},
 		"ListView_BuffManager_Wizard":{
-			"column1":"Order",
-			"column2":"Buff name",
+			"column1":"Порядок",
+			"column2":"Название баффа",
 			"left":92,
 			"top":2,
 			"width":360,
 			"height":228
 		},
 		"ListView_BuffManager_All":{
-			"column1":"Order",
-			"column2":"Buff name",
+			"column1":"Порядок",
+			"column2":"Название баффа",
 			"left":92,
 			"top":2,
 			"width":360,
 			"height":228
 		},
 		"ListView_BuffManager_Myself":{
-			"column1":"Order",
-			"column2":"Buff name",
+			"column1":"Порядок",
+			"column2":"Название баффа",
 			"left":92,
 			"top":2,
 			"width":360,
 			"height":228
 		},
 		"ListView_PartyMembersSkillBar":{
-			"column1":"Order",
-			"column2":"Filter skills",
+			"column1":"Порядок",
+			"column2":"Фильтр умений",
 			"left":148,
 			"top":48,
 			"width":360,
@@ -8879,16 +8879,16 @@
 		},
 		"ListView_MainBuffBar":{
 			"column1":"",
-			"column2":"Buff name(English only)",
+			"column2":"Название баффа (только на английском языке)",
 			"column3":"Sno",
-			"column4":"Index",
-			"column5":"Min",
-			"column6":"Stack",
-			"column7":"CD",
-			"column8":"Desc",
-			"column9":"Texture",
-			"column10":"Name",
-			"column11":"Notes",
+			"column4":"Индекс",
+			"column5":"Мин",
+			"column6":"Стак",
+			"column7":"КД",
+			"column8":"Описание",
+			"column9":"Текстура",
+			"column10":"Имя",
+			"column11":"Заметки",
 			"left":6,
 			"top":66,
 			"width":990,
@@ -8896,35 +8896,35 @@
 		},
 		"ListView_SpecialMonster":{
 			"column1":"",
-			"column2":"Name English",
-			"column3":"Name Localized",
-			"column4":"Player Mode",
-			"column5":"Special Area",
-			"column6":"Affix Name",
-			"column7":"Rarity",
-			"column8":"Name",
-			"column9":"HP bar",
-			"column10":"On map",
+			"column2":"Имя по-английски",
+			"column3":"Имя локализовано",
+			"column4":"Режим игрока",
+			"column5":"Особая зона",
+			"column6":"Наименование Аффикса",
+			"column7":"Редкость",
+			"column8":"Имя",
+			"column9":"Банка здоровья",
+			"column10":"На карте",
 			"left":6,
 			"top":30,
 			"width":1010,
 			"height":264
 		},
 		"ListView_FAQ":{
-			"column1":"question",
-			"column2":"link",
+			"column1":"вопрос",
+			"column2":"ссылка",
 			"left":0,
 			"top":36,
 			"width":806,
 			"height":211
 		},
-		"ListView_Downloader_Обновлениеlist":{
+		"ListView_Downloader_Updatelist":{
 			"column1":"",
-			"column2":"File",
-			"column3":"State",
-			"column4":"Size",
-			"column5":"progress",
-			"column6":"Speed",
+			"column2":"Файл",
+			"column3":"Состояние",
+			"column4":"Размер",
+			"column5":"прогресс",
+			"column6":"Скорость",
 			"left":7,
 			"top":180,
 			"width":440,
@@ -8953,9 +8953,9 @@
 	},
 	"StateBar":{
 		"StateBar_Downloader":{
-			"item1":"All sizes:",
-			"item3":"completed:",
-			"item5":"Speed:",
+			"item1":"Все размеры:",
+			"item3":"завершено:",
+			"item5":"Скорость:",
 			"left":7,
 			"top":464,
 			"width":440,
@@ -8964,132 +8964,132 @@
 	},
 	"StatText":{
 		"Loading":{
-			"text":"Loading plugins config"
+			"text":"Загрузка конфигурации плагинов"
 		},
 		"DetectingWindows":{
-			"text":"Detecting Windows system"
+			"text":"Обнаружение системы Windows"
 		},
 		"Connecting":{
-			"text":"Connecting to server"
+			"text":"Подключение к серверу"
 		},
 		"Parsing":{
-			"text":"Parsing data"
+			"text":"Анализ данных"
 		},
 		"Initializing":{
-			"text":"Initializing data"
+			"text":"Инициализация данных"
 		},
 		"GettingNotice":{
-			"text":"Getting Notice"
+			"text":"Получение уведомления"
 		},
 		"Validating":{
-			"text":"Validating data"
+			"text":"Проверка данных"
 		},
 		"Starting":{
-			"text":"Starting..."
+			"text":"Запуск..."
 		},
 		"Running":{
-			"text":"Running..."
+			"text":"Запущен..."
 		},
 		"Aero":{
-			"text":"Detecting Windows 7 Aero"
+			"text":"Обнаружение Windows 7 Aero"
 		},
 		"NetFramework":{
-			"text":"Detecting Microsoft .NET FrameworkV{0}"
+			"text":"Обнаружение Microsoft .NET FrameworkV{0}"
 		},
 		"sp1":{
-			"text":"Detecting Window 7 sp1"
+			"text":"Обнаружение Windowы 7 SP1"
 		},
-		"ОбновлениеService":{
-			"text":"Starting Windows Обновление..."
+		"UpdateService":{
+			"text":"Запуск обновления Windows..."
 		}
 	},
 	"Text":{
 		"Connecting1":{
-			"text":"Getting version Обновление information from server 1"
+			"text":"Получение информации о версии обновления с сервера 1"
 		},
 		"Connecting2":{
-			"text":"Getting version Обновление information from server 2"
+			"text":"Получение информации о версии обновления с сервера 2"
 		},
 		"Connecting3":{
-			"text":"Getting version Обновление information from server 3"
+			"text":"Получение информации о версии обновления с сервера 3"
 		},
 		"Getting1":{
-			"text":"Getting validation file list from server 1"
+			"text":"Получение списка файлов проверки с сервера 1"
 		},
 		"Getting2":{
-			"text":"Getting validation file list from server 2"
+			"text":"Получение списка файлов проверки с сервера 2"
 		},
 		"Getting3":{
-			"text":"Getting validation file list from server 3"
+			"text":"Получение списка файлов проверки с сервера 3"
 		},
 		"VerifyingIntegrity":{
-			"text":"Verifying file integrity"
+			"text":"Проверка целостности файла"
 		},
 		"TurboHUDBubbleTis":{
-			"text":"The TurboHUD plugins manager has been minimized to hide. Click to restore the display"
+			"text":"Диспетчер плагинов TurboHUD свернут. Нажмите, чтобы восстановить отображение"
 		},
 		"Default":{
-			"text":"Default"
+			"text":"По умолчанию"
 		},
 		"PoolOfReflection":{
-			"text":"Pool Of Reflection"
+			"text":"Чаша отражений"
 		},
-		"ОбновлениеCheckedFiles":{
-			"text":"Обновление checked files"
+		"Update checked files":{
+			"text":"Update checked files"
 		},
 		"Continue":{
-			"text":"continue"
+			"text":"продолжить"
 		},
 		"Pause":{
-			"text":"Pause"
+			"text":"Пауза"
 		},
 		"Completed":{
-			"text":"Completed"
+			"text":"Завершено"
 		},
 		"Downloading":{
-			"text":"Downloading"
+			"text":"Скачивание"
 		},
 		"Unpacking":{
-			"text":"Unpacking"
+			"text":"Распаковка"
 		},
 		"AutoDownload":{
-			"text":"Download"
+			"text":"Скачать"
 		},
 		"SigningIn":{
-			"text":"Signing in"
+			"text":"Вход в систему"
 		},
 		"Waiting":{
-			"text":"s retry"
+			"text":"повторная попытка"
 		},
 		"EXPDate":{
-			"text":"Expiry date:"
+			"text":"Истекает:"
 		},
 		"TimeLeft":{
-			"text":"Time left:"
+			"text":"Времени осталось:"
 		},
 		"Installing":{
-			"text":"Installing"
+			"text":"Установка"
 		},
 		"SpaceKey":{
-			"text":"Space"
+			"text":"Пробел"
 		},
 		"FlyingDragon":{
-			"text":"Flying Dragon"
+			"text":"Летящий дракон"
 		},
 		"ShiMizusHaori":{
-			"text":"Shi Mizu's Haori"
+			"text":"Хаори Ши Мидзу"
 		},
 		"Arachyr":{
-			"text":"Arachyr"
+			"text":"Арахир"
 		},
 		"BrokenPromises":{
-			"text":"Broken Promises"
+			"text":"Нарушенные обещания"
 		},
 		"OculusRing":{
-			"text":"Oculus Ring"
+			"text":"Перстень-око"
 		},
 		"InnerSanctuary":{
-			"text":"Inner Sanctuary"
+			"text":"Святая святых"
 		}
 	}
 }
