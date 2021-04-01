@@ -264,36 +264,36 @@
 			"Message":"Ваш HWID заблокирован! Пожалуйста, свяжитесь со службой поддержки для выяснения причин»"
 		},
 		"InvalidUserName":{
-			"Title":"Invalid user name",
-			"Message":"Sorry! The user name your entered does not exist! "
+			"Title":"Недействительное имя пользователя",
+			"Message":"Извините! Введенное вами имя пользователя не существует! "
 		},
 		"InvalidPassword":{
-			"Title":"Invalid password",
-			"Message":"Your password is incorrect. Please re-enter your password."
+			"Title":"Неверный пароль",
+			"Message":"Неправильный пароль. Введите пароль еще раз."
 		},
 		"AccountBanned":{
-			"Title":"Account banned",
-			"Message":"This account has been banned, The reason for the ban is :{0}"
+			"Title":"Аккаунт заблокирован",
+			"Message":"Этот аккаунт заблокирован. Причина блокировки: {0}"
 		},
 		"AccountBannedForRenew":{
-			"Title":"Account banned",
-			"Message":"This account has been banned and cannot be renew!"
+			"Title":"Аккаунт заблокирован",
+			"Message":"Эта учетная запись заблокирована и не может быть продлена!"
 		},
 		"AccountExpired":{
-			"Title":"Expired",
-			"Message":"Your account has expired, Please renew."
+			"Title":"Срок действия истек",
+			"Message":"Срок действия вашей учетной записи истек."
 		},
 		"SupperPasswordIncorrect":{
-			"Title":"Supper password incorrect",
-			"Message":"Your supper password is incorrect."
+			"Title":"Неправильный пароль суперпользователя",
+			"Message":"Неправильный пароль суперпользователя."
 		},
 		"OldPasswordIncorrect":{
-			"Title":"Old password incorrect",
-			"Message":"Your old password is incorrect."
+			"Title":"Неправильный старый пароль",
+			"Message":"Неправильный старый пароль."
 		},
 		"OldAndNewPasswordsAreSame":{
-			"Title":"fail",
-			"Message":"The new password cannot be the same as the old password!"
+			"Title":"Провал",
+			"Message":"Новый пароль не может совпадать со старым."
 		},
 		"PasswordResetSucceeded":{
 			"Title":"succeed",
