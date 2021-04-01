@@ -300,104 +300,104 @@
 			"Message":"Сброс пароля выполнен успешно."
 		},
 		"RenewSucceeded":{
-			"Title":"Renew succeeded",
-			"Message":"Renew succeeded! Expiry date: {0}"
+			"Title":"Продление выполнено",
+			"Message":"Продление выполнено! Срок действия: {0}"
 		},
 		"BindingSucceeded":{
-			"Title":"Binding succeeded",
-			"Message":"Account [{0}] is successfully bound to Email [{1}]"
+			"Title":"Связывание выполнено",
+			"Message":"Аккаунт [{0}] успешно привязан к электронной почте [{1}]"
 		},
 		"ResetBattleNetFailed":{
-			"Title":"fail",
-			"Message":"Insufficient time left, You cannot reset bound Battle.Net Tag"
+			"Title":"Ошибка",
+			"Message":"Недостаточно времени прошло, вы не можете сбросить привязанный тег Battle.Net"
 		},
 		"ResetBattleNetSucceeded":{
-			"Title":"succeed",
-			"Message":"Reset binding Battle.Net Tag succeeded! deduct : {0} hours！"
+			"Title":"Успешно",
+			"Message":"Сброс привязки Battle.Net Tag выполнен! вычет: {0} часов"
 		},
 		"AutoCastForFree":{
-			"Title":"",
-			"Message":"Free user can't use Auto Cast Helper"
+			"Title":"Ошибка",
+			"Message":"Бесплатный пользователь не может использовать Auto Cast Helper"
 		},
 		"ProfilesExportForFree":{
-			"Title":"Failed",
-			"Message":"Free user can't use Profiles Export!"
+			"Title":"Ошибка",
+			"Message":"Бесплатный пользователь не может использовать экспорт профилей!"
 		},
 		"ProfilesImportForFree":{
-			"Title":"Failed",
-			"Message":"Free user can't use Profiles Import!"
+			"Title":"Ошибка",
+			"Message":"Бесплатный пользователь не может использовать импорт профилей!"
 		},
 		"ProfilesExportSucceed":{
-			"Title":"Succeed",
-			"Message":"Profiles export succeed!"
+			"Title":"Успешно",
+			"Message":"Экспорт профилей выполнен!"
 		},
 		"ProfilesExportFailed":{
-			"Title":"Failed",
-			"Message":"Profiles export failed！"
+			"Title":"Ошибка",
+			"Message":"Не удалось экспортировать профили！"
 		},
 		"ProfilesImportSucceed":{
-			"Title":"Succeed",
-			"Message":"Profiles import succeed!"
+			"Title":"Успешно",
+			"Message":"Профили импортированы успешно!"
 		},
 		"BindBattleNetFirst":{
 			"Title":"",
-			"Message":"Please bind Battle.Net first!"
+			"Message":"Пожалуйста, сначала привяжите Battle.Net!"
 		},
 		"UploadProfiles":{
 			"Title":"",
-			"Message":"Are you sure you want to upload the local profiles file of {0} to the server?"
+			"Message":"Вы действительно хотите загрузить файл локальных профилей {0} на сервер?"
 		},
 		"DownloadProfiles":{
 			"Title":"",
-			"Message":"Are you sure you want to download the {0} profiles file from the server?”\r\nAfter the download is successful, the local profiles file will be Обновлениеd!"
+			"Message":"Вы действительно хотите загрузить файл профилей {0} с сервера? »\ R \ nПосле успешной загрузки локальный файл профилей будет обновлен!"
 		},
 		"ProfilesFileBroken":{
-			"Title":"Failed",
-			"Message":"Profiles file broken!"
+			"Title":"Ошибка",
+			"Message":"Файл профилей поврежден!"
 		},
 		"ProfilesFileDoesNotExist":{
-			"Title":"Failed",
-			"Message":"Profiles file does not exist, You have to upload it once!"
+			"Title":"Ошибка",
+			"Message":"Файл профилей не существует, его нужно загрузить один раз!"
 		},
 		"FileSizeExceedsLimit":{
-			"Title":"Failed",
-			"Message":"File size exceeds limit!"
+			"Title":"Ошибка",
+			"Message":"Размер файла превышает предел!"
 		},
 		"UploadSucceed":{
-			"Title":"Succeed",
-			"Message":"Upload succeed!"
+			"Title":"Успешно",
+			"Message":"Выгрузка прошла успешно!"
 		},
 		"DownloadSucceed":{
-			"Title":"Succeed",
-			"Message":"Download succeed!"
+			"Title":"Успешно",
+			"Message":"Загрузка прошла успешно!"
 		},
 		"UploadFailed":{
-			"Title":"Failed",
-			"Message":"Upload failed!"
+			"Title":"Ошибка",
+			"Message":"Выгрузка не удалась!"
 		},
 		"DownloadFailed":{
-			"Title":"Failed",
-			"Message":"Download failed!"
+			"Title":"Ошибка",
+			"Message":"Загрузка не удалась!"
 		},
 		"GameVersion":{
 			"Title":"",
-			"Message":"Your game version:{0}，TurboHUD supported game version: {1}\r\nTurboHUD may not work. Do you want to continue?"
+			"Message":"Версия вашей игры: {0} ， Версия игры, поддерживаемая TurboHUD: {1} \ r \ nTurboHUD может не работать. Вы хотите продолжить?"
 		},
 		"NetFramework":{
 			"Title":"",
-			"Message":"Detected that your system is not installed Microsoft .NET Framework V{0}, \r\nDo you want to try to download it?"
+			"Message":"Обнаружено, что в вашей системе не установлен Microsoft .NET Framework V {0}, \ r \ nПопробовать его загрузить?"
 		},
 		"OBS":{
 			"Title":"Aero",
-			"Message":"It has been detected that you are using obs. If Aero cannot be enabled, the game winodw will be black.\r\nPlease do not disable Aero in OBS settings."
+			"Message":"Было обнаружено, что вы используете obs. Если не удается включить Aero, окно игры будет черным. \ R \ nПожалуйста, не отключайте Aero в настройках OBS."
 		},
 		"Win7Home":{
 			"Title":"Aero",
-			"Message":"Detected that your Windows 7 system is home version, \r\nDo you want to start downloading special tool to enable Aero"
+			"Message":"Обнаружено, что ваша система Windows 7 является домашней версией, \ r \ nВы хотите начать загрузку специального инструмента для включения Aero"
 		},
 		"Aero":{
 			"Title":"Aero",
-			"Message":"Detected that your Windows 7 Aero is not enabled yet, This will cause the game window to be black! \r\nDo you want to enable Aero now and switch the corresponding theme to solve the problem?"
+			"Message":"Обнаружено, что ваша Windows 7 Aero еще не включена, это приведет к тому, что окно игры станет черным! \ r \ nВы хотите включить Aero сейчас и переключить соответствующую тему, чтобы решить проблему? "
 		},
 		"EnableAero":{
 			"Title":"Выберите тему с Aero",
