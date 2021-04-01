@@ -7881,14 +7881,14 @@
 			"height":24
 		},
 		"Label_Downloader_Tips":{
-			"text":"It is recommended to add the directory to the whitelist of antivirus software to avoid file Update failure",
+			"text":"Рекомендуется добавить каталог в белый список (список исключений, доверенный список) антивирусного ПО, чтобы избежать сбоя обновления файла.",
 			"HorizontalCenter":1,
 			"top":382,
 			"width":425,
 			"height":80
 		},
 		"Label_PlayerSkills_PlayerSkills_WizardEnergyTwister":{
-			"text":"Wizard - Energy twister",
+			"text":"Чародей - Энергетический вихрь",
 			"left":150,
 			"top":166,
 			"width":140,
