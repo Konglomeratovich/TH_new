@@ -401,109 +401,109 @@
 		},
 		"EnableAero":{
 			"Title":"Выберите тему с Aero",
-			"Message":"Выберите  .\r\nPlease restart TurboHUD after loading the Aero theme!"
+			"Message":"Выберите любую тему с Aero для загрузки. .\r\nПожалуйста, перезапустите TurboHUD после загрузки темы Aero!"
 		},
 		"SP1":{
 			"Title":"windows7 SP1",
-			"Message":"Detected that your Windows 7 system does not have service pack 1 patch installed!\r\n\r\nDo you want to start downloading and installing the patch (need to restart the computer after installation)"
+			"Message":"Обнаружено, что в вашей системе Windows 7 не установлен ServicePack1!\r\n\r\nВы хотите начать загрузку и установку исправления (необходимо перезагрузить компьютер после установки)"
 		},
 		"KB2670838":{
 			"Title":"KB2670838",
-			"Message":"Detected that your Windows 7 system does not have KB2670838 patch installed!\r\nDo you want to start downloading and installing the patch (need to restart the computer after installation)"
+			"Message":"Обнаружено, что в вашей системе Windows 7 не установлен патч KB2670838!\r\nВы хотите начать загрузку и установку патча (необходимо перезагрузить компьютер после установки)"
 		},
 		"StatTracker":{
-			"Title":"Stat Tracker Broken",
-			"Message":"It is detected that the stat tracker cache log files are broken due to illegal shutdown or other reasons\r\nDo you want to fix the problem by deleting all stat tracker cache log files now?"
+			"Title":"Счетчик статистики сломан",
+			"Message":"Обнаружено, что файлы журнала кэша счетчика статистики повреждены из-за некорректного завершения работы или по другим причинам\r\nВы хотите решить проблему, удалив все файлы журнала кеша счетчика статистики сейчас?"
 		},
 		"GameDisplayMode":{
-			"Title":"Game display mode",
-			"Message":"Please do not use full screen mode！\r\n Please switch to windowed or windowed (Fullscreen) mode"
+			"Title":"Режим отображения игры",
+			"Message":"Пожалуйста, не используйте полноэкранный режим！\r\n Пожалуйста, переключитесь в оконный или оконный (полноэкранный) режим."
 		},
 		"LaunchTheGameFirst":{
-			"Title":"D3 was not launched",
-			"Message":"Please launch the game by windowed or windowed (full screen) frist!"
+			"Title":"D3 не запущен",
+			"Message":"Пожалуйста, запустите игру в оконном или оконном (полноэкранном) режиме!"
 		},
 		"PortOccupied":{
-			"Title":"Port occupied",
-			"Message":"It is detected that your 8081 port is occupied or Winsock exception causes the TurboMGR to not work. \r\nDo you want to try to fix Winsock?"
+			"Title":"Порт занят",
+			"Message":"Обнаружено, что ваш порт 8081 занят или исключение Winsock приводит к тому, что TurboMGR не работает. \r\nПопробовать исправить Winsock?"
 		},
 		"Exceptions":{
-			"Title":"Exceptions",
-			"Message":"Detected that TurboHUD contains problematic plugins, please check the exceptions log and feed back to community! \r\nDo you want to view the exceptions log?"
+			"Title":"Исключения",
+			"Message":"Обнаружено, что TurboHUD содержит проблемные плагины, пожалуйста, проверьте журнал исключений и сообщите в сообщество (форум)! \r\nВы хотите просмотреть журнал исключений (лог файл)?"
 		},
 		"UnsupportedClient":{
-			"Title":"Unsupported Client",
-			"Message":"You are running a 32-bit D3 client, please switch to 64-bit client!"
+			"Title":"Неподдерживаемый клиент",
+			"Message":"Вы используете 32-битный клиент D3, пожалуйста, переключитесь на 64-битный клиент!"
 		},
 		"InvalidHotkey":{
 			"Title":"",
-			"Message":"Invalid hotkey, please reset!"
+			"Message":"Неверная горячая клавиша, сбросьте настройки!"
 		},
 		"SceneRevealDefault":{
 			"Title":"",
-			"Message":"Do you want to restore the SceneReveal default values?"
+			"Message":"Вы хотите восстановить значения по умолчанию для SceneReveal?"
 		},
 		"BOSSSpeakOutOfTown":{
 			"Title":"",
-			"Message":"After the plugin is disabled, \"BOSS Speak Out Of Town\" will also be disabled.\r\n Are you sure you want to disable it?"
+			"Message":"После отключения плагина \" BOSS Speak Out Of Town \" также будет отключен.\r\n Вы действительно хотите отключить его?"
 		},
 		"BOSSSpeakOutOfTown2":{
 			"Title":"",
-			"Message":"The plugin needs to enable [Basics] [Rift info]"
+			"Message":"Плагину требуется [Basics] [Rift info]."
 		},
 		"ReloadPlugins":{
-			"Title":"Reload Plugins",
-			"Message":"TurboHUD is running, If you want the changes to take effect, stop it and then restart it."
+			"Title":"Перезагрузить плагины",
+			"Message":"TurboHUD запущен. Если вы хотите, чтобы изменения вступили в силу, остановите его, а затем перезапустите."
 		},
 		"Button_OK":"OK",
-		"Button_Cancel":"Cancel",
-		"Button_Yes":"Yes",
-		"Button_No":"No",
-		"Button_Again":"Again",
-		"Button_NextTime":"Next Time",
-		"Button_NoLonger":"No Longer",
-		"Button_AccessLink":"Access Link",
-		"Button_Hide":"Hide",
-		"Button_StopNow":"Stop Now",
-		"Button_StopLater":"Stop Later"
+		"Button_Cancel":"Отмена",
+		"Button_Yes":"Да",
+		"Button_No":"Нет",
+		"Button_Again":"Снова",
+		"Button_NextTime":"В следующий раз",
+		"Button_NoLonger":"Больше не",
+		"Button_AccessLink":"Ссылка для доступа",
+		"Button_Hide":"Скрыть",
+		"Button_StopNow":"Остановить сейчас",
+		"Button_StopLater":"Остановить позже"
 	},
 	"menu":{
-		"delete":"delete"
+		"delete":"удалить"
 	},
 	"Window":{
 		"Windows_Main":"TurboHUD.LightningMOD",
-		"Windows_Register":"Register",
-		"Windows_Login":"Login&Register",
-		"Windows_Colour":"Color plate",
-		"Windows_CooldownSoundPlayer":"Skill cooldown monitor(Only works on skills with CD)",
-		"Windows_BuffManager":"Party buff manager",
+		"Windows_Register":"Зарегистрироваться",
+		"Windows_Login":"Войти и зарегистрироваться",
+		"Windows_Colour":"Цветовая палитра",
+		"Windows_CooldownSoundPlayer":"Монитор отката умений(Работает только с умениями, имеющими кулдаун)",
+		"Windows_BuffManager":"Управление групповыми баффами",
 		"Windows_PlayerSkills":"Player skill circle and pets circle",
-		"Windows_PartyMembersSkillBar":"Party members skill bar",
-		"Windows_MainBuffBar":"Main Buff bar manager",
-		"Windows_ForgetUserName":"Forget User Name",
-		"Windows_ForgetAccount":"Forget User Name",
-		"Windows_LoginBattleNet":"Login Battle.Net",
-		"Windows_MyAccount":"My Account",
-		"Windows_UnbindMail":"Unbind Mail",
-		"Windows_BindEmail":"Bind Email",
-		"Windows_Profiles":"Profiles",
-		"Windows_InventoryLock":"Drag and drop the mouse to select the area for inventory lock",
-		"Windows_RunStats":"Run Stats",
-		"Windows_SpecialBounty":"Special bounty filter",
-		"Windows_ChatsMonitor":"Chats monitor",
-		"Windows_ShrineAndPool":"Shrine and pool",
-		"Windows_Goblin":"Goblin",
-		"Windows_MonstersCount":"Monsters count",
-		"Windows_DangerousMonster":"Dangerous monster",
-		"Windows_DangerousAffixMonster":"Dangerous affix monster",
-		"Windows_RunD3":"launch Diablo III 64bit client",
-		"Windows_InternalDownload":"Internal Downloader",
-		"Windows_SpecialMonster":"Special monster",
-		"Windows_EliteMonsterAffix":"Elite monster affix",
-		"Windows_MonsterPack":"Monster pack",
-		"Windows_DangerousSkill":"Dangerous skill",
-		"Windows_Обновлениеr":"TurboHUD Обновлениеr",
-		"Windows_Downloader":"TurboHUD Обновление Downloader"
+		"Windows_PartyMembersSkillBar":"Панель умений членов группы",
+		"Windows_MainBuffBar":"Панель управления основными баффами",
+		"Windows_ForgetUserName":"Забыть имя пользователя",
+		"Windows_ForgetAccount":"Забыть имя пользователя",
+		"Windows_LoginBattleNet":"Войти в Battle.Net",
+		"Windows_MyAccount":"Мой аккаунт",
+		"Windows_UnbindMail":"Отвязать почту",
+		"Windows_BindEmail":"Привязать почту",
+		"Windows_Profiles":"Профили",
+		"Windows_InventoryLock":"Перетащите указатель мыши, чтобы выбрать область для блокировки инвентаря",
+		"Windows_RunStats":"Статистика выполнения",
+		"Windows_SpecialBounty":"Специальный фильтр актовых вознаграждений",
+		"Windows_ChatsMonitor":"Монитор чатов",
+		"Windows_ShrineAndPool":"Шрайны и чаши",
+		"Windows_Goblin":"Гоблин",
+		"Windows_MonstersCount":"Счетчик монстров",
+		"Windows_DangerousMonster":"Опасный монстр",
+		"Windows_DangerousAffixMonster":"Опасный монстр с аффиксом",
+		"Windows_RunD3":"запустить 64-битный клиент Diablo II",
+		"Windows_InternalDownload":"Внутренний загрузчик",
+		"Windows_SpecialMonster":"Особый монстр",
+		"Windows_EliteMonsterAffix":"Аффикс элиты",
+		"Windows_MonsterPack":"Пак элиты",
+		"Windows_DangerousSkill":"Опасный навык",
+		"Windows_Обновлениеr":"Обновление TurboHUD",
+		"Windows_Downloader":"Загрузчик обновлений TurboHUD"
 	},
 	"GroupBox":{
 		"GroupBox_BasicSettings":{
