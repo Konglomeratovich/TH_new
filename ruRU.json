@@ -400,8 +400,8 @@
 			"Message":"Detected that your Windows 7 Aero is not enabled yet, This will cause the game window to be black! \r\nDo you want to enable Aero now and switch the corresponding theme to solve the problem?"
 		},
 		"EnableAero":{
-			"Title":"Choose an aero theme",
-			"Message":"Please select any one of the aero desktop themes to load.\r\nPlease restart TurboHUD after loading the Aero theme!"
+			"Title":"Выберите тему с Aero",
+			"Message":"Выберите  .\r\nPlease restart TurboHUD after loading the Aero theme!"
 		},
 		"SP1":{
 			"Title":"windows7 SP1",
