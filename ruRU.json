@@ -97,11 +97,11 @@
 		},
 		"ConfigFileLoadingFailed":{
 			"Title":"Ошибка",
-			"Message":"Ошибка загрузки файла конфигурации!  Попытаюсь восстановить конфигурацию по умолчанию!""
+			"Message":"Ошибка загрузки файла конфигурации!  Попытаюсь восстановить конфигурацию по умолчанию!"
 		},
 		"NTFS":{
 			"Title":"NTFS",
-			"Message":"Обнаружено, что раздел, на котором располагаюся плагины не в формате NTFS. Невозможно использовать \" TurboMGR \ ". "Вы хотите преобразовать его в формат NTFS?"
+			"Message":"Раздел на котором располагаюся плагины не в формате NTFS. Невозможно использовать \"TurboMGR \". Вы хотите преобразовать его в формат NTFS?"
 		},
 		"AntiVirusSoftware":{
 			"Title":"Антивирусное ПО",
@@ -213,11 +213,11 @@
 		},
 		"EmailCaptchaCode":{
 			"Title":"Код безопасности",
-			"Message":"Пожалуйста, отправьте сначала код безопасности, затем проверьте код безопасности в своем почтовом ящике и введите его здесь.\r\nЕсли вы не нашли код безопасности в почтовом ящике - проверьте папку "Спам"."
+			"Message":"Пожалуйста, отправьте сначала код безопасности, затем проверьте код безопасности в своем почтовом ящике и введите его здесь.\r\nЕсли вы не нашли код безопасности в почтовом ящике - проверьте папку Спам."
 		},
 		"EmailCaptchaCodeSent":{
 			"Title":"Код безопасности",
-			"Message":"Мы отправили код безопасности на вашу электронную почту [{0}], Введите код безопасности здесь.\r\nЕсли вы не нашли код безопасности в почтовом ящике - проверьте папку "Спам"."
+			"Message":"Мы отправили код безопасности на вашу электронную почту [{0}], Введите код безопасности здесь.\r\nЕсли вы не нашли код безопасности в почтовом ящике - проверьте папку Спам."
 		},
 		"EmailSent":{
 			"Title":"Email отправлен",
@@ -349,7 +349,7 @@
 		},
 		"DownloadProfiles":{
 			"Title":"",
-			"Message":"Вы действительно хотите загрузить файл профилей {0} с сервера? »\ R \ nПосле успешной загрузки локальный файл профилей будет обновлен!"
+			"Message":"Вы действительно хотите загрузить файл профилей {0} с сервера?”\r\nПосле успешной загрузки локальный файл профилей будет обновлен!"
 		},
 		"ProfilesFileBroken":{
 			"Title":"Ошибка",
@@ -381,31 +381,31 @@
 		},
 		"GameVersion":{
 			"Title":"",
-			"Message":"Версия вашей игры: {0} ， Версия игры, поддерживаемая TurboHUD: {1} \ r \ nTurboHUD может не работать. Вы хотите продолжить?"
+			"Message":"Версия вашей игры: {0} ， Версия игры, поддерживаемая TurboHUD: {1} \r\nTurboHUD может не работать. Вы хотите продолжить?"
 		},
 		"NetFramework":{
 			"Title":"",
-			"Message":"Обнаружено, что в вашей системе не установлен Microsoft .NET Framework V {0}, \ r \ nПопробовать его загрузить?"
+			"Message":"Обнаружено, что в вашей системе не установлен Microsoft .NET Framework V {0}, \r\nПопробовать его загрузить?"
 		},
 		"OBS":{
 			"Title":"Aero",
-			"Message":"Было обнаружено, что вы используете obs. Если не удается включить Aero, окно игры будет черным. \ R \ nПожалуйста, не отключайте Aero в настройках OBS."
+			"Message":"Было обнаружено, что вы используете obs. Если не удается включить Aero, окно игры будет черным. \r\nПожалуйста, не отключайте Aero в настройках OBS."
 		},
 		"Win7Home":{
 			"Title":"Aero",
-			"Message":"Обнаружено, что ваша система Windows 7 является домашней версией, \ r \ nВы хотите начать загрузку специального инструмента для включения Aero"
+			"Message":"Обнаружено, что ваша система Windows 7 является домашней версией, \r\nВы хотите начать загрузку специального инструмента для включения Aero"
 		},
 		"Aero":{
 			"Title":"Aero",
-			"Message":"Обнаружено, что ваша Windows 7 Aero еще не включена, это приведет к тому, что окно игры станет черным! \ r \ nВы хотите включить Aero сейчас и переключить соответствующую тему, чтобы решить проблему? "
+			"Message":"Обнаружено, что ваша Windows 7 Aero еще не включена, это приведет к тому, что окно игры станет черным! \r\nВы хотите включить Aero сейчас и переключить соответствующую тему, чтобы решить проблему? "
 		},
 		"EnableAero":{
 			"Title":"Выберите тему с Aero",
-			"Message":"Выберите любую тему с Aero для загрузки. .\r\nПожалуйста, перезапустите TurboHUD после загрузки темы Aero!"
+			"Message":"Выберите любую тему с Aero для загрузки.\r\nПожалуйста, перезапустите TurboHUD после загрузки темы Aero!"
 		},
 		"SP1":{
 			"Title":"windows7 SP1",
-			"Message":"Обнаружено, что в вашей системе Windows 7 не установлен ServicePack1!\r\n\r\nВы хотите начать загрузку и установку исправления (необходимо перезагрузить компьютер после установки)"
+			"Message":"Обнаружено, что в вашей системе Windows 7 не установлен ServicePack1!\r\nВы хотите начать загрузку и установку исправления (необходимо перезагрузить компьютер после установки)"
 		},
 		"KB2670838":{
 			"Title":"KB2670838",
@@ -507,21 +507,21 @@
 	},
 	"GroupBox":{
 		"GroupBox_BasicSettings":{
-			"text":"Basic Settings",
+			"text":"Основные настройки",
 			"left":12,
 			"top":38,
 			"width":795,
 			"height":113
 		},
 		"GroupBox_Hotkeys":{
-			"text":"Hotkeys",
+			"text":"Горячие клавиши",
 			"left":12,
 			"top":159,
 			"width":795,
 			"height":299
 		},
 		"GroupBox_OtherUI":{
-			"text":"Other UI ",
+			"text":"Другой UI ",
 			"left":12,
 			"top":486,
 			"width":795,
@@ -540,7 +540,7 @@
 			"height":90
 		},
 		"GroupBox_Rift":{
-			"text":"Rift",
+			"text":"Нефалемка",
 			"left":12,
 			"top":210,
 			"width":795,
@@ -553,7 +553,7 @@
 			"height":60
 		},
 		"GroupBox_SceneReveal":{
-			"text":"Scene Reveal",
+			"text":"Открытие сцены",
 			"left":12,
 			"top":38,
 			"width":795,
@@ -829,7 +829,7 @@
 			"height":72
 		},
 		"GroupBox_MonsterRiftProgression":{
-			"text":"Монстровый прогресс портала",
+			"text":"Прогресс портала",
 			"left":12,
 			"top":108,
 			"width":795,
@@ -879,7 +879,7 @@
 			"height":32
 		},
 		"CheckBox_ParagonCapture":{
-			"text":"Захват парагона \ r \ n Сохраняется в папке capture_paragon",
+			"text":"Захват парагона \r\n Сохраняется в папке capture_paragon",
 			"left":580,
 			"top":26,
 			"width":232,
@@ -900,7 +900,7 @@
 			"height":32
 		},
 		"CheckBox_Login_KeepLoggedIn":{
-			"text":"Keep logged in",
+			"text":"Запомнить учетную запись",
 			"left":225,
 			"top":192,
 			"width":110,
@@ -914,42 +914,42 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_StoryModeTimer":{
-			"text":"Story mode timer",
+			"text":"Таймер режима компании",
 			"left":211,
 			"top":218,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_OtherUI_MapName":{
-			"text":"GR map name",
+			"text":"Название локации",
 			"left":406,
 			"top":218,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_OtherUI_DifficultiesInfo":{
-			"text":"Difficulties info",
+			"text":"Информация о трудностях",
 			"left":16,
 			"top":184,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_OtherUI_UberRealmMarker":{
-			"text":"UberRealm marker",
+			"text":"Маркеры убер порталов",
 			"left":211,
 			"top":184,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_OtherUI_NecDeadBody":{
-			"text":"Nec dead body count",
+			"text":"Число трупов для некроманта",
 			"left":406,
 			"top":184,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_OtherUI_PlayerShield":{
-			"text":"Shield on health ball",
+			"text":"Щит",
 			"left":603,
 			"top":184,
 			"width":180,
@@ -962,28 +962,28 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_UiHiddenPlayerSkillBar":{
-			"text":"UI hidden player skill bar",
+			"text":"Скрытая панель навыков игрока пользовательского интерфейса",
 			"left":211,
 			"top":144,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_OtherUI_OriginalHealthPotionSkill":{
-			"text":"Health potion countdown",
+			"text":"Зелье восполнения здоровья восстанавливается",
 			"left":406,
 			"top":144,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_OtherUI_TopExperienceStatistics":{
-			"text":"Top experience statistics",
+			"text":"Статистика опыта
 			"left":603,
 			"top":144,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_OtherUI_AttributeLabelList":{
-			"text":"AttributeLabel list",
+			"text":"Список меток атрибутов",
 			"left":16,
 			"top":103,
 			"width":180,
@@ -1011,14 +1011,14 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_InventoryFreeSpace":{
-			"text":"Inventory free space",
+			"text":"Свободное место в инвентаре",
 			"left":603,
 			"top":103,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_OtherUI_GameInfo":{
-			"text":"Game IP&time",
+			"text":"Игровой сервер и время",
 			"left":211,
 			"top":64,
 			"width":180,
@@ -1032,14 +1032,14 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_NetworkLatency":{
-			"text":"Network latency",
+			"text":"Сетевая задержка",
 			"left":603,
 			"top":64,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_OtherUI_DamageBonus":{
-			"text":"Damage bonus",
+			"text":"Бонусы урона",
 			"left":16,
 			"top":64,
 			"width":180,
@@ -1066,49 +1066,49 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_TopMonsterHealthBar":{
-			"text":"Top monster health bar",
+			"text":"Полоска здоровья монстров сверху",
 			"left":16,
 			"top":26,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_MonsterDensityAroundCursor_Enabled":{
-			"text":"Monster density around cursor",
+			"text":"Плотность монстров вокруг курсора",
 			"left":16,
 			"top":-8,
 			"width":250,
 			"height":32
 		},
 		"CheckBox_MonsterDensityAroundCursor_DrawCursorLabel":{
-			"text":"Draw monsters count",
+			"text":"Рисовать количество монстров",
 			"left":284,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_MonsterDensityAroundCursor_DrawCursorLine":{
-			"text":"Draw line&distance",
+			"text":"Рисование линии и расстояния",
 			"left":472,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_MonsterDensityAroundCursor_DrawCursorCircle":{
-			"text":"Draw cursor circle within          yards",
+			"text":"Рисовать круг вокруг курсора          yards",
 			"left":16,
 			"top":20,
 			"width":270,
 			"height":32
 		},
 		"CheckBox_Portraits_PortraitBottomStats":{
-			"text":"Party DPS",
+			"text":"Групповой урон",
 			"left":16,
 			"top":50,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_Portraits_PlayerResurrectionTimer":{
-			"text":"Resurrection timer",
+			"text":"Таймер воскрешения",
 			"left":115,
 			"top":50,
 			"width":130,
@@ -1129,7 +1129,7 @@
 			"height":32
 		},
 		"CheckBox_Portraits_JewelUpgradesBonus":{
-			"text":"Jewel upgrades bonus",
+			"text":"Бонус улучшений камней",
 			"left":490,
 			"top":50,
 			"width":150,
@@ -1142,28 +1142,28 @@
 			"height":32
 		},
 		"CheckBox_Portraits_Enabled":{
-			"text":"Portraits",
+			"text":"Портреты",
 			"left":16,
 			"top":-8,
 			"width":170,
 			"height":32
 		},
 		"CheckBox_Portraits_NemesisBracers":{
-			"text":"Nemesis bracers",
+			"text":"Наручи возмездия",
 			"left":490,
 			"top":20,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_Portraits_Info":{
-			"text":"Player location&info",
+			"text":"Расположение игрока и информация",
 			"left":643,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Portraits_RunDPS":{
-			"text":"Run DPS",
+			"text":"УВС забега",
 			"left":115,
 			"top":20,
 			"width":120,
@@ -1177,35 +1177,35 @@
 			"height":32
 		},
 		"CheckBox_Portraits_TotalDMG":{
-			"text":"Total DMG",
+			"text":"Общий урон",
 			"left":250,
 			"top":20,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_Portraits_RealDPS":{
-			"text":"Real DPS",
+			"text":"Реальный УВС",
 			"left":16,
 			"top":20,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_Rift_RiftInfo":{
-			"text":"Rift info",
+			"text":"Информация потртала",
 			"left":211,
 			"top":50,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Rift_GRProgressBarRuler":{
-			"text":"GR progress bar ruler",
+			"text":"Индикатор прогресса ВП",
 			"left":406,
 			"top":50,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Rift_GRProgressionToTime":{
-			"text":"GR progression to time",
+			"text":"Прогесс ВП по времени",
 			"left":603,
 			"top":50,
 			"width":180,
@@ -1219,98 +1219,98 @@
 			"height":32
 		},
 		"CheckBox_Rift_GreaterRiftPercent":{
-			"text":"Greater rift percent",
+			"text":"Процент прогрессии ВП",
 			"left":211,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Rift_GreaterRiftPylonMarker":{
-			"text":"Pylon marker",
+			"text":"Маркер пилонов",
 			"left":603,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Rift_GreaterRiftTimer":{
-			"text":"Greater rift timer",
+			"text":"Таймер великого портала",
 			"left":406,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Rift_NephalemRiftPercent":{
-			"text":"Nephalem rift percent",
+			"text":"Прогресс нефалемского портала",
 			"left":16,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Personal_OnlyOutTown":{
-			"text":"Only out town",
+			"text":"Только вне города",
 			"left":636,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Personal_Enabled":{
-			"text":"Personal",
+			"text":"Персональное",
 			"left":16,
 			"top":-8,
 			"width":170,
 			"height":32
 		},
 		"CheckBox_Personal_Res":{
-			"text":"Resources",
+			"text":"Ресурсы",
 			"left":171,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Personal_SkillImageFade":{
-			"text":"Skill image fade",
+			"text":"Изображение навыка исчезает",
 			"left":481,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Personal_Cooldown":{
-			"text":"Cooldown",
+			"text":"Время восстановления",
 			"left":326,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Personal_Health":{
-			"text":"Health",
+			"text":"Здоровье",
 			"left":16,
 			"top":20,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_SceneReveal_MinimapEnabled":{
-			"text":"Minimap  Opacity:",
+			"text":"Мини-карта  непрозрачность:",
 			"left":16,
 			"top":50,
 			"width":170,
 			"height":32
 		},
 		"CheckBox_SceneReveal_MinimapClip":{
-			"text":"Minimap clip(CapLock)",
+			"text":"Показ миникарты(CapLock)",
 			"left":302,
 			"top":50,
 			"width":174,
 			"height":32
 		},
 		"CheckBox_SceneReveal_DisplaySceneBorder":{
-			"text":"Display scene border",
+			"text":"Показать границу сцены",
 			"left":302,
 			"top":20,
 			"width":188,
 			"height":32
 		},
 		"CheckBox_SceneReveal_MapEnabled":{
-			"text":"Map        Opacity:",
+			"text":"Карта        непрозрачность:",
 			"left":16,
 			"top":20,
 			"width":170,
@@ -1352,28 +1352,28 @@
 			"height":32
 		},
 		"CheckBox_PopularTeam_Nec_Aoe_Oculus":{
-			"text":"Auto move to Oculus",
+			"text":"Авто перемещение в кольцо силы",
 			"left":310,
 			"top":240,
 			"width":210,
 			"height":32
 		},
 		"CheckBox_PopularTeam_Nec_Aoe_Cursor":{
-			"text":"Cursor highlight",
+			"text":"Подсветка курсора",
 			"left":460,
 			"top":240,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_PopularTeam_Nec_Aoe":{
-			"text":"Necromancer auto fight in the progress phase",
+			"text":"Некромант авто бороться в фазе прогресса",
 			"left":24,
 			"top":240,
 			"width":275,
 			"height":32
 		},
 		"CheckBox_PopularTeam_Crusader_BOSS":{
-			"text":"Crusader auto fight in boss phase",
+			"text":"Крестоносец авто бой во время фазы босса",
 			"left":240,
 			"top":208,
 			"width":250,
@@ -1387,14 +1387,14 @@
 			"height":32
 		},
 		"CheckBox_PopularTeam_SupportDH":{
-			"text":"Support DemonHunter",
+			"text":"Суппорт Охотник на демонов",
 			"left":24,
 			"top":176,
 			"width":219,
 			"height":32
 		},
 		"CheckBox_PopularTeam_SupportBarbarian_BOSS":{
-			"text":"Support Barbarian auto fight in boss phase",
+			"text":"Авто бой варвара суппорта во время битвы с боссом",
 			"left":270,
 			"top":112,
 			"width":250,
@@ -1436,7 +1436,7 @@
 			"height":32
 		},
 		"CheckBox_Lightning_OpenChest_DeadBody":{
-			"text":"Dead body",
+			"text":"Труп",
 			"left":380,
 			"top":21,
 			"width":91,
@@ -1471,14 +1471,14 @@
 			"height":32
 		},
 		"CheckBox_Lightning_CloseQuestDialog":{
-			"text":"Auto close quest dialog:Event,Quest,Rift Reward(Must be set <Close All Open Windows> key)",
+			"text":"Авто завершение заданий",
 			"left":177,
 			"top":298,
 			"width":597,
 			"height":32
 		},
 		"CheckBox_Lightning_CloseDialog":{
-			"text":"Auto close story dialog:Skip all story dialog(Must be set <Close All Open Windows> key)",
+			"text":"Авто закрытие диалогов в компании",
 			"left":177,
 			"top":261,
 			"width":597,
@@ -1506,42 +1506,42 @@
 			"height":32
 		},
 		"CheckBox_Lightning_ThrowItem_Yellow":{
-			"text":"Yellow",
+			"text":"Желтый",
 			"left":501,
 			"top":21,
 			"width":130,
 			"height":32
 		},
 		"CheckBox_Lightning_ThrowItem_Blue":{
-			"text":"Blue",
+			"text":"Синий",
 			"left":405,
 			"top":21,
 			"width":130,
 			"height":32
 		},
 		"CheckBox_Lightning_ThrowItem_White":{
-			"text":"White",
+			"text":"Белый",
 			"left":308,
 			"top":21,
 			"width":130,
 			"height":32
 		},
 		"CheckBox_Lightning_ThrowItem_Primal":{
-			"text":"Primal",
+			"text":"Первозданный",
 			"left":211,
 			"top":21,
 			"width":130,
 			"height":32
 		},
 		"CheckBox_Lightning_ThrowItem_Ancient":{
-			"text":"Ancient",
+			"text":"Древний",
 			"left":114,
 			"top":21,
 			"width":130,
 			"height":32
 		},
 		"CheckBox_Lightning_ThrowItem_Legend":{
-			"text":"Legendary",
+			"text":"Легендарный",
 			"left":17,
 			"top":21,
 			"width":130,
@@ -1569,7 +1569,7 @@
 			"height":32
 		},
 		"CheckBox_Lightning_AutoPickUp_AutoPickupOutTown":{
-			"text":"Auto pickup out town",
+			"text":"Автоматический подбор вне города",
 			"left":17,
 			"top":49,
 			"width":140,
@@ -1583,7 +1583,7 @@
 			"height":32
 		},
 		"CheckBox_Lightning_AutoPickUp_Gem":{
-			"text":"Gems",
+			"text":"Камни",
 			"left":349,
 			"top":21,
 			"width":80,
@@ -7575,7 +7575,7 @@
 			"height":32
 		},
 		"Label_MonstersCount_Hotkey":{
-			"text":"Hotkey:",
+			"text":"Хоткей:",
 			"left":216,
 			"top":40,
 			"width":50,
@@ -7589,7 +7589,7 @@
 			"height":48
 		},
 		"Label_DangerousAffixMonster_Tips":{
-			"text":"Elites with checked affixes will be shown in red on the minimap",
+			"text":"Элитные монстры с отмеченными аффиксами будут отображаться на миникарте красным цветом.",
 			"HorizontalCenter":1,
 			"top":513,
 			"width":255,
@@ -7603,56 +7603,56 @@
 			"height":254
 		},
 		"Label_RunD3_3step_Tips":{
-			"text":"Please enter the account password manually when the \r\ncomputer starts up. When entering, the password is hidden.",
+			"text":"Пожалуйста, введите пароль учетной записи вручную, при \r\nзапуске компьютера. При вводе пароль скрыт.",
 			"left":9,
 			"top":77,
 			"width":352,
 			"height":48
 		},
 		"Label_RunD3_2step_SystemPassword":{
-			"text":"Password",
+			"text":"Пароль",
 			"left":9,
 			"top":64,
 			"width":71,
 			"height":24
 		},
 		"Label_RunD3_2step_SystemUserName":{
-			"text":"Username",
+			"text":"Имя пользователя",
 			"left":9,
 			"top":32,
 			"width":71,
 			"height":24
 		},
 		"Label_RunD3_2step_Tips":{
-			"text":"It only needs to be created once\r\nThe default settings are recommended",
+			"text":"Его нужно создать только один раз\r\nРекомендуются настройки по умолчанию",
 			"left":9,
 			"top":90,
 			"width":350,
 			"height":47
 		},
 		"Label_RunD3_FirstWay_Tips":{
-			"text":"1.Click on the upper left corner of battle. Net to select \"Settings\"\r\n2.Click\"Game  Settings\"\r\n3.select \"Diablo III\"\r\n4.Do not check\"Launch 32-bit client (instead of 64-bit)\"\r\n5.Go back to Battle.Net to launch the game",
+			"text":"1.Кликните в левый верхний угол Battle.Net чтобы выбрать \"Настройки\"\r\n2.Кликните\"Настройки игры\"\r\n3.выберите \"Diablo III\"\r\n4.Не проверять\"Запущен ли 32-битный клиент (вместо 64-битного)\"\r\n5.Назат в Battle.Net для запуска игры",
 			"left":9,
 			"top":28,
 			"width":366,
 			"height":89
 		},
 		"Label_RunD3_Parameter":{
-			"text":"Parameter:",
+			"text":"Аргументы:",
 			"left":9,
 			"top":64,
 			"width":71,
 			"height":24
 		},
 		"Label_RunD3_Path":{
-			"text":"Game path:",
+			"text":"Путь к игре:",
 			"left":9,
 			"top":32,
 			"width":71,
 			"height":24
 		},
 		"Label_RunD3_1step_Tips":{
-			"text":"If you don't know what this is, please keep the default setting, which is mainly used forced choice of global service region",
+			"text":"Если вы не знаете, что это такое, оставьте настройку по умолчанию, которая в основном используется для принудительного выбора глобального региона обслуживания.",
 			"left":9,
 			"top":100,
 			"width":366,
@@ -7665,49 +7665,49 @@
 			"height":24
 		},
 		"Label_InternalDownload_Tips":{
-			"text":"If the downloader fails, you can try manually",
+			"text":"Если загрузчик не работает, вы можете попробовать вручную",
 			"HorizontalCenter":1,
 			"top":121,
 			"width":294,
 			"height":48
 		},
 		"Label_SpecialMonster_Tips":{
-			"text":"Only need to match one of Name Localized and Name English, The default is Chinese only",
+			"text":"Требуется только соответствие одному из локализованных имен и английского языка, по умолчанию используется только китайский язык.",
 			"left":8,
 			"top":291,
 			"width":624,
 			"height":48
 		},
 		"Label_EliteMonsterAffix_Tips":{
-			"text":"If the elite contains the checked affix, it will be displayed on the elite. \r\nThis plugin should not be enabled at the same time as the Monster Pack",
+			"text":"Если в элите есть отмеченный аффикс, он будет отображаться в элите. \r\nЭтот плагин не следует включать одновременно с Monster Pack",
 			"HorizontalCenter":1,
 			"top":573,
 			"width":464,
 			"height":48
 		},
 		"Label_MonsterPack_Tips":{
-			"text":"If the elite pack contains the checked affix, it will be displayed on the elite leader. \r\nThis plugin should not be enabled at the same time as the Elite Monster Affix",
+			"text":"Если в элитном паке есть отмеченный аффикс, он будет отображаться на лидере элиты. \r\nЭтот плагин не следует включать одновременно с аффиксом Elite Monster.",
 			"HorizontalCenter":1,
 			"top":528,
 			"width":464,
 			"height":48
 		},
 		"Label_DangerousSkills_ShockTower":{
-			"text":"Shock Tower (A5 Pandemonium Fortress)",
+			"text":"Шоковая башня (A5 Pandemonium Fortress)",
 			"left":16,
 			"top":496,
 			"width":250,
 			"height":32
 		},
 		"Label_DangerousSkills_ExplosiveMonster":{
-			"text":"Explosive Monster(Grotesque,Accursed)",
+			"text":"Взрывной монстр(Grotesque,Accursed)",
 			"left":16,
 			"top":462,
 			"width":250,
 			"height":32
 		},
 		"Label_DangerousSkills_BogBearTrap":{
-			"text":"BogBearTrap (Bogan trapper)",
+			"text":"Капкан (Bogan trapper)",
 			"left":16,
 			"top":432,
 			"width":200,
@@ -7735,28 +7735,28 @@
 			"height":32
 		},
 		"Label_DangerousSkills_Meteor":{
-			"text":"Meteor (Ember,Morlu Incinerator)",
+			"text":"Метеор (Ember,Morlu Incinerator)",
 			"left":16,
 			"top":304,
 			"width":200,
 			"height":32
 		},
 		"Label_DangerousSkills_FallingRocks":{
-			"text":"Falling Rocks (Zoltun Kulle,Perendi)",
+			"text":"Падающие камни (Zoltun Kulle,Perendi)",
 			"left":16,
 			"top":272,
 			"width":200,
 			"height":32
 		},
 		"Label_DangerousSkills_RatSwarm":{
-			"text":"Rat Swarm (Hamelin)",
+			"text":"Стая крыс (Hamelin)",
 			"left":16,
 			"top":240,
 			"width":200,
 			"height":32
 		},
 		"Label_DangerousSkills_SandmonsterTurret":{
-			"text":"Turret (Sandmonster)",
+			"text":"Турель (Sandmonster)",
 			"left":16,
 			"top":208,
 			"width":200,
@@ -7770,35 +7770,35 @@
 			"height":32
 		},
 		"Label_DangerousSkills_FirePentagram":{
-			"text":"Fire Pentagram (Man Carver,Agnidox)",
+			"text":"Огненная пентаграмма (Man Carver,Agnidox)",
 			"left":16,
 			"top":144,
 			"width":250,
 			"height":32
 		},
 		"Label_DangerousSkills_SlowTime":{
-			"text":"Slow Time (Zoltun Kulle)",
+			"text":"Замедление времени (Zoltun Kulle)",
 			"left":16,
 			"top":115,
 			"width":200,
 			"height":32
 		},
 		"Label_DangerousSkills_Ghom":{
-			"text":"Fart Cloud (Ghom)",
+			"text":"Ядовитое облако (Ghom)",
 			"left":16,
 			"top":56,
 			"width":200,
 			"height":32
 		},
 		"Label_DangerousSkills_Tornado":{
-			"text":"Tornado (Zoltun Kulle,Saxtris)",
+			"text":"Торнадо (Zoltun Kulle,Saxtris)",
 			"left":16,
 			"top":86,
 			"width":200,
 			"height":32
 		},
 		"Label_DangerousSkills_Timer":{
-			"text":"Timer",
+			"text":"Таймер",
 			"left":313,
 			"top":24,
 			"width":48,
@@ -7840,7 +7840,7 @@
 			"height":32
 		},
 		"Label_GeneralEvents_Hotkey_PoolsBanditsList":{
-			"text":"Show\/Hide Hotkey:",
+			"text":"Показать\/Скрыть хоткей:",
 			"left":488,
 			"top":164,
 			"width":122,
@@ -7861,7 +7861,7 @@
 			"height":32
 		},
 		"Label_MonsterDensity_Ping":{
-			"text":"Ping:",
+			"text":"Пинг:",
 			"left":548,
 			"top":50,
 			"width":74,
