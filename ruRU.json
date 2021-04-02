@@ -3101,7 +3101,7 @@
 			"height":24
 		},
 		"CheckBox_Goblin_Blood":{
-			"text":"Blood Thief",
+			"text":"Кровавый вор",
 			"left":14,
 			"top":211,
 			"width":150,
@@ -6413,14 +6413,14 @@
 			"height":24
 		},
 		"Button_InternalDownload_Manual":{
-			"text":"Manual",
+			"text":"Руководство по эксплуатации",
 			"left":275,
 			"top":73,
 			"width":87,
 			"height":32
 		},
 		"Button_InternalDownload_Auto":{
-			"text":"Download",
+			"text":"Скачать",
 			"left":137,
 			"top":73,
 			"width":87,
@@ -6532,7 +6532,7 @@
 			"height":32
 		},
 		"Button_PlayerSkills":{
-			"text":"Player Skills",
+			"text":"Умения игрока",
 			"left":400,
 			"top":200,
 			"width":158,
@@ -6546,35 +6546,35 @@
 			"height":32
 		},
 		"Button_Updater_Manual":{
-			"text":"Manual",
+			"text":"Руководство по эксплуатации",
 			"left":281,
 			"top":83,
 			"width":87,
 			"height":32
 		},
 		"Button_Updater_Auto":{
-			"text":"Download",
+			"text":"Скачать",
 			"left":142,
 			"top":83,
 			"width":87,
 			"height":32
 		},
 		"Button_Downloader_Auto":{
-			"text":"Update checked files",
+			"text":"Обновить проверенные файлы",
 			"left":184,
 			"top":345,
 			"width":170,
 			"height":32
 		},
 		"Button_Downloader_Manual":{
-			"text":"Manual",
+			"text":"Руководство по эксплуатации",
 			"left":358,
 			"top":345,
 			"width":87,
 			"height":32
 		},
 		"Button_Lightning_OpenGreatRift_Map":{
-			"text":"Map type",
+			"text":"Тип карты",
 			"left":374,
 			"top":19,
 			"width":100,
@@ -6590,14 +6590,14 @@
 			"height":24
 		},
 		"Label_StatTracker":{
-			"text":"Stat tracker:",
+			"text":"Стат-трекер:",
 			"left":18,
 			"top":65,
 			"width":250,
 			"height":24
 		},
 		"Label_BountyTable":{
-			"text":"Bounty table:",
+			"text":"Таблица вознаграждений:",
 			"left":18,
 			"top":97,
 			"width":250,
@@ -6618,14 +6618,14 @@
 			"height":24
 		},
 		"Label_SaveDebugData":{
-			"text":"Save debug data(saved in logs folder):",
+			"text":"Сохранить данные отладки (сохраненные в папке журналов):",
 			"left":18,
 			"top":193,
 			"width":250,
 			"height":24
 		},
 		"Label_Capture":{
-			"text":"Capture(saved in capture folder):",
+			"text":"Захват экрана (снимок) (сохраняется в папке захвата):",
 			"left":18,
 			"top":225,
 			"width":250,
@@ -6639,14 +6639,14 @@
 			"height":24
 		},
 		"Label_Register_LicenceTips":{
-			"text":"You must use a new license to create a new account",
+			"text":"Вы должны использовать новую лицензию, чтобы создать новую учетную запись ",
 			"HorizontalCenter":1,
 			"top":378,
 			"width":432,
 			"height":24
 		},
 		"Label_Register_UserName":{
-			"text":"User name:",
+			"text":"Имя пользователя:",
 			"left":8,
 			"top":84,
 			"width":90,
@@ -6660,35 +6660,35 @@
 			"height":24
 		},
 		"Label_Register_ConfirmPassword":{
-			"text":"Confirm password:",
+			"text":"Подтвердите пароль:",
 			"left":8,
 			"top":158,
 			"width":90,
 			"height":24
 		},
 		"Label_Register_SuperPassword":{
-			"text":"Super password:",
+			"text":"Супер пароль(мастер пароль):",
 			"left":8,
 			"top":195,
 			"width":90,
 			"height":24
 		},
 		"Label_Register_EmailTips":{
-			"text":"You can retrieve the account information by email",
+			"text":"Вы можете получить информацию об учетной записи по электронной почте",
 			"HorizontalCenter":1,
 			"top":228,
 			"width":432,
 			"height":24
 		},
 		"Label_Register_Email":{
-			"text":"Binding email:",
+			"text":"Привязать email:",
 			"left":8,
 			"top":255,
 			"width":90,
 			"height":24
 		},
 		"Label_Register_EmailCaptchaCode":{
-			"text":"Security code:",
+			"text":"Код безопасности:",
 			"left":8,
 			"top":283,
 			"width":90,
@@ -6716,14 +6716,14 @@
 			"height":24
 		},
 		"Label_Register_BuyLicence":{
-			"text":"Buy licence",
+			"text":"Купить лицензию",
 			"left":365,
 			"top":405,
 			"width":64,
 			"height":24
 		},
 		"Label_ResetBattleTag_UserName":{
-			"text":"User name:",
+			"text":"Имя пользователя:",
 			"left":8,
 			"top":66,
 			"width":80,
@@ -6744,35 +6744,35 @@
 			"height":24
 		},
 		"Label_ResetPassword_NewPassword":{
-			"text":"New password:",
+			"text":"Новый пароль:",
 			"left":7,
 			"top":159,
 			"width":80,
 			"height":24
 		},
 		"Label_ResetPassword_UserName":{
-			"text":"User name:",
+			"text":"Имя пользователя:",
 			"left":8,
 			"top":61,
 			"width":80,
 			"height":24
 		},
 		"Label_ResetPassword_SuperPassword":{
-			"text":"Super password:",
+			"text":"Супер пароль(мастер пароль):",
 			"left":7,
 			"top":122,
 			"width":80,
 			"height":24
 		},
 		"Label_Renew_BuyLicence":{
-			"text":"Buy licence",
+			"text":"Купить лицензию",
 			"left":280,
 			"top":157,
 			"width":64,
 			"height":24
 		},
 		"Label_Renew_UserName":{
-			"text":"User name:",
+			"text":"Имя пользователя:",
 			"left":8,
 			"top":75,
 			"width":70,
@@ -6786,21 +6786,21 @@
 			"height":24
 		},
 		"Label_Login_ForgetAccount":{
-			"text":"Forget Password",
+			"text":"Забыть пароль",
 			"left":368,
 			"top":126,
 			"width":64,
 			"height":24
 		},
 		"Label_Login_ForgetUserName":{
-			"text":"Forget UserName",
+			"text":"Забыть Имя пользователя",
 			"left":368,
 			"top":82,
 			"width":64,
 			"height":24
 		},
 		"Label_Login_FirstUseTips":{
-			"text":"Register your account first",
+			"text":"Сначала зарегистрируйте свою учетную запись",
 			"HorizontalCenter":1,
 			"top":55,
 			"width":192,
@@ -6814,7 +6814,7 @@
 			"height":24
 		},
 		"Label_Login_UserName":{
-			"text":"User name:",
+			"text":"Имя пользователя:",
 			"left":8,
 			"top":82,
 			"width":70,
@@ -6854,14 +6854,14 @@
 			"height":32
 		},
 		"Label_Lightning_WitchDoctorTeam_Tips":{
-			"text":"Move the cursor to the bottom left corner of the game to see the details when the plugin is enabled \r\nThis plugin support speak, Spirit Barrage and Soul Harvest,\r\nPlease disable other similar speak  functions to avoid conflicts",
+			"text":"Переместите курсор в нижний левый угол игры, чтобы увидеть подробности, когда плагин включен\r\nЭтот плагин поддерживает голосовые команды, Spirit Barrage and Soul Harvest,\r\nПожалуйста, отключите другие похожие функции речи, чтобы избежать конфликтов",
 			"left":3,
 			"top":96,
 			"width":630,
 			"height":72
 		},
 		"Label_PopularTeam_SupportBarbarian_BOSS_TimeGroundStomp":{
-			"text":"Cast Ground Stomp when elemental fire for        s",
+			"text":"Используйте Топот, когда стихия огня на        с.",
 			"left":520,
 			"top":105,
 			"width":120,
@@ -6875,14 +6875,14 @@
 			"height":32
 		},
 		"Label_Lightning_Hotkey_PopularTeam_SupportBarbarian_BOSS":{
-			"text":"interrupt boss skills:",
+			"text":"прервать навыки босса:",
 			"left":270,
 			"top":144,
 			"width":120,
 			"height":32
 		},
 		"Label_Lightning_Hotkey_PopularTeam_SupportDH":{
-			"text":"Auto Multishot and Entangling Shot:",
+			"text":"Автоматический мультишот и запутывающий выстрел:",
 			"left":210,
 			"top":176,
 			"width":155,
@@ -6896,14 +6896,14 @@
 			"height":32
 		},
 		"Label_Lightning_PopularTeam_Tips":{
-			"text":"The macros in this page are customized and optimized for the popular team build of leaderboards.\r\nDo not use with hero class macro  to avoid mutual interference",
+			"text":"Макросы на этой странице настроены и оптимизированы для популярного командного построения списков лидеров.\r\nНе использовать с героем классовый макрос  чтобы избежать взаимного вмешательства",
 			"left":8,
 			"top":8,
 			"width":630,
 			"height":48
 		},
 		"Label_Lightning_PopularTeam_link":{
-			"text":"Instructions and feedback of macro on this page",
+			"text":"Инструкции и отзывы о макросах на этой странице",
 			"left":8,
 			"top":52,
 			"width":630,
@@ -6924,49 +6924,49 @@
 			"height":32
 		},
 		"Label_Lightning_Enchant_ReservedGem":{
-			"text":"Reserved gems:",
+			"text":"Резерв Самоцветы:",
 			"left":16,
 			"top":88,
 			"width":100,
 			"height":32
 		},
 		"Label_Lightning_Enchant_ReservedDeathsBreath":{
-			"text":"Reserved DeathsBreaths:",
+			"text":"Резерв Дыхания серти:",
 			"left":464,
 			"top":56,
 			"width":100,
 			"height":32
 		},
 		"Label_Lightning_Enchant_ReservedForgottenSoul":{
-			"text":"Reserved ForgottenSouls:",
+			"text":"Резерв Забытые души (сера):",
 			"left":303,
 			"top":55,
 			"width":107,
 			"height":32
 		},
 		"Label_Lightning_Enchant_ReservedVeiledCrystal":{
-			"text":"Reserved VeiledCrystals:",
+			"text":"Резерв Затуманенный кристалл:",
 			"left":158,
 			"top":55,
 			"width":90,
 			"height":32
 		},
 		"Label_Lightning_Enchant_ReservedArcaneDust":{
-			"text":"Reserved ArcaneDusts:",
+			"text":"Резерв Чародейская пыль:",
 			"left":16,
 			"top":54,
 			"width":90,
 			"height":32
 		},
 		"Label_Lightning_Enchant_ReservedGold":{
-			"text":"Reserved golds:",
+			"text":"Зарезервированное золото:",
 			"left":340,
 			"top":21,
 			"width":75,
 			"height":32
 		},
 		"Label_Lightning_Enchant_Maxtimes":{
-			"text":"Enchant maxtimes:",
+			"text":"Чары макс. раз:",
 			"left":175,
 			"top":21,
 			"width":100,
@@ -6980,7 +6980,7 @@
 			"height":32
 		},
 		"Label_Lightning_ThrowItem_Tips":{
-			"text":"Auto throw all items not in the inventory lock and armoryset to the ground",
+			"text":"Автоматически бросать на землю все предметы, которых нет в инвентаре и арсенале.",
 			"left":265,
 			"top":56,
 			"width":370,
@@ -7001,7 +7001,7 @@
 			"height":32
 		},
 		"Label_Lightning_Hotkey_KanaiCube":{
-			"text":"Kanai cube hotkey:",
+			"text":"Хоткей для куба Канаи:",
 			"left":18,
 			"top":25,
 			"width":155,
@@ -7022,14 +7022,14 @@
 			"height":32
 		},
 		"Label_Lightning_DemonHunterStrafeHungeringArrow_LimitStack":{
-			"text":"Momentum keep min:",
+			"text":"Импульс держать мин.:",
 			"left":18,
 			"top":56,
 			"width":161,
 			"height":32
 		},
 		"Label_Lightning_Crusader_Tips":{
-			"text":"Crusader all skill do not cast when riding (Individual exceptions)",
+			"text":"Все умения крестоносца не работают при верховой езде (отдельные исключения)",
 			"left":155,
 			"top":16,
 			"width":648,
@@ -7064,35 +7064,35 @@
 			"height":32
 		},
 		"Label_CooldownSoundPlayer_Tips":{
-			"text":"The sound file must be a wav file and in the root directory\\TurboHUD\\Sounds\\, You can add it yourself",
+			"text":"Звуковой файл должен быть wav файлом и в корневом каталоге\\TurboHUD\\Sounds\\, вы можете добавить его самостоятельно",
 			"HorizontalCenter":1,
 			"top":305,
 			"width":761,
 			"height":48
 		},
 		"Label_BuffManager_RedFrame":{
-			"text":"Turns red frame when          %of the countdown is leftBuff",
+			"text":"Красная рамка загорается, когда          % осталось от обратного отсчета",
 			"left":16,
 			"top":82,
 			"width":350,
 			"height":32
 		},
 		"Label_BuffManager_UnderTheParty_HeightScale":{
-			"text":"Height scale:",
+			"text":"Шкала высоты:",
 			"left":336,
 			"top":57,
 			"width":50,
 			"height":32
 		},
 		"Label_BuffManager_UnderMyself_HeightScale":{
-			"text":"Height scale:",
+			"text":"Шкала высоты:",
 			"left":336,
 			"top":21,
 			"width":50,
 			"height":32
 		},
 		"Label_BuffManager_Tips":{
-			"text":"Part of it is the countdown(Such as false death skills)or ICD(Such as the Oculus)",
+			"text":"Частично это обратный отсчет (например, пассивки воскрешения)or ICD(Such as the Oculus)",
 			"HorizontalCenter":1,
 			"top":615,
 			"width":500,
@@ -7106,105 +7106,105 @@
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_HauntofVaxo":{
-			"text":"Haunt of vaxo",
+			"text":"Одержимость Вахо",
 			"left":100,
 			"top":65,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_Maximus":{
-			"text":"Maximus",
+			"text":"Максимус",
 			"left":100,
 			"top":34,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_WizardHydra":{
-			"text":"Hydra",
+			"text":"Гидра",
 			"left":100,
 			"top":65,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_WizardMirrorImage":{
-			"text":"Mirror image",
+			"text":"Зеркальное отражение",
 			"left":100,
 			"top":34,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_CrusaderPhalanxBodyguard":{
-			"text":"Phalanx - Bodyguard",
+			"text":"Фаланга охрана",
 			"left":100,
 			"top":96,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_CrusaderPhalanxShieldBearers":{
-			"text":"Phalanx - Shield bearers",
+			"text":"Фаланга щитоносцы",
 			"left":100,
 			"top":65,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_CrusaderPhalanxBowmen":{
-			"text":"Phalanx - Bowmen",
+			"text":"Фаланга учники",
 			"left":100,
 			"top":34,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_DemonHunterWolfCompanion":{
-			"text":"Wolf companion",
+			"text":"Питомец волк",
 			"left":100,
 			"top":189,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_DemonHunterFerretCompanion":{
-			"text":"Ferret companion",
+			"text":"Питомец хорьки",
 			"left":100,
 			"top":158,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_DemonHunterBoarCompanion":{
-			"text":"Boar companion",
+			"text":"Питомец вепрь",
 			"left":100,
 			"top":127,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_DemonHunterBatCompanion":{
-			"text":"Bat companion",
+			"text":"Питомец летучая мышь",
 			"left":100,
 			"top":96,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_DemonHunterSpiderCompanion":{
-			"text":"Spider companion",
+			"text":"Питомец паук",
 			"left":100,
 			"top":65,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_DemonHunterRavenCompanion":{
-			"text":"Raven companion",
+			"text":"Питомец ворон",
 			"left":100,
 			"top":34,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_BarbarianCalloftheAncients":{
-			"text":"Call of the ancients",
+			"text":"Зов древних",
 			"left":100,
 			"top":34,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_MonkMysticAlly":{
-			"text":"Mystic ally",
+			"text":"Таинственный союзник",
 			"left":100,
 			"top":34,
 			"width":140,
