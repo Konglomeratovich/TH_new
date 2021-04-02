@@ -886,7 +886,7 @@
 			"height":32
 		},
 		"CheckBox_TextToSpeechVolumen":{
-			"text":"Громкость текста в речь",
+			"text":"Громкость озвучки",
 			"left":16,
 			"top":64,
 			"width":178,
@@ -907,7 +907,7 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_WaypointQuests":{
-			"text":"Waypoint quests",
+			"text":"Расположение заданий",
 			"left":16,
 			"top":218,
 			"width":180,
@@ -976,7 +976,7 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_TopExperienceStatistics":{
-			"text":"Статистика опыта
+			"text":"Статистика опыта",
 			"left":603,
 			"top":144,
 			"width":180,
@@ -1115,7 +1115,7 @@
 			"height":32
 		},
 		"CheckBox_Portraits_PoolState":{
-			"text":"Pool state",
+			"text":"Количество супов",
 			"left":250,
 			"top":50,
 			"width":120,
@@ -1317,35 +1317,35 @@
 			"height":32
 		},
 		"CheckBox_Lightning_CrusaderFistoftheHeavens":{
-			"text":"Fist of the Heavens: When equipped Aegis of Valor set, keep 2p and 4p Buffs.",
+			"text":"Длань небес: Если Экипирован сет Эгида Доблести, сохранять эфекты от 2 и 4 бонусов сета.",
 			"left":177,
 			"top":364,
 			"width":600,
 			"height":32
 		},
-		"CheckBox_Lightning_CrusaderBombardment":{
-			"text":"Bombardment: Cast when Barrels of Spikes rune and equipped Akkhan 6p, Invoker 2p, COE，\r\nand monster within 30 yards, and COE less than 1s from physical.",
-			"left":177,
-			"top":408,
-			"width":600,
-			"height":32
+		"CheckBox_Lightning_CrusaderBombardment": {
+			"text": "Бомбардировка: Кастуется при использовании руны Бочки с шипами и сете Аккана 6 предметов, Шипы призывателя 2 предмета, Собрании стихий，\r\nи наличии монстров в пределах 30 ярдов, и Собрании стихий менее 1 с от стихии физ. урона.",
+			"left": 177,
+			"top": 408,
+			"width": 600,
+			"height": 32
 		},
-		"CheckBox_Lightning_CrusaderSteedCharge":{
-			"text":"SteedCharge: Keep buff when equipped Norvald's Fervor 2p and unhealthy monsters \r\nwithin 15 yards.",
-			"left":177,
-			"top":456,
-			"width":498,
-			"height":32
+		"CheckBox_Lightning_CrusaderSteedCharge": {
+			"text": "Скакун: Сохраняет бафф при экипировке Рвение Норвальда и недобитых монстрах \r\nв пределах 15 ярдов.",
+			"left": 177,
+			"top": 456,
+			"width": 498,
+			"height": 32
 		},
 		"CheckBox_Lightning_CrusaderSteedCharge_NotWorkForDrawandQuarter":{
-			"text":"Not work for\r\nDrawand Quarter",
+			"text":"Не работает для\r\nСкакун с руной захват",
 			"left":685,
 			"top":456,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_Lightning_CrusaderJudgment":{
-			"text":"Judgment: Auto cast when elite within 20 yards of the cursor and not be passed judgment",
+			"text":"Правосудие: Автоматическое применение, когда элита находится в пределах 20 ярдов от курсора и не подлежит Правосудию",
 			"left":177,
 			"top":500,
 			"width":600,
@@ -1380,7 +1380,7 @@
 			"height":32
 		},
 		"CheckBox_PopularTeam_Crusader_buff":{
-			"text":"Crusader keep Buff",
+			"text":"Крестоносец держать Бафф",
 			"left":24,
 			"top":208,
 			"width":220,
@@ -1401,7 +1401,7 @@
 			"height":32
 		},
 		"CheckBox_PopularTeam_SupportBarbarian_buff":{
-			"text":"Support Barbarian keep Buff for party",
+			"text":"Сапп Вар держит бафф для пати",
 			"left":24,
 			"top":112,
 			"width":250,
@@ -1422,18 +1422,18 @@
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorTeam":{
-			"text":"Spirit Barrage WD: Created by Flower",
+			"text":"Призрачный шквал WD: Created by Flower",
 			"left":16,
 			"top":-8,
 			"width":230,
 			"height":32
 		},
-		"CheckBox_Lightning_OpenChest_Stone":{
-			"text":"Stone etc.",
-			"left":500,
-			"top":21,
-			"width":163,
-			"height":32
+		"CheckBox_Lightning_OpenChest_Stone": {
+			"text": "Камень и т.д.",
+			"left": 500,
+			"top": 21,
+			"width": 163,
+			"height": 32
 		},
 		"CheckBox_Lightning_OpenChest_DeadBody":{
 			"text":"Труп",
@@ -1450,14 +1450,14 @@
 			"height":32
 		},
 		"CheckBox_Lightning_OpenChest_Chest":{
-			"text":"Resplendent Chest",
+			"text":"Великолепный сундук",
 			"left":144,
 			"top":21,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_Lightning_OpenChest_ChestNormal":{
-			"text":"Normal chest",
+			"text":"Обычный сундук",
 			"left":16,
 			"top":21,
 			"width":120,
@@ -1485,21 +1485,21 @@
 			"height":32
 		},
 		"CheckBox_Lightning_AutoSkill":{
-			"text":"Auto skill cast: Add a switch to the upper right corner of each skill.\r\nWhen hover is enabled, cast immediately after cooldown.No casting in town or actioning\r\nYou can choose LightningMOD general rules plugins or this plugin",
+			"text":"Автокаст способностей: Добавьте переключатель в верхний правый угол каждого навыка.\r\nКогда наведение включено, используйте сразу после восстановления. Никаких кастов в городе или действий\r\nВы можете выбрать плагины общих правил LightningMOD или этот плагин",
 			"left":177,
 			"top":145,
 			"width":597,
 			"height":64
 		},
 		"CheckBox_Lightning_OpenGreatRift":{
-			"text":"Auto open great rift: Keep creating the game → enter the \r\ngreat rift → exit the game, Stop until you find the right game",
+			"text":"Авто открытие великого портала: Продолжайте создавать игру → войдите в \r\nВеликий портал → выйдите из игры, остановитесь, пока не найдете нужную игру",
 			"left":16,
 			"top":21,
 			"width":597,
 			"height":32
 		},
 		"CheckBox_Lightning_Enchant":{
-			"text":"Auto enchant",
+			"text":"Авто зачарование",
 			"left":16,
 			"top":-8,
 			"width":120,
@@ -1660,35 +1660,35 @@
 			"height":32
 		},
 		"CheckBox_Lightning_NecBloodRush":{
-			"text":"Кровавый рывок: применяется, когда экипирован Requiem Cereplate , Devour-Devouring Aura , Костяное копье, и \r\nкурсоре в пределах 15 ярдов и Essence ниже          % только для босса",
+			"text":"Кровавый рывок: применяется, когда экипирован Похоронное убранство , Пожирание - аура пожирания , Костяное копье, и \r\nкурсоре в пределах 15 ярдов и уровня эссенции ниже          % только для босса",
 			"left":177,
 			"top":438,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_NecNayrsBlackDeath":{
-			"text":"Nayr's Black Death: Auto keep Bone Spear, Bone Armor, Skeletal Mage, Siphon Blood, Death Nova, \r\nCommand Skeletons poison bonus Buff.",
+			"text":"Черная смерть Найра: Автоподдержание Костяное копье, Костяная броня, Скелат маг, Вампиризм, Кольцо смерти, \r\nCommand Skeletons poison bonus Buff.",
 			"left":177,
 			"top":389,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_NecCommandSkeletons":{
-			"text":"Command Skeletons: When selected BOSS activate, When equipped Bloodsong Mail, then activate \r\nduringin Land Of The Dead (Except for poison rune),When equipped Jesseth set and selected monster \r\nactivate, when Enforcer rune and equipped Obsidian continuous Click.",
+			"text":"Повелитель скелетов: Когда выбран БОСС активировать, Когда надета кольчуга Доспех поющей крови, затем активируется \r\nЦарство мертвых (кроме ядовитой руны),Когда экипирован сет Оружие Йессет и выбран монстр \r\nактивируется, когда руна Коллекционер костей активна и экипирован Obsidian непрерывно кликать.",
 			"left":177,
 			"top":317,
 			"width":600,
 			"height":64
 		},
 		"CheckBox_Lightning_NecSkeletalMage":{
-			"text":"Skeletal Mage: When Singularity rune or equipped Razeth's Volition, Give priority skeletons then summon \r\npower skeleton to replace it. When Skeleton Archer rune  and unequipped  Razeth's Volition and  Aquila \r\nCuirass Activated keep attack speed buff during the BOSS battle.",
+			"text":"Скелет-маг: когда вы используете руну сингулярность или используете волю Разета, отдайте приоритет скелетам, а затем вызовите \r\nмощного скелета, чтобы заменить его. Когда руна скелета-лучника и неэкипировання Воля Разета и Кираса Акилы \r\n активированы, сохраняют бафф скорости атаки во время битвы с БОССОМ",
 			"left":177,
 			"top":250,
 			"width":600,
 			"height":64
 		},
 		"CheckBox_Lightning_NecBoneArmor":{
-			"text":"Bone Armor: Except Limited Immunity rune, There are monsters within 30 yards then cast,\r\nWhen Thy Flesh Sustained rune and do not cast health less than 50%, and do not cast equipped \r\nGrace of Inarius set. When equipped Scythe of the Cycle keep cast.\r\nWhen Dislocation rune and equipped Krysbin and COE, then cast during COE outbreak.",
+			"text":"Костяная броня: кроме руны ограниченная неуязвимость, в радиусе 30 ярдов находятся монстры,\r\nКогда руна  Да окрепнет плоть твоя и do not cast здоровье меньше чем на 50%, и do not cast экипирована \r\nМилость Инария. Когда надета Коса Цикла, продолжать каст.\r\nКогда руна Смятение и экипирован приговор Крисбина и Собрание стихий, тогда бросить во время вспышки.",
 			"left":177,
 			"top":166,
 			"width":600,
@@ -2625,7 +2625,7 @@
 			"height":32
 		},
 		"CheckBox_PlayerSkills_PlayerSkillCircles_BarbarianIgnorePain":{
-			"text":"Ignore pain",
+			"text":"Стойкость к боли",
 			"left":150,
 			"top":36,
 			"width":140,
@@ -2779,84 +2779,84 @@
 			"height":32
 		},
 		"CheckBox_PartyMembersSkillBar_Monk":{
-			"text":"Monk",
+			"text":"Монах",
 			"left":8,
 			"top":243,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_PartyMembersSkillBar_Crusader":{
-			"text":"Crusader",
+			"text":"Крестоносец",
 			"left":8,
 			"top":210,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_PartyMembersSkillBar_DemonHunter":{
-			"text":"Demon Hunter",
+			"text":"Охотник на демонов",
 			"left":8,
 			"top":177,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_PartyMembersSkillBar_Barbarian":{
-			"text":"Barbarian",
+			"text":"Варвар",
 			"left":8,
 			"top":144,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_PartyMembersSkillBar_WitchDoctor":{
-			"text":"Witch Doctor",
+			"text":"Колдун",
 			"left":8,
 			"top":111,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_PartyMembersSkillBar_Wizard":{
-			"text":"Wizard",
+			"text":"Чародей",
 			"left":8,
 			"top":78,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_PartyMembersSkillBar_All":{
-			"text":"All class skills",
+			"text":"Все классовые способности",
 			"left":8,
 			"top":45,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_MainBuffBar_Tooltips":{
-			"text":"Tooltips",
+			"text":"Подсказка",
 			"left":192,
 			"top":32,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_MainBuffBar_Cooldown":{
-			"text":"Cooldown",
+			"text":"Время восстановления",
 			"left":96,
 			"top":32,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_MainBuffBar_Border":{
-			"text":"Border",
+			"text":"Рамка",
 			"left":16,
 			"top":32,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_MyAccount_KeepLoggedIn":{
-			"text":"Keep logged in",
+			"text":"Запомнить учетную запись",
 			"HorizontalCenter":1,
 			"top":101,
 			"width":126,
 			"height":32
 		},
 		"CheckBox_InventoryLock_UpgradeToAncient":{
-			"text":"Protect upgrade\r\n to ancient",
+			"text":"Защита улучшения\r\n до древнего",
 			"left":270,
 			"top":385,
 			"width":130,
@@ -2870,7 +2870,7 @@
 			"height":32
 		},
 		"CheckBox_InventoryLock_Salvage":{
-			"text":"Protect salvage",
+			"text":"Защита ресурсов",
 			"left":16,
 			"top":385,
 			"width":120,
@@ -2926,21 +2926,21 @@
 			"height":32
 		},
 		"CheckBox_ChatsMonitor_TTS":{
-			"text":"Speak",
+			"text":"Озвучка",
 			"left":8,
 			"top":240,
 			"width":248,
 			"height":32
 		},
 		"CheckBox_ShrineAndPool_TTS":{
-			"text":"Speak",
+			"text":"Озвучка",
 			"left":161,
 			"top":37,
 			"width":127,
 			"height":24
 		},
 		"CheckBox_ShrineOperator":{
-			"text":"Who operated the Pylon, Shrine, \r\nPoolOfReflection and Obelisk",
+			"text":"Кто использовал пилон, шрайн, \r\nсуп и обелиск",
 			"left":24,
 			"top":501,
 			"width":256,
@@ -2954,7 +2954,7 @@
 			"height":24
 		},
 		"CheckBox_ShrineAndPool_PoolOfReflection":{
-			"text":"Pool of reflection",
+			"text":"Суп",
 			"left":24,
 			"top":443,
 			"width":144,
@@ -2968,56 +2968,56 @@
 			"height":24
 		},
 		"CheckBox_ShrineAndPool_BanditShrine":{
-			"text":"Bandit shrine",
+			"text":"Шрайн бандитов",
 			"left":24,
 			"top":385,
 			"width":144,
 			"height":24
 		},
 		"CheckBox_ShrineAndPool_SpeedPylon":{
-			"text":"Speed pylon",
+			"text":"Пилон скорости",
 			"left":24,
 			"top":356,
 			"width":144,
 			"height":24
 		},
 		"CheckBox_ShrineAndPool_ShieldPylon":{
-			"text":"Shield pylon",
+			"text":"Пилон защиты",
 			"left":24,
 			"top":327,
 			"width":144,
 			"height":24
 		},
 		"CheckBox_ShrineAndPool_PowerPylon":{
-			"text":"Power pylon",
+			"text":"Пилон силы",
 			"left":24,
 			"top":298,
 			"width":144,
 			"height":24
 		},
 		"CheckBox_ShrineAndPool_ConduitPylon":{
-			"text":"Conduit pylon",
+			"text":"Пилон молнии",
 			"left":24,
 			"top":269,
 			"width":144,
 			"height":24
 		},
 		"CheckBox_ShrineAndPool_ChannelingPylon":{
-			"text":"Channeling pylon",
+			"text":"Пилон КДР",
 			"left":24,
 			"top":240,
 			"width":144,
 			"height":24
 		},
 		"CheckBox_ShrineAndPool_BlessedShrine":{
-			"text":"Blessed shrine",
+			"text":"Шрайн удачи",
 			"left":24,
 			"top":211,
 			"width":144,
 			"height":24
 		},
 		"CheckBox_ShrineAndPool_FrenziedShrine":{
-			"text":"Frenzied shrine",
+			"text":"Шрайн гнева",
 			"left":24,
 			"top":182,
 			"width":144,
@@ -3234,42 +3234,42 @@
 			"height":35
 		},
 		"CheckBox_MonstersCount_ShowEliteProgression":{
-			"text":"Show elite progression",
+			"text":"Показ прогресс элиты",
 			"left":24,
 			"top":260,
 			"width":190,
 			"height":32
 		},
 		"CheckBox_MonstersCount_ShowTrashProgression":{
-			"text":"Show trash progression",
+			"text":"Показ прогресс треша",
 			"left":24,
 			"top":228,
 			"width":190,
 			"height":32
 		},
 		"CheckBox_MonstersCount_ShowTime":{
-			"text":"Show progression to time",
+			"text":"Показ прогресс во времени",
 			"left":24,
 			"top":164,
 			"width":190,
 			"height":32
 		},
 		"CheckBox_MonstersCount_ShowMonstersCount":{
-			"text":"Show monsters count",
+			"text":"Показ количества монстров",
 			"left":24,
 			"top":132,
 			"width":190,
 			"height":32
 		},
 		"CheckBox_MonstersCount_ShowCircle":{
-			"text":"Show minmap range",
+			"text":"Показ радиус миникарты",
 			"left":24,
 			"top":100,
 			"width":190,
 			"height":32
 		},
 		"CheckBox_MonstersCount_ToggleEnable":{
-			"text":"Switch range",
+			"text":"Переключить радиус",
 			"left":24,
 			"top":40,
 			"width":136,
@@ -3283,77 +3283,77 @@
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_HealthLink":{
-			"text":"Health Link",
+			"text":"Общий запас здоровья",
 			"left":144,
 			"top":74,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Fast":{
-			"text":"Fast",
+			"text":"Быстрый",
 			"left":144,
 			"top":108,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Illusionist":{
-			"text":"Illusionist",
+			"text":"Иллюзионист",
 			"left":144,
 			"top":142,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Knockback":{
-			"text":"Knockback",
+			"text":"Отбрасывание",
 			"left":144,
 			"top":176,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Nightmarish":{
-			"text":"Nightmarish",
+			"text":"Вселяющий страх",
 			"left":144,
 			"top":210,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Shielding":{
-			"text":"Shielding",
+			"text":"Шит",
 			"left":144,
 			"top":244,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Teleporter":{
-			"text":"Teleporter",
+			"text":"Телепорт",
 			"left":144,
 			"top":278,
 			"width":120,
 			"height":35
 		},
 		"CheckBox_DangerousAffixMonster_Vortex":{
-			"text":"Vortex",
+			"text":"Вихрь",
 			"left":144,
 			"top":315,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Wormhole":{
-			"text":"Wormhole",
+			"text":"Червоточина",
 			"left":144,
 			"top":349,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Avenger":{
-			"text":"Avenger",
+			"text":"Мститель",
 			"left":144,
 			"top":383,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Horde":{
-			"text":"Horde",
+			"text":"Орда",
 			"left":144,
 			"top":417,
 			"width":120,
@@ -3367,21 +3367,21 @@
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Juggernaut":{
-			"text":"Juggernaut",
+			"text":"Натиск",
 			"left":144,
 			"top":488,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Mortar":{
-			"text":"Mortar",
+			"text":"Метатель",
 			"left":24,
 			"top":488,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Jailer":{
-			"text":"Jailer",
+			"text":"Тюремщик",
 			"left":24,
 			"top":451,
 			"width":120,
@@ -3395,7 +3395,7 @@
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Reflect":{
-			"text":"Reflect",
+			"text":"Рефлект",
 			"left":24,
 			"top":383,
 			"width":120,
@@ -3409,14 +3409,14 @@
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Frozen":{
-			"text":"Frozen",
+			"text":"Заморозка",
 			"left":24,
 			"top":176,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Plagued":{
-			"text":"Plagued",
+			"text":"Преследователь",
 			"left":24,
 			"top":315,
 			"width":120,
@@ -3465,7 +3465,7 @@
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Arcane":{
-			"text":"Arcane",
+			"text":"Аркана",
 			"left":24,
 			"top":40,
 			"width":120,
@@ -3479,7 +3479,7 @@
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Jailer":{
-			"text":"Jailer",
+			"text":"Тюремщик",
 			"left":24,
 			"top":496,
 			"width":120,
@@ -5209,42 +5209,42 @@
 			"height":32
 		},
 		"CheckBox_MonsterRadar_MonsterRiftProgressionColoring":{
-			"text":"Monster rift progression coloring",
+			"text":"Окраска прогрессии портала",
 			"left":213,
 			"top":16,
 			"width":319,
 			"height":32
 		},
 		"CheckBox_MonsterDensity_ShowLabel":{
-			"text":"Total of monsters",
+			"text":"Всего монстров",
 			"left":490,
 			"top":16,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_MonsterDensity_ShowMark":{
-			"text":"Mark the center monster",
+			"text":"Отметить центрального монстра",
 			"left":625,
 			"top":16,
 			"width":170,
 			"height":32
 		},
 		"CheckBox_MonsterDensity_ShowCircle":{
-			"text":"The area circle is            yard radius",
+			"text":"Площадь окружности            радиус в ярдах",
 			"left":16,
 			"top":50,
 			"width":200,
 			"height":32
 		},
 		"CheckBox_MonsterDensity_ShowProgression":{
-			"text":"The total progress of monsters in this area",
+			"text":"Общий прогресс монстров в этой области",
 			"left":251,
 			"top":50,
 			"width":280,
 			"height":32
 		},
 		"CheckBox_MonsterDensity_Enabled":{
-			"text":"Highest density area",
+			"text":"Область с наибольшей плотностью",
 			"left":16,
 			"top":-8,
 			"width":250,
@@ -5286,7 +5286,7 @@
 			"height":32
 		},
 		"RadioButton_Lightning_DemonHunterShadowPower_LifeOnHit":{
-			"text":"Life On Hit",
+			"text":":Здоровье за удар",
 			"left":709,
 			"top":72,
 			"width":100,
@@ -5295,14 +5295,14 @@
 	},
 	"TabControl":{
 		"TabControl_Main":{
-			"tab1":"Main",
-			"tab2":"Basics",
-			"tab3":"Monsters",
-			"tab4":"Items",
-			"tab5":"Events",
-			"tab6":"Players",
-			"tab7":"Buffs",
-			"tab8":"Macros",
+			"tab1":"Основной",
+			"tab2":"Базовые",
+			"tab3":"Монстры",
+			"tab4":"Предметы",
+			"tab5":"События",
+			"tab6":"Игроки",
+			"tab7":"Баффы",
+			"tab8":"Макросы",
 			"left":2,
 			"top":25,
 			"width":814,
@@ -5318,17 +5318,17 @@
 			"height":248
 		},
 		"TabControl_Register":{
-			"tab1":"New Account",
+			"tab1":"Новый аккаунт",
 			"left":2,
 			"top":23,
 			"width":447,
 			"height":473
 		},
 		"TabControl_Login":{
-			"tab1":"Login",
-			"tab2":"Renew",
-			"tab3":"Reset PW",
-			"tab4":"Reset BTag",
+			"tab1":"Логин",
+			"tab2":"Возобновить",
+			"tab3":"Сброс PW",
+			"tab4":"Сброс BTag",
 			"left":2,
 			"top":23,
 			"width":447,
@@ -5343,7 +5343,7 @@
 			"height":784
 		},
 		"TabControl_Monk":{
-			"tab1":"Healer Monk",
+			"tab1":"Целитель-монах",
 			"tab2":"General Skill",
 			"left":150,
 			"top":-1,
@@ -5352,15 +5352,15 @@
 		},
 		"TabControl_Lightning":{
 			"tab1":"Popular team",
-			"tab2":"Wizard",
-			"tab3":"Monk",
-			"tab4":"Witch Doctor",
-			"tab5":"Barbarian",
-			"tab6":"Crusader",
-			"tab7":"Demon Hunter",
-			"tab8":"Necromancer",
-			"tab9":"Inventory",
-			"tab10":"Others",
+			"tab2":"Чародей",
+			"tab3":"Монах",
+			"tab4":"Колдун",
+			"tab5":"Варвар",
+			"tab6":"Крестоносец",
+			"tab7":"Охотник на демонов",
+			"tab8":"Некромант",
+			"tab9":"Инвентарь",
+			"tab10":"Другое",
 			"tab11":"Readme",
 			"left":3,
 			"top":38,
@@ -5369,14 +5369,14 @@
 		},
 		"TabControl_BuffManager":{
 			"tab1":"My self",
-			"tab2":"All",
-			"tab3":"Wizard",
-			"tab4":"Monk",
-			"tab5":"Barbarian",
-			"tab6":"Witch Doctor",
-			"tab7":"Crusader",
-			"tab8":"Demon Hunter",
-			"tab9":"Necromancer",
+			"tab2":"Все",
+			"tab3":"Чародей",
+			"tab4":"Монах",
+			"tab5":"Варвар",
+			"tab6":"Колдун",
+			"tab7":"Крестоносец",
+			"tab8":"Охотник на демонов",
+			"tab9":"Некромант",
 			"left":3,
 			"top":154,
 			"width":455,
@@ -5391,14 +5391,14 @@
 			"height":510
 		},
 		"TabControl_PlayerSkills_Pets":{
-			"tab1":"Witch Doctor",
-			"tab2":"Necromancer",
-			"tab3":"Monk",
-			"tab4":"Barbarian",
-			"tab5":"Demon Hunter",
-			"tab6":"Crusader",
-			"tab7":"Wizard",
-			"tab8":"Others",
+			"tab1":"Колдун",
+			"tab2":"Некромант",
+			"tab3":"Монах",
+			"tab4":"Варвар",
+			"tab5":"Охотник на демонов",
+			"tab6":"Крестоносец",
+			"tab7":"Чародей",
+			"tab8":"Другое",
 			"left":2,
 			"top":60,
 			"width":455,
@@ -5413,17 +5413,17 @@
 			"height":547
 		},
 		"TabControl_MyAccount":{
-			"tab1":"Renew",
-			"tab2":"Bind Email",
-			"tab3":"Settings",
+			"tab1":"Возобновить",
+			"tab2":"Привязать Email",
+			"tab3":"Настройки",
 			"left":2,
 			"top":23,
 			"width":447,
 			"height":235
 		},
 		"TabControl_RunD3":{
-			"tab1":"general",
-			"tab2":"Separate",
+			"tab1":"Общий",
+			"tab2":"Отдельный",
 			"tab3":"Readme",
 			"left":10,
 			"top":210,
@@ -5440,32 +5440,32 @@
 			"height":32
 		},
 		"ComboBox_language":{
-			"default":"Select language",
+			"default":"Выбрать язык",
 			"left":594,
 			"top":64,
 			"width":184,
 			"height":32
 		},
 		"ComboBox_Register_Region":{
-			"item1":"China",
-			"item2":"Global",
+			"item1":"Китай",
+			"item2":"Глобальный",
 			"left":349,
 			"top":346,
 			"width":90,
 			"height":24
 		},
 		"ComboBox_ResetBattleTag_Region":{
-			"item1":"China",
-			"item2":"Global",
+			"item1":"Китай",
+			"item2":"Глобальный",
 			"left":350,
 			"top":140,
 			"width":90,
 			"height":24
 		},
 		"ComboBox_OtherUI_BloodShard":{
-			"default":"Blood Shard",
-			"item1":"Blood Shards",
-			"item2":"Remaining Blood Shards",
+			"default":"Кровавый осколок",
+			"item1":"Кровавые осколки",
+			"item2":"Осталось кровавых осколков",
 			"left":32,
 			"top":147,
 			"width":138,
@@ -5480,16 +5480,16 @@
 			"height":24
 		},
 		"ComboBox_Lightning_ThrowItemMode":{
-			"item1":"Normal",
-			"item2":"Speed",
+			"item1":"Норма",
+			"item2":"Скорость",
 			"left":16,
 			"top":54,
 			"width":90,
 			"height":24
 		},
 		"ComboBox_Lightning_SalvageMode":{
-			"item1":"Normal",
-			"item2":"Speed",
+			"item1":"Норма",
+			"item2":"Скорость",
 			"left":379,
 			"top":21,
 			"width":90,
@@ -5502,9 +5502,9 @@
 			"height":24
 		},
 		"ComboBox_Profiles_Download":{
-			"item1":"Original",
-			"item2":"Recommended",
-			"item3":"Disable All",
+			"item1":"Оригинал",
+			"item2":"Рекомендуемый",
+			"item3":"Отключить все",
 			"value1":2,
 			"value2":3,
 			"value3":4,
@@ -5514,34 +5514,34 @@
 			"height":24
 		},
 		"ComboBox_SpecialMonster_Rarity":{
-			"item1":"Trash",
-			"item2":"Champion",
-			"item3":"Rare",
-			"item4":"Rare Minion",
-			"item5":"Unique",
-			"item6":"Hireling",
-			"item7":"Boss",
-			"item8":"Elite",
-			"item9":"All",
+			"item1":"Треш",
+			"item2":"Чемпион",
+			"item3":"Редкий",
+			"item4":"Редкий миньон",
+			"item5":"Уникальный",
+			"item6":"Наемник",
+			"item7":"Босс",
+			"item8":"Элита",
+			"item9":"Все",
 			"left":344,
 			"top":34,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_SpecialMonster_Mode":{
-			"item1":"All",
-			"item2":"Rift",
-			"item3":"Great Rift",
-			"item4":"Other",
+			"item1":"Все",
+			"item2":"Нефалемский портал",
+			"item3":"Великий портал",
+			"item4":"Другое",
 			"left":224,
 			"top":34,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_SpecialMonster_Players":{
-			"item1":"All",
-			"item2":"Party",
-			"item3":"Solo",
+			"item1":"Все",
+			"item2":"Группа",
+			"item3":"Соло",
 			"left":107,
 			"top":34,
 			"width":80,
@@ -5646,9 +5646,9 @@
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_MinionType":{
-			"item1":"Minions don't show affixes",
-			"item2":"Minions only displays \"Minion\"",
-			"item3":"Minions show all affixes",
+			"item1":"Миньоны не показывать аффиксы",
+			"item2":"Отображаются только миньоны \"Minion\"",
+			"item3":"Миньоны показать все аффиксы",
 			"left":26,
 			"top":46,
 			"width":230,
@@ -5949,24 +5949,24 @@
 			"height":24
 		},
 		"ComboBox_Squirt_DisplayMode":{
-			"item1":"All",
-			"item2":"Progress",
-			"item3":"BOSS",
+			"item1":"Все",
+			"item2":"Прогресс",
+			"item3":"Босс",
 			"left":629,
 			"top":452,
 			"width":120,
 			"height":24
 		},
 		"ComboBox_COE_ConventionOfElementsCountDown_HeroClass":{
-			"item1":"smart select",
-			"item2":"Barbarian",
-			"item3":"Demon Hunter",
-			"item4":"Witch Doctor",
-			"item5":"Wizard",
-			"item6":"Monk",
-			"item7":"Crusader",
-			"item8":"Necromancer",
-			"item9":"Mine",
+			"item1":"умный выбор",
+			"item2":"Варвар",
+			"item3":"Охотник на демонов",
+			"item4":"Колдун",
+			"item5":"Чародей",
+			"item6":"Монах",
+			"item7":"Крестоносец",
+			"item8":"Некромант",
+			"item9":"Мой",
 			"left":16,
 			"top":27,
 			"width":138,
@@ -6273,7 +6273,7 @@
 			"height":32
 		},
 		"Button_ForgetAccount_ForgetAccount":{
-			"text":"вернуть",
+			"text":"Восстановление аккаунта",
 			"HorizontalCenter":1,
 			"top":156,
 			"width":120,
@@ -6308,7 +6308,7 @@
 			"height":32
 		},
 		"Button_MyAccount_Renew_ExpirationDate":{
-			"text":"Дата окончания срока",
+			"text":"Дата окончания лицензии",
 			"left":234,
 			"top":131,
 			"width":128,
@@ -6378,7 +6378,7 @@
 			"height":32
 		},
 		"Button_RunD3_Separate":{
-			"text":"Launch Diablo III",
+			"text":"Запустить Diablo III",
 			"left":49,
 			"top":28,
 			"width":272,
@@ -6392,7 +6392,7 @@
 			"height":60
 		},
 		"Button_RunD3_General":{
-			"text":"Launch Diablo III",
+			"text":"Запустить Diablo III",
 			"left":49,
 			"top":28,
 			"width":272,
@@ -6511,7 +6511,7 @@
 			"height":32
 		},
 		"Button_DangerousAffixMonster":{
-			"text":"Dangerous Affix",
+			"text":"Опастный аффикс",
 			"left":341,
 			"top":107,
 			"width":118,
@@ -6583,7 +6583,7 @@
 	},
 	"Label":{
 		"Label_Hide":{
-			"text":"Hide:",
+			"text":"Скрыть:",
 			"left":18,
 			"top":33,
 			"width":250,
@@ -6604,14 +6604,14 @@
 			"height":24
 		},
 		"Label_DebugOverlay":{
-			"text":"Debug overlay:",
+			"text":"Интерфейс отладки:",
 			"left":18,
 			"top":129,
 			"width":250,
 			"height":24
 		},
 		"Label_PartyInspector":{
-			"text":"Party inspector:",
+			"text":"Инспектор группы:",
 			"left":18,
 			"top":161,
 			"width":250,
@@ -6632,7 +6632,7 @@
 			"height":24
 		},
 		"Label_Exit":{
-			"text":"Exit:",
+			"text":"Выход:",
 			"left":18,
 			"top":257,
 			"width":250,
@@ -6653,7 +6653,7 @@
 			"height":24
 		},
 		"Label_Register_Password":{
-			"text":"Password:",
+			"text":"Пароль:",
 			"left":8,
 			"top":121,
 			"width":90,
@@ -6694,12 +6694,12 @@
 			"width":90,
 			"height":24
 		},
-		"Label_Register_BattleTagTips":{
-			"text":"Just to save the profiles",
-			"HorizontalCenter":1,
-			"top":319,
-			"width":432,
-			"height":24
+		"Label_Register_BattleTagTips": {
+			"text": "Просто для сохранения профилей",
+			"HorizontalCenter": 1,
+			"top": 319,
+			"width": 432,
+			"height": 24
 		},
 		"Label_Register_BattleTag":{
 			"text":"BattleTag:",
@@ -6709,7 +6709,7 @@
 			"height":24
 		},
 		"Label_Register_Licence":{
-			"text":"Licence:",
+			"text":"Лицензия:",
 			"left":8,
 			"top":405,
 			"width":90,
@@ -6730,7 +6730,7 @@
 			"height":24
 		},
 		"Label_ResetBattleTag_Password":{
-			"text":"Password:",
+			"text":"Пароль:",
 			"left":7,
 			"top":104,
 			"width":80,
@@ -6807,7 +6807,7 @@
 			"height":24
 		},
 		"Label_Login_Password":{
-			"text":"Password:",
+			"text":"Пароль:",
 			"left":8,
 			"top":125,
 			"width":70,
@@ -7099,7 +7099,7 @@
 			"height":48
 		},
 		"Label_PlayerSkills_Pets_Season22ShadowClone":{
-			"text":"22 Season shadow clone",
+			"text":"22 сезон теневые копии",
 			"left":100,
 			"top":96,
 			"width":140,
@@ -7302,7 +7302,7 @@
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_WitchDoctorPassiveFetishArmy":{
-			"text":"Passive fetish army",
+			"text":"Армия фетишей пассивка",
 			"left":100,
 			"top":126,
 			"width":140,
@@ -7428,7 +7428,7 @@
 			"height":24
 		},
 		"Label_ForgetUserName_Licence":{
-			"text":"Licence:",
+			"text":"Лицензия:",
 			"left":10,
 			"top":72,
 			"width":80,
