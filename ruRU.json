@@ -496,7 +496,7 @@
 		"Windows_MonstersCount":"Счетчик монстров",
 		"Windows_DangerousMonster":"Опасный монстр",
 		"Windows_DangerousAffixMonster":"Опасный монстр с аффиксом",
-		"Windows_RunD3":"запустить 64-битный клиент Diablo II",
+		"Windows_RunD3":"запустить 64-битный клиент Diablo III",
 		"Windows_InternalDownload":"Внутренний загрузчик",
 		"Windows_SpecialMonster":"Особый монстр",
 		"Windows_EliteMonsterAffix":"Аффикс элиты",
@@ -1004,7 +1004,7 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_SkillRangeHelper":{
-			"text":"Skill range helper\r\n(Hover over the skills bar)",
+			"text":"Помощник по радиусу применения навыков\r\n(Наведите указатель мыши на панель навыков)",
 			"left":603,
 			"top":218,
 			"width":180,
@@ -1025,7 +1025,7 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_ResourceOverGlobe":{
-			"text":"Resource over globe",
+			"text":"Ресурсы на земле",
 			"left":406,
 			"top":64,
 			"width":180,
@@ -1046,7 +1046,7 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_ExperienceOverBar":{
-			"text":"Experience over bar",
+			"text":"Опыт на полосе интерфейса",
 			"left":211,
 			"top":26,
 			"width":180,
@@ -1059,7 +1059,7 @@
 			"height":32
 		},
 		"CheckBox_OtherUI_MultiplayerExperienceRange":{
-			"text":"Multiplayer experience range",
+			"text":"Диапазон многопользовательского опыта",
 			"left":406,
 			"top":26,
 			"width":180,
@@ -1094,7 +1094,7 @@
 			"height":32
 		},
 		"CheckBox_MonsterDensityAroundCursor_DrawCursorCircle":{
-			"text":"Рисовать круг вокруг курсора          yards",
+			"text":"Рисовать круг вокруг курсора          ярдов",
 			"left":16,
 			"top":20,
 			"width":270,
@@ -1122,7 +1122,7 @@
 			"height":32
 		},
 		"CheckBox_Portraits_PlayerShield":{
-			"text":"Shield on health bar",
+			"text":"Щит на шкале здоровья",
 			"left":350,
 			"top":50,
 			"width":140,
@@ -1170,7 +1170,7 @@
 			"height":32
 		},
 		"CheckBox_Portraits_EHP":{
-			"text":"EHP scale",
+			"text":"Шкала EHP",
 			"left":350,
 			"top":20,
 			"width":120,
@@ -1212,7 +1212,7 @@
 			"height":32
 		},
 		"CheckBox_Rift_NotifyAtRiftPercentage":{
-			"text":"        % Notify at rift",
+			"text":"        % Уведомление о портале",
 			"left":16,
 			"top":50,
 			"width":150,
@@ -1548,21 +1548,21 @@
 			"height":32
 		},
 		"CheckBox_Lightning_ThrowItem":{
-			"text":"Auto throw item",
+			"text":"Автоматическое выбрасывание предмета",
 			"left":16,
 			"top":-8,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_Lightning_AutoPickUp_WhenForceMoveInvalid":{
-			"text":"When force move invalid",
+			"text":"Когда силовое перемещение недействительно",
 			"left":245,
 			"top":49,
 			"width":160,
 			"height":32
 		},
 		"CheckBox_Lightning_AutoPickUp_ShowTips":{
-			"text":"Show tips",
+			"text":"Показать советы",
 			"left":160,
 			"top":49,
 			"width":106,
@@ -1576,7 +1576,7 @@
 			"height":32
 		},
 		"CheckBox_Lightning_AutoPickUp_Craft":{
-			"text":"Crafts",
+			"text":"Крафты",
 			"left":432,
 			"top":21,
 			"width":200,
@@ -1590,77 +1590,77 @@
 			"height":32
 		},
 		"CheckBox_Lightning_AutoPickUp_Legend":{
-			"text":"Legendarys",
+			"text":"Легендарки",
 			"left":266,
 			"top":21,
 			"width":80,
 			"height":32
 		},
 		"CheckBox_Lightning_AutoPickUp_Yellow":{
-			"text":"Yellow",
+			"text":"Желтые",
 			"left":183,
 			"top":21,
 			"width":80,
 			"height":32
 		},
 		"CheckBox_Lightning_AutoPickUp_Blue":{
-			"text":"Blue",
+			"text":"Синие",
 			"left":100,
 			"top":21,
 			"width":80,
 			"height":32
 		},
 		"CheckBox_Lightning_AutoPickUp_White":{
-			"text":"White",
+			"text":"Белые",
 			"left":17,
 			"top":21,
 			"width":80,
 			"height":32
 		},
 		"CheckBox_Lightning_AutoPickUp":{
-			"text":"Auto pickup",
+			"text":"Автоподбор",
 			"left":16,
 			"top":-8,
 			"width":90,
 			"height":32
 		},
 		"CheckBox_Lightning_KanaiCube_ConvertMaterial":{
-			"text":"Convert material: First open the cube page 7~9",
+			"text":"Преобразование материала: сначала откройте страницу куба 7 ~ 9",
 			"left":16,
 			"top":120,
 			"width":597,
 			"height":32
 		},
 		"CheckBox_Lightning_KanaiCube_UpgradeRareToLengendary":{
-			"text":"Upgrade rare to lengendary: First open the cube page 3",
+			"text":"Обновление редкого до легендарного: сначала откройте страницу куба 3",
 			"left":16,
 			"top":88,
 			"width":597,
 			"height":32
 		},
 		"CheckBox_Lightning_KanaiCube_UpgradeToAncient":{
-			"text":"Upgrade to ancient: First open the cube page 2",
+			"text":"Обновление до древнего: сначала откройте страницу куба 2",
 			"left":16,
 			"top":52,
 			"width":597,
 			"height":32
 		},
 		"CheckBox_Lightning_Kadala":{
-			"text":"Speed purchase: Mouse over the item in the store",
+			"text":"Ускоренная покупка: наведите указатель мыши на товар в магазине.",
 			"left":16,
 			"top":21,
 			"width":597,
 			"height":32
 		},
 		"CheckBox_Lightning_Salvage":{
-			"text":"Auto Salvage: Salvage all items not in inventory lock area",
+			"text":"Авто-утиль: утилизируйте все предметы, не находящиеся в зоне блокировки инвентаря ",
 			"left":16,
 			"top":21,
 			"width":597,
 			"height":32
 		},
 		"CheckBox_Lightning_NecBloodRush":{
-			"text":"Blood Rush-Molting: Cast when equipped Requiem Cereplate , Devour-Devouring Aura , Bone Spear, and \r\ncursor within 15 yards and Essence is below          % only for BOSS",
+			"text":"Кровавый рывок: применяется, когда экипирован Requiem Cereplate , Devour-Devouring Aura , Костяное копье, и \r\nкурсоре в пределах 15 ярдов и Essence ниже          % только для босса",
 			"left":177,
 			"top":438,
 			"width":600,
@@ -7211,91 +7211,91 @@
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_Necromancer_Tips":{
-			"text":"Skeletal mage,Revive Unable to make timer work",
+			"text":"Скелет-маг, Оживление Невозможно включить таймер",
 			"left":104,
 			"top":222,
 			"width":334,
 			"height":48
 		},
 		"Label_PlayerSkills_Pets_NecromancerRevive":{
-			"text":"Revive",
+			"text":"Оживление",
 			"left":100,
 			"top":157,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_NecromancerSkeletalMage":{
-			"text":"Skeletal mage",
+			"text":"Скелет-маг",
 			"left":100,
 			"top":126,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_NecromancerCommandGolem":{
-			"text":"Command golem",
+			"text":"Повелитель големов",
 			"left":100,
 			"top":95,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_NecromancerCommandSkeletons":{
-			"text":"Command skeletons",
+			"text":"Повелитель скелетов",
 			"left":100,
 			"top":64,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_NecromancerSimulacrum":{
-			"text":"Simulacrum",
+			"text":"Симулякр",
 			"left":100,
 			"top":34,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_RadiusBottom":{
-			"text":"Radius bottom",
+			"text":"Нижний радиус",
 			"left":295,
 			"top":72,
 			"width":70,
 			"height":24
 		},
 		"Label_PlayerSkills_Pets_Timer":{
-			"text":"Timer",
+			"text":"Таймер",
 			"left":375,
 			"top":72,
 			"width":70,
 			"height":24
 		},
 		"Label_PlayerSkills_Pets_WitchDoctorTheGrinReaper":{
-			"text":"The grin reaper",
+			"text":"Кровожадный оскал",
 			"left":100,
 			"top":281,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_WitchDoctorHexToadofHugeness":{
-			"text":"Hex - Toad of hugeness",
+			"text":"Сглаз\r\n(Руна Громадная жаба)",
 			"left":100,
 			"top":250,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_WitchDoctorHex":{
-			"text":"Hex",
+			"text":"Сглаз",
 			"left":100,
 			"top":219,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_WitchDoctorGargantuan":{
-			"text":"Gargantuan",
+			"text":"Громадень",
 			"left":100,
 			"top":188,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_WitchDoctorSummonZombieDogs":{
-			"text":"Summon zombie dogs",
+			"text":"Призыв псов-зомби",
 			"left":100,
 			"top":157,
 			"width":140,
@@ -7309,105 +7309,105 @@
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_WitchDoctorFetishArmyHeadHunters":{
-			"text":"Fetish army head hunters",
+			"text":"Армия фетишей\r\n(Руна Охотники за головами)",
 			"left":100,
 			"top":95,
 			"width":180,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_WitchDoctorFetishArmyTikiTorchers":{
-			"text":"Fetish army Tiki torchers",
+			"text":"Армия фетишей\r\n(Руна Поджигатели тики)",
 			"left":100,
 			"top":64,
 			"width":180,
 			"height":36
 		},
 		"Label_PlayerSkills_Pets_WitchDoctorFetishArmy":{
-			"text":"Fetish army",
+			"text":"Армия фетишей",
 			"left":100,
 			"top":33,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_MonkInnerSanctuary":{
-			"text":"Monk - InnerSanctuary",
+			"text":"Monk - Святая святых",
 			"left":150,
 			"top":437,
 			"width":180,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_WitchDoctorSpiritBarragePhantasm":{
-			"text":"WitchDoctor - Spirit barrage\r\n(Phantasm)",
+			"text":"Колдун - Призрачный шквал\r\n(Руна фантазм)",
 			"left":150,
 			"top":404,
 			"width":180,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_WitchDoctorGraspoftheDead":{
-			"text":"WitchDoctor - \r\nGrasp of the dead",
+			"text":"Колдун - \r\nОбьятия смерти",
 			"left":150,
 			"top":370,
 			"width":180,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_WitchDoctorBigBadVoodoo":{
-			"text":"WitchDoctor - \r\nBig bad voodoo",
+			"text":"Колдун - \r\nБольшое страшное вуду",
 			"left":150,
 			"top":336,
 			"width":180,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_WitchDoctorSpiritWalk":{
-			"text":"WitchDoctor - Spirit walk",
+			"text":"Колдун - Посттупь духа",
 			"left":150,
 			"top":302,
 			"width":180,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_WitchDoctorPiranhas":{
-			"text":"WitchDoctor - Piranhas",
+			"text":"Колдун - Пираньи",
 			"left":150,
 			"top":268,
 			"width":180,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_DemonHunterMarkedForDeath":{
-			"text":"DemonHunter - \r\nMarked for death",
+			"text":"Охотник на демонов - \r\nМетка смерти",
 			"left":150,
 			"top":234,
 			"width":180,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_DemonHunterSentry":{
-			"text":"DemonHunter - Sentry",
+			"text":"Охотник на демонов - Турель",
 			"left":150,
 			"top":200,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_WizardMeteor":{
-			"text":"Wizard - Meteor",
+			"text":"Чародей - Метеорит",
 			"left":150,
 			"top":132,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_WizardBlackHole":{
-			"text":"Wizard - Black hole",
+			"text":"Чародей - Черная дыра",
 			"left":150,
 			"top":98,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_WizardSlowTime":{
-			"text":"Wizard - Slow time",
+			"text":"Чародей - Замедление времени",
 			"left":150,
 			"top":64,
 			"width":140,
 			"height":36
 		},
 		"Label_PlayerSkills_PlayerSkills_Timer":{
-			"text":"Timer",
+			"text":"Таймер",
 			"left":368,
 			"top":40,
 			"width":70,
@@ -7421,7 +7421,7 @@
 			"height":24
 		},
 		"Label_ForgetUserName_Tips":{
-			"text":"Registered or renewed used licenses",
+			"text":"Зарегистрированные или продленные лицензии",
 			"HorizontalCenter":1,
 			"top":40,
 			"width":435,
@@ -7435,14 +7435,14 @@
 			"height":24
 		},
 		"Label_ForgetAccount_EmailCaptchaCode":{
-			"text":"Security Code:",
+			"text":"Код безопасности:",
 			"left":8,
 			"top":115,
 			"width":88,
 			"height":24
 		},
 		"Label_ForgetAccount_Tips":{
-			"text":"Send the bound username and password, super password, BattleTag and other information to the email",
+			"text":"Отправьте привязанное имя пользователя и пароль, супер-пароль, BattleTag и другую информацию на электронную почту",
 			"HorizontalCenter":1,
 			"top":40,
 			"width":435,
@@ -7456,28 +7456,28 @@
 			"height":24
 		},
 		"Label_LoginBattleNet_Solution":{
-			"text":"If the page is not working, please check the",
+			"text":"Если страница не работает, проверьте",
 			"left":390,
 			"top":34,
 			"width":248,
 			"height":32
 		},
 		"Label_LoginBattleNet_Refresh":{
-			"text":"If you can't get the BattleTag, please click the",
+			"text":"Если вы не можете получить BattleTag, нажмите",
 			"left":8,
 			"top":34,
 			"width":344,
 			"height":32
 		},
 		"Label_MyAccount_Renew_LicenceTips":{
-			"text":"You must use a new license to create a new account",
+			"text":"Вы должны использовать новую лицензию, чтобы создать новую учетную запись",
 			"HorizontalCenter":1,
 			"top":76,
 			"width":432,
 			"height":24
 		},
 		"Label_MyAccount_Renew_BuyLicence":{
-			"text":"Buy Licence",
+			"text":"Купить лицензию",
 			"left":168,
 			"top":135,
 			"width":64,
@@ -7491,21 +7491,21 @@
 			"height":24
 		},
 		"Label_UnbindMail_EmailCaptchaCode":{
-			"text":"Security Code:",
+			"text":"Код безопасности:",
 			"left":8,
 			"top":57,
 			"width":88,
 			"height":24
 		},
 		"Label_BindEmail_EmailCaptchaCode":{
-			"text":"Security Code:",
+			"text":"Код безопасности:",
 			"left":8,
 			"top":98,
 			"width":88,
 			"height":24
 		},
 		"Label_BindEmail_Tips":{
-			"text":"In order to improve the security of the account, avoid losing the account",
+			"text":"Чтобы повысить безопасность учетной записи, избегайте ее потери.",
 			"HorizontalCenter":1,
 			"top":188,
 			"width":435,
@@ -7519,56 +7519,56 @@
 			"height":24
 		},
 		"Label_InventoryLock_Tips":{
-			"text":"Check the options below to make the inventory lock effective for these plugins",
+			"text":"Проверьте опции ниже, чтобы активировать блокировку инвентаря для этих плагинов.",
 			"left":11,
 			"top":337,
 			"width":480,
 			"height":48
 		},
 		"Label_RunStats_UptimeHelper":{
-			"text":"More necessary buff uptime statistics, please feedback in the community",
+			"text":"Необходимо больше статистики времени работы баффа, пожалуйста, оставьте отзыв в сообществе",
 			"left":176,
 			"top":157,
 			"width":176,
 			"height":48
 		},
 		"Label_SpecialBounty_Tips":{
-			"text":"One bounty name for each line(Fuzzy)\r\nWhen the bounty in this list is not completed, it will be displayed next to the minimap",
+			"text":"Одна актовая награда в отдельной строке(Fuzzy)\r\nКогда награда в этом списке не завершена, она будет отображаться рядом с миникартой.",
 			"left":9,
 			"top":255,
 			"width":255,
 			"height":48
 		},
 		"Label_ChatsMonitor_Tips":{
-			"text":"Each line is a keyword (* are wildcards)\r\nIt will flash and speak when the chat content is matched",
+			"text":"Каждая строка - это ключевое слово (* является символом подстановки)\r\nОн будет мигать и произносить при совпадении содержимого чата",
 			"left":9,
 			"top":264,
 			"width":255,
 			"height":98
 		},
 		"Label_ShrineAndPool_Tips":{
-			"text":"If you don't need to speak, please fill blank\r\n\"Default\" or \"@\" is the speaking default name",
+			"text":"Если не нужно произносить, заполните поле\r\n\"Default\" or \"@\" является произносимым по умолчанию",
 			"HorizontalCenter":1,
 			"top":526,
 			"width":288,
 			"height":48
 		},
 		"Label_Goblin_Tips":{
-			"text":"If you don't need to speak, please fill blank\r\n\"Default\" or \"@\" is the speaking default name",
+			"text":"Если не нужно произносить, заполните поле\r\n\"Default\" or \"@\" является произносимым по умолчанию",
 			"HorizontalCenter":1,
 			"top":425,
 			"width":273,
 			"height":48
 		},
 		"Label_MonstersCount_MaxYard":{
-			"text":"Max yard:",
+			"text":"Ярдов макс.:",
 			"left":216,
 			"top":70,
 			"width":130,
 			"height":32
 		},
 		"Label_MonstersCount_yard":{
-			"text":"Default yard:",
+			"text":"Ярдов по умолчанию:",
 			"left":24,
 			"top":70,
 			"width":130,
@@ -7582,7 +7582,7 @@
 			"height":32
 		},
 		"Label_DangerousMonster_Tips":{
-			"text":"One monster name per line (exact match)",
+			"text":"Одно имя монстра в каждой строке (точное совпадение)",
 			"left":9,
 			"top":255,
 			"width":255,
