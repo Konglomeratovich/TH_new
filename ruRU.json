@@ -3066,35 +3066,35 @@
 			"height":24
 		},
 		"CheckBox_Goblin_Menagerist":{
-			"text":"Menagerist",
+			"text":"Гоблин дрессировщик",
 			"left":14,
 			"top":356,
 			"width":150,
 			"height":24
 		},
 		"CheckBox_Goblin_Malevolent":{
-			"text":"Malevolent Tormentor",
+			"text":"Злонравный мучитель",
 			"left":14,
 			"top":327,
 			"width":150,
 			"height":24
 		},
 		"CheckBox_Goblin_Insufferable":{
-			"text":"Insufferable Miscreant",
+			"text":"Сеньор Злыдень",
 			"left":14,
 			"top":298,
 			"width":150,
 			"height":24
 		},
 		"CheckBox_Goblin_Odious":{
-			"text":"Odious Collector",
+			"text":"Подлый собиратель",
 			"left":14,
 			"top":269,
 			"width":150,
 			"height":24
 		},
 		"CheckBox_Goblin_Gelatinous":{
-			"text":"Gelatinous",
+			"text":"Сэр Студень",
 			"left":14,
 			"top":240,
 			"width":150,
@@ -3108,35 +3108,35 @@
 			"height":24
 		},
 		"CheckBox_Goblin_Gem":{
-			"text":"Gem Hoarder",
+			"text":"Сборщик самоцветов",
 			"left":14,
 			"top":182,
 			"width":150,
 			"height":24
 		},
 		"CheckBox_Goblin_Gilded":{
-			"text":"Gilded Baron",
+			"text":"Барон златник",
 			"left":14,
 			"top":153,
 			"width":150,
 			"height":24
 		},
 		"CheckBox_Goblin_Rainbow":{
-			"text":"Rainbow Goblin",
+			"text":"Радужный гоблин",
 			"left":14,
 			"top":124,
 			"width":150,
 			"height":24
 		},
 		"CheckBox_Goblin_Treasure":{
-			"text":"Treasure Goblin",
+			"text":"Алчный гоблин",
 			"left":14,
 			"top":95,
 			"width":150,
 			"height":24
 		},
 		"CheckBox_Goblin_Fiend":{
-			"text":"Treasure Fiend",
+			"text":"Демон стяжательства",
 			"left":14,
 			"top":66,
 			"width":150,
@@ -3402,7 +3402,7 @@
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Poison":{
-			"text":"Poison",
+			"text":"Яд",
 			"left":24,
 			"top":349,
 			"width":120,
@@ -3500,7 +3500,7 @@
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Poison":{
-			"text":"Poison",
+			"text":"Яд",
 			"left":24,
 			"top":394,
 			"width":120,
@@ -3598,7 +3598,7 @@
 			"height":32
 		},
 		"CheckBox_MonsterPack_Poison":{
-			"text":"Poison",
+			"text":"Яд",
 			"left":24,
 			"top":349,
 			"width":120,
@@ -5548,98 +5548,98 @@
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Thunderstorm":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":465,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Jailer":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":499,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Mortar":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":533,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Plagued":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":363,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Poison":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":397,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Reflect":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":431,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Frozen":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":226,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_FrozenPulse":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":260,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Molten":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":294,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Orbiter":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":328,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_FireChains":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":192,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Desecrator":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":158,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Electrified":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":124,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Arcane":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":90,
 			"width":80,
@@ -5655,294 +5655,294 @@
 			"height":24
 		},
 		"ComboBox_MonsterPack_Thunderstorm":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":420,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Jailer":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":454,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Mortar":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":488,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Plagued":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":318,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Poison":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":352,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Reflect":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":386,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Frozen":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":181,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_FrozenPulse":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":215,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Molten":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":249,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Orbiter":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":283,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_FireChains":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":147,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Desecrator":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":113,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Electrified":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":79,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Arcane":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":125,
 			"top":45,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Juggernaut":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":533,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_MissileDampening":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":499,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Horde":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":465,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Avenger":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":431,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Wormhole":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":397,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Vortex":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":363,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Teleporter":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":328,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Shielding":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":294,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Nightmarish":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":260,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Knockback":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":226,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Illusionist":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":192,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Fast":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":158,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_HealthLink":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":124,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_EliteMonsterAffix_Waller":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":90,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Juggernaut":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":488,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_MissileDampening":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":454,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Horde":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":420,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Avenger":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":386,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Wormhole":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":352,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Vortex":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":318,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Teleporter":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":283,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Shielding":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":249,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Nightmarish":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":215,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Knockback":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":181,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Illusionist":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":147,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Fast":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":113,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_HealthLink":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":79,
 			"width":80,
 			"height":24
 		},
 		"ComboBox_MonsterPack_Waller":{
-			"item1":"Default",
+			"item1":"По умолчанию",
 			"left":380,
 			"top":45,
 			"width":80,
@@ -5974,13 +5974,13 @@
 		},
 		"ComboBox_COE_PartyMemberHighestElement":{
 			"item1":"Highest",
-			"item2":"Arcane",
-			"item3":"Cold",
-			"item4":"Fire",
-			"item5":"Holy",
-			"item6":"Lightning",
-			"item7":"Physical",
-			"item8":"Poison",
+			"item2":"Тайная магия",
+			"item3":"Холод",
+			"item4":"Огонь",
+			"item5":"Свет",
+			"item6":"Молния",
+			"item7":"Физ. урон",
+			"item8":"Яд",
 			"left":195,
 			"top":49,
 			"width":110,
@@ -5988,13 +5988,13 @@
 		},
 		"ComboBox_COE_MyHighestElement":{
 			"item1":"Highest",
-			"item2":"Arcane",
-			"item3":"Cold",
-			"item4":"Fire",
-			"item5":"Holy",
-			"item6":"Lightning",
-			"item7":"Physical",
-			"item8":"Poison",
+			"item2":"Тайная магия",
+			"item3":"Холод",
+			"item4":"Огонь",
+			"item5":"Свет",
+			"item6":"Молния",
+			"item7":"Физ. урон",
+			"item8":"Яд",
 			"left":131,
 			"top":19,
 			"width":110,
@@ -6009,8 +6009,8 @@
 			"height":24
 		},
 		"ComboBox_NecCommandSkeletonsMDPB_Mode":{
-			"item1":"Highest bonus on skill ico",
-			"item2":"Bonus on each skeleton",
+			"item1":"Самый высокий бонус к значку навыка",
+			"item2":"Бонус на каждый скелет",
 			"left":400,
 			"top":88,
 			"width":230,
@@ -6032,20 +6032,20 @@
 			"height":48
 		},
 		"Button_Start":{
-			"text":"Start",
+			"text":"Старт",
 			"left":18,
 			"top":513,
 			"width":125,
 			"height":48
 		},
 		"Button_Start_Running":{
-			"text":"Running"
+			"text":"Запущен"
 		},
 		"Button_Start_Starting":{
-			"text":"Starting"
+			"text":"Запуск"
 		},
 		"Button_Stop":{
-			"text":"Stop",
+			"text":"Стоп",
 			"left":143,
 			"top":513,
 			"width":125,
@@ -6059,42 +6059,42 @@
 			"height":40
 		},
 		"Button_MyAccount":{
-			"text":"My Account",
+			"text":"Мой аккаунт",
 			"left":488,
 			"top":472,
 			"width":112,
 			"height":40
 		},
 		"Button_Profiles":{
-			"text":"Profiles",
+			"text":"Профили",
 			"left":608,
 			"top":472,
 			"width":112,
 			"height":40
 		},
 		"Button_AutoCast":{
-			"text":"Auto Cast",
+			"text":"Автокаст",
 			"left":367,
 			"top":516,
 			"width":112,
 			"height":40
 		},
 		"Button_Donation":{
-			"text":"Donation",
+			"text":"Донат",
 			"left":488,
 			"top":516,
 			"width":112,
 			"height":40
 		},
 		"Button_Community":{
-			"text":"Community",
+			"text":"Сообщество",
 			"left":608,
 			"top":516,
 			"width":112,
 			"height":40
 		},
 		"Button_Register_Send":{
-			"text":"Send Code",
+			"text":"Отправить код",
 			"left":258,
 			"top":280,
 			"width":88,
@@ -6108,7 +6108,7 @@
 			"height":32
 		},
 		"Button_Register_CompleteRegistration":{
-			"text":"Complete Registration",
+			"text":"Завершить регистрацию",
 			"HorizontalCenter":1,
 			"top":438,
 			"width":180,
@@ -6122,42 +6122,42 @@
 			"height":32
 		},
 		"Button_ResetBattleTag_ResetBattleTag":{
-			"text":"Reset BattleTag",
+			"text":"Сбросить BattleTag",
 			"HorizontalCenter":1,
 			"top":183,
 			"width":140,
 			"height":32
 		},
 		"Button_ResetPassword_ResetPassword":{
-			"text":"Reset Password",
+			"text":"Сбросить пароль",
 			"HorizontalCenter":1,
 			"top":190,
 			"width":120,
 			"height":32
 		},
 		"Button_Renew_Renew":{
-			"text":"Renew",
+			"text":"Возобновить",
 			"HorizontalCenter":1,
 			"top":152,
 			"width":88,
 			"height":32
 		},
 		"Button_Login_SignUp":{
-			"text":"Sign Up",
+			"text":"Зарегистрироваться",
 			"left":169,
 			"top":159,
 			"width":88,
 			"height":32
 		},
 		"Button_Login_SignIn":{
-			"text":"Sign In",
+			"text":"Войти",
 			"left":83,
 			"top":159,
 			"width":88,
 			"height":32
 		},
 		"Button_Login_ForFree":{
-			"text":"For Free",
+			"text":"Бесплатно",
 			"left":276,
 			"top":159,
 			"width":88,
@@ -6171,14 +6171,14 @@
 			"height":32
 		},
 		"Button_SceneReveal_Default":{
-			"text":"Default",
+			"text":"По умолчанию",
 			"left":655,
 			"top":34,
 			"width":125,
 			"height":32
 		},
 		"Button_Portraits_PlayerSkillBar":{
-			"text":"Player Skill Bar",
+			"text":"Панель навыков игрока",
 			"left":661,
 			"top":50,
 			"width":125,
@@ -6205,7 +6205,7 @@
 			"height":24
 		},
 		"Button_Lightning_InventoryLock":{
-			"text":"Inventory Lock",
+			"text":"Блокировка инвентаря",
 			"left":391,
 			"top":22,
 			"width":150,
@@ -6218,7 +6218,7 @@
 			"height":24
 		},
 		"Button_CooldownSoundPlayer_Add":{
-			"text":"Add to the list",
+			"text":"Добавить в список",
 			"left":492,
 			"top":268,
 			"width":288,
@@ -6231,147 +6231,147 @@
 			"height":24
 		},
 		"Button_BuffManager_Add":{
-			"text":"Add to the list",
+			"text":"Добавить в список",
 			"left":5,
 			"top":578,
 			"width":455,
 			"height":40
 		},
 		"Button_PartyMembersSkillBar_Add":{
-			"text":"Add to skill filter list",
+			"text":"Добавить в список фильтров навыков",
 			"left":510,
 			"top":268,
 			"width":288,
 			"height":40
 		},
 		"Button_MainBuffBar_Delete":{
-			"text":"Delete selected Buff",
+			"text":"Удалить выбранный бафф",
 			"left":801,
 			"top":312,
 			"width":192,
 			"height":40
 		},
 		"Button_MainBuffBar_Add":{
-			"text":"Add a new Buff",
+			"text":"Добавить новый бафф",
 			"left":609,
 			"top":312,
 			"width":192,
 			"height":40
 		},
 		"Button_ForgetUserName_ForgetUserName":{
-			"text":"Retrieve",
+			"text":"вернуть",
 			"HorizontalCenter":1,
 			"top":109,
 			"width":120,
 			"height":32
 		},
 		"Button_ForgetAccount_Send":{
-			"text":"Send Code",
+			"text":"Отправить код",
 			"left":268,
 			"top":111,
 			"width":88,
 			"height":32
 		},
 		"Button_ForgetAccount_ForgetAccount":{
-			"text":"Retrieve",
+			"text":"вернуть",
 			"HorizontalCenter":1,
 			"top":156,
 			"width":120,
 			"height":32
 		},
 		"Button_LoginBattleNet_Solution":{
-			"text":"Solution",
+			"text":"Решение",
 			"left":640,
 			"top":34,
 			"width":96,
 			"height":32
 		},
 		"Button_LoginBattleNet_Refresh":{
-			"text":"Refresh",
+			"text":"Обновить",
 			"left":270,
 			"top":34,
 			"width":75,
 			"height":32
 		},
 		"Button_MyAccount_RebindEmail":{
-			"text":"Rebind Email",
+			"text":"Перепривязать Email",
 			"HorizontalCenter":1,
 			"top":93,
 			"width":120,
 			"height":48
 		},
 		"Button_MyAccount_Renew_Renew":{
-			"text":"Renew",
+			"text":"Возобновить",
 			"left":82,
 			"top":131,
 			"width":84,
 			"height":32
 		},
 		"Button_MyAccount_Renew_ExpirationDate":{
-			"text":"Expiration date",
+			"text":"Дата окончания срока",
 			"left":234,
 			"top":131,
 			"width":128,
 			"height":32
 		},
 		"Button_UnbindMail_Send":{
-			"text":"Send Code",
+			"text":"Отправить код",
 			"left":268,
 			"top":53,
 			"width":88,
 			"height":32
 		},
 		"Button_UnbindMail_Next":{
-			"text":"Next",
+			"text":"Следующий",
 			"HorizontalCenter":1,
 			"top":100,
 			"width":120,
 			"height":32
 		},
 		"Button_BindEmail_Send":{
-			"text":"Send Code",
+			"text":"Отправить код",
 			"left":324,
 			"top":94,
 			"width":88,
 			"height":32
 		},
 		"Button_BindEmail_BindEmail":{
-			"text":"Bind Email",
+			"text":"Привязать Email",
 			"HorizontalCenter":1,
 			"top":139,
 			"width":120,
 			"height":32
 		},
 		"Button_Profiles_Download":{
-			"text":"Download profile",
+			"text":"Скачать профиль",
 			"left":0,
 			"top":0,
 			"width":104,
 			"height":24
 		},
 		"Button_Profiles_Import":{
-			"text":"Import profile",
+			"text":"Импорт профиля",
 			"left":176,
 			"top":96,
 			"width":104,
 			"height":24
 		},
 		"Button_Profiles_Export":{
-			"text":"Export profile",
+			"text":"Экспорт профиля",
 			"left":176,
 			"top":48,
 			"width":104,
 			"height":24
 		},
 		"Button_Profiles_Upload":{
-			"text":"Upload profile",
+			"text":"Загрузить профиль",
 			"left":32,
 			"top":48,
 			"width":104,
 			"height":24
 		},
 		"Button_InventoryLock_Delete":{
-			"text":"Delete area",
+			"text":"Удалить область",
 			"left":400,
 			"top":385,
 			"width":87,
@@ -6385,7 +6385,7 @@
 			"height":48
 		},
 		"Button_RunD3_2step_CreateAccount":{
-			"text":"Create",
+			"text":"Создать",
 			"left":292,
 			"top":30,
 			"width":72,
@@ -6399,14 +6399,14 @@
 			"height":48
 		},
 		"Button_RunD3_Default":{
-			"text":"Default",
+			"text":"По умолчанию",
 			"left":297,
 			"top":64,
 			"width":70,
 			"height":24
 		},
 		"Button_RunD3_Browse":{
-			"text":"Browse",
+			"text":"Обзор",
 			"left":297,
 			"top":32,
 			"width":70,
@@ -6427,84 +6427,84 @@
 			"height":32
 		},
 		"Button_SpecialMonster_Delete":{
-			"text":"Delete selected monster",
+			"text":"Удалить выбранного монстра",
 			"left":825,
 			"top":294,
 			"width":192,
 			"height":40
 		},
 		"Button_SpecialMonster_Add":{
-			"text":"Add a new monster",
+			"text":"Добавить нового монстра",
 			"left":633,
 			"top":294,
 			"width":192,
 			"height":40
 		},
 		"Button_BuffManager":{
-			"text":"Party Buff Manager",
+			"text":"Менеждер патийных баффов",
 			"left":250,
 			"top":523,
 			"width":158,
 			"height":32
 		},
 		"Button_MainBuffBar":{
-			"text":"Main Buff Bar",
+			"text":"Основная полоса баффов",
 			"left":35,
 			"top":524,
 			"width":158,
 			"height":32
 		},
 		"Button_ShrineAndPool":{
-			"text":"Shrine And Pool",
+			"text":"Святилища и чаши",
 			"left":38,
 			"top":25,
 			"width":142,
 			"height":32
 		},
 		"Button_SpecialBounty":{
-			"text":"Special Bounty",
+			"text":"Специальная награда",
 			"left":38,
 			"top":345,
 			"width":142,
 			"height":32
 		},
 		"Button_ChatsMonitor":{
-			"text":"Chats Monitor",
+			"text":"Монитор чатов",
 			"left":235,
 			"top":345,
 			"width":142,
 			"height":32
 		},
 		"Button_DangerousSkill":{
-			"text":"Dangerous Skill",
+			"text":"Опасное умение",
 			"left":341,
 			"top":155,
 			"width":118,
 			"height":32
 		},
 		"Button_MonsterPack":{
-			"text":"Monster Pack",
+			"text":"Пак мостров",
 			"left":184,
 			"top":155,
 			"width":118,
 			"height":32
 		},
 		"Button_EliteMonsterAffix":{
-			"text":"Elite Monster Affix",
+			"text":"Аффиск Элиты",
 			"left":26,
 			"top":155,
 			"width":118,
 			"height":32
 		},
 		"Button_DangerousMonster":{
-			"text":"Dangerous Monster",
+			"text":"Опасный монстр",
 			"left":27,
 			"top":107,
 			"width":118,
 			"height":32
 		},
 		"Button_MonstersCount":{
-			"text":"Monsters Count",
+			"text":"Счетчик монстров",
 			"left":184,
 			"top":107,
 			"width":118,
@@ -6518,14 +6518,14 @@
 			"height":32
 		},
 		"Button_Goblin":{
-			"text":"Goblin",
+			"text":"Гоблин",
 			"left":658,
 			"top":107,
 			"width":118,
 			"height":32
 		},
 		"Button_SpecialMonster":{
-			"text":"Special Monster",
+			"text":"Особый монстр",
 			"left":498,
 			"top":107,
 			"width":118,
