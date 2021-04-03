@@ -1849,133 +1849,133 @@
 			"height":48
 		},
 		"CheckBox_Lightning_BarbarianWrathOfTheBerserker":{
-			"text":"Wrath Of The Berserker: Keep Buff when equipped Immortal King 4p or equipped Boon of Bul-Kathos \r\nand CDR above 75% or надето ОКЗ or equipped Messerschmidt,Otherwise only cast when \r\nelite\/Boss is nearby or health less than 30%.",
+			"text":"Гнев берсерка: Удерживать бафф при экипировке 4 предметов из сета Призыв бессмертного короля или активна пассивка Милость Бул-Катоса \r\nи КДР выше 75% или надето ОКЗ или надет похититель Мессершмитта,в противном случае кастовать только \r\nпри наличии неподалеку Элиты\/Босса или здоровья менее 30%.",
 			"left":24,
 			"top":332,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_BarbarianRend":{
-			"text":"Rend: Cast every 3-4s when there are more than 5 monsters in the skill range",
+			"text":"Рваные раны: Применяется каждые 3-4 секунды, если в области применения умения более 5 монстров.",
 			"left":24,
 			"top":50,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_BarbarianOverPower":{
-			"text":"Over Power: Keep Buff when Killing Spree,Crushing Advance rune,\r\nCast when Momentum rune and Fury less than 30 and more than 5 monsters are around,\r\nOther runes cast when monster is around.",
+			"text":"Сверхсила: Применяется когда активны руны Череда убийств, Сокрушительное преимущество,\r\nПрименяется когда активна руна Импульс и Ярости менее 30 и более 5 монстров рядом,\r\nДругие руны применяются когда монстры в округе.",
 			"left":24,
 			"top":92,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_BarbarianAncientSpear":{
-			"text":"AncientS pear - Boulder Toss: Cast when equipped Immortal King 6p + Raekor 4p and Wrath of the \r\nBerserker on cooldown and Fury above 98% to make Obsidian effective, \r\nKeep Bastions of Will Buff.",
+			"text":"Копье Древних - Бросок валуна: Применяется когда надето 6 предметов из сета Призыв бессмертного короля + 4 предмета из сета Наследие Рекор и Гнев берсерка на кулдауне \r\nи Ярость выше 98%, чтобы ОКЗ стало эффективным., \r\nУдержать бафф Оплот воли.",
 			"left":24,
 			"top":147,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_BarbarianSeismicSlam":{
-			"text":"Seismic Slam - Rumble: Cast when equipped Immortal King 6p + Raekor 4p and Wrath of the \r\nBerserker on cooldown and Fury above 98% to make Obsidian effective, \r\nKeep Bastions of Will Buff.",
+			"text":"Сейсмический удар - Грохотание: Применяется когда надето 6 предметов из сета Призыв бессмертного короля + 4 предмета из сета Наследие Рекор и Гнев берсерка на кулдауне \r\nи Ярость выше 98%, чтобы ОКЗ стало эффективным., \r\nУдержать бафф Оплот воли.",
 			"left":24,
 			"top":208,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_BarbarianBandofMight":{
-			"text":"Band of Might: Keep Buff try cast Furious Charge, Leap, Ground Stomp,\r\n(This plugin has no effect on support barbarian)",
+			"text":"Кольцо силы: Применяется при использовании умений Яростный рывок, Топот, Удар в прыжке,\r\n(Неэффективно для сапп Барба)",
 			"left":24,
 			"top":270,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_BarbarianWhirlwind":{
-			"text":"Whirlwind:Auto hold Whirlwind or lock the healthiest monster in the cursor area\r\n(Not including the Minion)",
+			"text":"Вихрь:Автоудержание Вихрь или блокировка самого здорового монстра в области курсора\r\n(Не включая миньона)",
 			"left":16,
 			"top":21,
 			"width":619,
 			"height":48
 		},
 		"CheckBox_Lightning_BarbarianIgnorePain":{
-			"text":"Ignore Pain: Cast when in danger, Cast when Mob Rule rune and all party member within 50 yards,\r\nForce cast when any party member have Stone Gauntlets deBuff,\r\nKeep Buff when Other runes and equipped Pride of Cassius  or Obsidian or Messerschmidt \r\nor Wrath of the Wastes set 6p",
+			"text":"Стойкость к боли: Применяется при опасности, Используется, когда активна руна Закон толпы и все члены группы в радиусе 50 ярдов,\r\nПринудительное применение, когда у любого члена группы есть дебафф Каменных рукавиц,\r\nСохранять усиление при использовании других рун и экипировке Гордость Кассия, ОКЗ или Похитителя Мессершмитта. \r\nили при наличии 6 предметов из сета Гнев пустошей.",
 			"left":24,
 			"top":255,
 			"width":600,
 			"height":64
 		},
 		"CheckBox_Lightning_BarbarianCallOfTheAncients":{
-			"text":"Call Of The Ancients: Keep Buff when equipped Immortal King set 2p,\r\nOtherwise cast when elite\/Boss is nearby and health less than 50%.",
+			"text":"Зов Древних: Применяется при использовании 2 предметов из сета Призыв бессмертного короля,\r\nИначе применяется при наличии Элиты\/Босса рядом и здоровья менее 50%.",
 			"left":24,
 			"top":214,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_BarbarianWarCry":{
-			"text":"War Cry: Kepp Buff,\r\nCast when equipped Chilanik's Chain and all party member within 100 yards,\r\nGive priority to party member Buff.",
+			"text":"Воинственный клич: Удерживать бафф,\r\nПрименять когда надета цепь Чиланика и все члены группы в радиусе 100 ярдов,\r\nОтдать приоритет баффу члена группы.",
 			"left":24,
 			"top":173,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_BarbarianSprint":{
-			"text":"Sprint: Cast when Forced March rune and all party member within 50 yards,\r\nKeep Buff when other runes and running.",
+			"text":"Спринт: Применяется когда активна руна Форсированный марш и все члены группы в радиусе 50 ярдов,\r\nУдерживать бафф, когда другие руны и при беге.",
 			"left":24,
 			"top":132,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_BarbarianBattleRage":{
-			"text":"Battle Rage: Kepp Buff",
+			"text":"Боевая ярость: Удерживать бафф",
 			"left":24,
 			"top":91,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_BarbarianThreateningShout":{
-			"text":"Threatening Shout: Cast when elite\/Boss or 10 monsters within 25 yards,\r\nCast when Grim Harvest rune and within 15 yards from party and monsters(10 monster or elite\/Boss)",
+			"text":"Угрожающий крик: Применяется когда Элита\/Босс или 10 монстров в радиусе 25 ярдов,\r\nПрименяется при активной руне Мрачный урожай и в пределах 15 ярдов от группы и монстров(10 монстров или Элита\/Восс)",
 			"left":24,
 			"top":50,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorSpiritWalk":{
-			"text":"Spirit Walk: Keep Buff when equipped Mundunugu set 4p.",
+			"text":"Поступь духа: Применять бафф при надетых 4 предметах сета Мундунугу",
 			"left":177,
 			"top":520,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorCorpseSpiders":{
-			"text":"Corpse Spiders - Spider Queen: Cast when Spider Queen disappears.",
+			"text":"Трупные пауки - Паучья королева: Применяется, когда Паучья Королева исчезает.",
 			"left":177,
 			"top":474,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorHorrify":{
-			"text":"Horrify: Cast when 5 monsters or elite\/Boss within skill range,\r\nCast when надето ОКЗ and monster is around,\r\nCast when Frightening Aspect and monster within 50 yards",
+			"text":"Ужас: Применяется когда 5 монстров или Элита\/Босс находятся в области применения умения,\r\nПрименяется когда надето ОКЗ и монстр вокруг,\r\nПрименяется когда активна руна Пугающий вид и монстр в пределах 50 ярдов",
 			"left":177,
 			"top":415,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_WitchDoctorSpiritBarragePhantasm":{
-			"text":"Spirit Barrage - Phantasm: Cast when Phantasm quantity less than 3 within 60 yards and Force Move not pressed.",
+			"text":"Призрачный шквал - Фантазм: Применяется, когда количество Фантазмов меньше 3 в пределах 60 ярдов и Force Move не нажата..",
 			"left":177,
 			"top":372,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorHex":{
-			"text":"Hex: Keep Buff when equipped Arachyr set 4p.",
+			"text":"Сглаз: Удерживать бафф когда надето 4 предмета из сета Дух Арахира.",
 			"left":177,
 			"top":329,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorBigBadVoodoo":{
-			"text":"Big Bad Voodoo: Cast when equipped Starmetal Kukri and fetish is around or equipped Grave Injustice \r\nand elite\/Boss is nearby, or keep Buff when equipped Mundunugu set 2p and equipped Grave Injustice",
+			"text":"Большое страшное вуду: Применяется при использовании Кукри из звездного металла и наличии фетишей вокруг или активной пассивке Несправедливая смерть \r\nи Элита\/Босс рядом, или удерживать бафф когда надето 2 предмета из сета Мундунугу и активной пассивке Несправедливая смерть",
 			"left":177,
 			"top":286,
 			"width":600,
@@ -2220,21 +2220,21 @@
 			"height":32
 		},
 		"CheckBox_Lightning_DrinkHealthPotion":{
-			"text":"Auto drink health potion: STD:       %,HC:       %,In danger zone:       %",
+			"text":"Зелье здоровья автоиспользование: STD:       %,HC:       %,In danger zone:       %",
 			"left":177,
 			"top":223,
 			"width":597,
 			"height":32
 		},
 		"CheckBox_BuffManager_UnderTheParty":{
-			"text":"Under the party",
+			"text":"Под группу",
 			"left":192,
 			"top":57,
 			"width":150,
 			"height":32
 		},
 		"CheckBox_BuffManager_UnderMyself":{
-			"text":"Under myself",
+			"text":"Под себя",
 			"left":192,
 			"top":21,
 			"width":150,
@@ -2399,7 +2399,7 @@
 			"height":32
 		},
 		"CheckBox_PlayerSkills_Pets_RadiusBottom_NecromancerSimulacrumGrimScythe":{
-			"text":"Grim scythe",
+			"text":"Мрачный жнец",
 			"left":230,
 			"top":34,
 			"width":100,
@@ -2508,14 +2508,14 @@
 			"height":32
 		},
 		"CheckBox_PlayerSkills_Pets_OnlyMine":{
-			"text":"Only display my pets",
+			"text":"Показывать только моих питомцев",
 			"left":130,
 			"top":33,
 			"width":180,
 			"height":32
 		},
 		"CheckBox_PlayerSkills_Pets_OnlyOnScreen":{
-			"text":"Only display on screen",
+			"text":"Отображать только на экране",
 			"left":280,
 			"top":33,
 			"width":168,
@@ -2541,28 +2541,28 @@
 			"height":32
 		},
 		"CheckBox_PlayerSkills_PlayerSkillCircles_NecromancerFrailtyAuraofFrailty":{
-			"text":"Frailty\r\nAura of Frailty",
+			"text":"Хрупкость\r\nАура хрупкости",
 			"left":315,
 			"top":200,
 			"width":145,
 			"height":32
 		},
 		"CheckBox_PlayerSkills_PlayerSkillCircles_NecromancerLandoftheDead":{
-			"text":"Land of the dead",
+			"text":"Царство мертвых",
 			"left":150,
 			"top":200,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_PlayerSkills_PlayerSkillCircles_NecromancerGrimScythe":{
-			"text":"Grim scythe",
+			"text":"Мрачный жнец",
 			"left":315,
 			"top":159,
 			"width":140,
 			"height":32
 		},
 		"CheckBox_PlayerSkills_PlayerSkillCircles_NecromancerDevourDevouringAura":{
-			"text":"Devour\r\nDevouring aura",
+			"text":"Пожирание\r\nАура пожрания",
 			"left":150,
 			"top":159,
 			"width":140,
@@ -2772,7 +2772,7 @@
 			"height":32
 		},
 		"CheckBox_PartyMembersSkillBar_Necromancer":{
-			"text":"Necromancer",
+			"text":"Некромант",
 			"left":8,
 			"top":280,
 			"width":140,
@@ -3143,14 +3143,14 @@
 			"height":24
 		},
 		"CheckBox_MonstersCount_ShowPainEnhancerCount":{
-			"text":"Show pain enhancer Count\r\n and attack speed bonus",
+			"text":"Показывать счетчик усилителя боли\r\n и бонус скорости атаки",
 			"left":216,
 			"top":395,
 			"width":190,
 			"height":32
 		},
 		"CheckBox_MonstersCount_ShowEntanglingShotCount":{
-			"text":"Show entangling shot count",
+			"text":"Показать счетчик запутывающих выстрелов",
 			"left":216,
 			"top":356,
 			"width":190,
@@ -3276,7 +3276,7 @@
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Waller":{
-			"text":"Waller",
+			"text":"Воздвигает стены",
 			"left":144,
 			"top":40,
 			"width":120,
@@ -3360,7 +3360,7 @@
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_MissileDampening":{
-			"text":"Missile Dampening",
+			"text":"Купол",
 			"left":144,
 			"top":451,
 			"width":130,
@@ -3388,14 +3388,14 @@
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Thunderstorm":{
-			"text":"Thunderstorm",
+			"text":"Гроза",
 			"left":24,
 			"top":417,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Reflect":{
-			"text":"Рефлект",
+			"text":"Отражает урон",
 			"left":24,
 			"top":383,
 			"width":120,
@@ -3423,56 +3423,56 @@
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Orbiter":{
-			"text":"Orbiter",
+			"text":"Орбитальный",
 			"left":24,
 			"top":278,
 			"width":120,
 			"height":35
 		},
 		"CheckBox_DangerousAffixMonster_Molten":{
-			"text":"Molten",
+			"text":"Раскаленный",
 			"left":24,
 			"top":244,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_FrozenPulse":{
-			"text":"Frozen Pulse",
+			"text":"Заморозка",
 			"left":24,
 			"top":210,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_FireChains":{
-			"text":"Fire Chains",
+			"text":"Огненные цепи",
 			"left":24,
 			"top":142,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Desecrator":{
-			"text":"Desecrator",
+			"text":"Осквернитель",
 			"left":24,
 			"top":108,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Electrified":{
-			"text":"Electrified",
+			"text":"Электрический",
 			"left":24,
 			"top":74,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_DangerousAffixMonster_Arcane":{
-			"text":"Аркана",
+			"text":"Тайная магия",
 			"left":24,
 			"top":40,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Mortar":{
-			"text":"Mortar",
+			"text":"Мортира",
 			"left":24,
 			"top":530,
 			"width":120,
@@ -3486,14 +3486,14 @@
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Thunderstorm":{
-			"text":"Thunderstorm",
+			"text":"Гроза",
 			"left":24,
 			"top":462,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Reflect":{
-			"text":"Reflect",
+			"text":"Отражающий щит",
 			"left":24,
 			"top":428,
 			"width":120,
@@ -3507,77 +3507,77 @@
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Frozen":{
-			"text":"Frozen",
+			"text":"Заморозка",
 			"left":24,
 			"top":223,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Plagued":{
-			"text":"Plagued",
+			"text":"Чумной",
 			"left":24,
 			"top":360,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Orbiter":{
-			"text":"Orbiter",
+			"text":"Орбитальный",
 			"left":24,
 			"top":325,
 			"width":120,
 			"height":35
 		},
 		"CheckBox_EliteMonsterAffix_Molten":{
-			"text":"Molten",
+			"text":"Раскаленный",
 			"left":24,
 			"top":291,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_FrozenPulse":{
-			"text":"Frozen Pulse",
+			"text":"Заморозка",
 			"left":24,
 			"top":257,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_FireChains":{
-			"text":"Fire Chains",
+			"text":"Огненные цепи",
 			"left":24,
 			"top":189,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Desecrator":{
-			"text":"Desecrator",
+			"text":"Осквернитель",
 			"left":24,
 			"top":155,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Electrified":{
-			"text":"Electrified",
+			"text":"Электрический",
 			"left":24,
 			"top":121,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Arcane":{
-			"text":"Arcane",
+			"text":"Тайная магия",
 			"left":24,
 			"top":87,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Mortar":{
-			"text":"Mortar",
+			"text":"Мортира",
 			"left":24,
 			"top":485,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Jailer":{
-			"text":"Jailer",
+			"text":"Тюремщик",
 			"left":24,
 			"top":451,
 			"width":120,
@@ -3591,7 +3591,7 @@
 			"height":32
 		},
 		"CheckBox_MonsterPack_Reflect":{
-			"text":"Reflect",
+			"text":"Отражает урон",
 			"left":24,
 			"top":383,
 			"width":120,
@@ -3605,28 +3605,28 @@
 			"height":32
 		},
 		"CheckBox_MonsterPack_Frozen":{
-			"text":"Frozen",
+			"text":"Заморозка",
 			"left":24,
 			"top":178,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Plagued":{
-			"text":"Plagued",
+			"text":"Чумной",
 			"left":24,
 			"top":315,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Orbiter":{
-			"text":"Orbiter",
+			"text":"Орбитльный",
 			"left":24,
 			"top":280,
 			"width":120,
 			"height":35
 		},
 		"CheckBox_MonsterPack_Molten":{
-			"text":"Molten",
+			"text":"Раскаленный",
 			"left":24,
 			"top":246,
 			"width":120,
@@ -3640,224 +3640,224 @@
 			"height":32
 		},
 		"CheckBox_MonsterPack_FireChains":{
-			"text":"Fire Chains",
+			"text":"Огненные цепи",
 			"left":24,
 			"top":144,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Desecrator":{
-			"text":"Desecrator",
+			"text":"Осквернитель",
 			"left":24,
 			"top":110,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Electrified":{
-			"text":"Electrified",
+			"text":"Электрический",
 			"left":24,
 			"top":76,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Arcane":{
-			"text":"Arcane",
+			"text":"Тайная магия",
 			"left":24,
 			"top":42,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Waller":{
-			"text":"Waller",
+			"text":"Воздвигает стены",
 			"left":250,
 			"top":87,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_HealthLink":{
-			"text":"HealthLink",
+			"text":"Общее здоровье",
 			"left":250,
 			"top":121,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Fast":{
-			"text":"Fast",
+			"text":"Быстрый",
 			"left":250,
 			"top":155,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Illusionist":{
-			"text":"Illusionist",
+			"text":"Иллюзионист",
 			"left":250,
 			"top":189,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Knockback":{
-			"text":"Knockback",
+			"text":"Отбрасывает",
 			"left":250,
 			"top":223,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Nightmarish":{
-			"text":"Nightmarish",
+			"text":"Вселяет ужас",
 			"left":250,
 			"top":257,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Shielding":{
-			"text":"Shielding",
+			"text":"Щит",
 			"left":250,
 			"top":291,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Teleporter":{
-			"text":"Teleporter",
+			"text":"Телепортируется",
 			"left":250,
 			"top":325,
 			"width":120,
 			"height":35
 		},
 		"CheckBox_EliteMonsterAffix_Vortex":{
-			"text":"Vortex",
+			"text":"Вихрь",
 			"left":250,
 			"top":360,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Wormhole":{
-			"text":"Wormhole",
+			"text":"Червоточина",
 			"left":250,
 			"top":394,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Avenger":{
-			"text":"Avenger",
+			"text":"Мститель",
 			"left":250,
 			"top":428,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Horde":{
-			"text":"Horde",
+			"text":"Орда",
 			"left":250,
 			"top":462,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_MissileDampening":{
-			"text":"Missile Dampening",
+			"text":"Купол",
 			"left":250,
 			"top":496,
 			"width":130,
 			"height":32
 		},
 		"CheckBox_EliteMonsterAffix_Juggernaut":{
-			"text":"Juggernaut",
+			"text":"Натиск",
 			"left":250,
 			"top":530,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Waller":{
-			"text":"Waller",
+			"text":"Воздвигает стены",
 			"left":250,
 			"top":42,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_HealthLink":{
-			"text":"Health Link",
+			"text":"Общее здоровье",
 			"left":250,
 			"top":76,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Fast":{
-			"text":"Fast",
+			"text":"Быстрый",
 			"left":250,
 			"top":110,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Illusionist":{
-			"text":"Illusionist",
+			"text":"Иллюзионист",
 			"left":250,
 			"top":144,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Knockback":{
-			"text":"Knockback",
+			"text":"Отбрасывает",
 			"left":250,
 			"top":178,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Nightmarish":{
-			"text":"Nightmarish",
+			"text":"Вселяет ужас",
 			"left":250,
 			"top":212,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Shielding":{
-			"text":"Shielding",
+			"text":"Щит",
 			"left":250,
 			"top":246,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Teleporter":{
-			"text":"Teleporter",
+			"text":"Телепортируется",
 			"left":250,
 			"top":280,
 			"width":120,
 			"height":35
 		},
 		"CheckBox_MonsterPack_Vortex":{
-			"text":"Vortex",
+			"text":"Вихрь",
 			"left":250,
 			"top":315,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Wormhole":{
-			"text":"Wormhole",
+			"text":"Червоточина",
 			"left":250,
 			"top":349,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Avenger":{
-			"text":"Avenger",
+			"text":"Мститель",
 			"left":250,
 			"top":383,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Horde":{
-			"text":"Horde",
+			"text":"Орда",
 			"left":250,
 			"top":417,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_MonsterPack_MissileDampening":{
-			"text":"Missile Dampening",
+			"text":"Купол",
 			"left":250,
 			"top":451,
 			"width":130,
 			"height":32
 		},
 		"CheckBox_MonsterPack_Juggernaut":{
-			"text":"Juggernaut",
+			"text":"Натиск",
 			"left":250,
 			"top":485,
 			"width":120,
@@ -4004,7 +4004,7 @@
 			"height":32
 		},
 		"CheckBox_EliteMonsterSkill_Wormhole":{
-			"text":"Wormhole",
+			"text":"Червоточина",
 			"left":16,
 			"top":265,
 			"width":120,
@@ -4018,14 +4018,14 @@
 			"height":32
 		},
 		"CheckBox_EliteMonsterSkill_Plagued":{
-			"text":"Plagued",
+			"text":"Чумной",
 			"left":16,
 			"top":203,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterSkill_Molten":{
-			"text":"Molten",
+			"text":"Раскаленный",
 			"left":16,
 			"top":172,
 			"width":120,
@@ -4039,21 +4039,21 @@
 			"height":32
 		},
 		"CheckBox_EliteMonsterSkill_Frozen":{
-			"text":"Frozen",
+			"text":"Заморозка",
 			"left":16,
 			"top":110,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterSkill_Desecrator":{
-			"text":"Desecrator",
+			"text":"Осквернитель",
 			"left":16,
 			"top":79,
 			"width":120,
 			"height":32
 		},
 		"CheckBox_EliteMonsterSkill_Arcane":{
-			"text":"Arcane",
+			"text":"Тайная магия",
 			"left":16,
 			"top":48,
 			"width":120,
