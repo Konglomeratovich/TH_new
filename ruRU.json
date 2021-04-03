@@ -1982,147 +1982,147 @@
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorMassConfusion":{
-			"text":"Mass Confusion: Cast when elite\/Boss or 3 monsters within 18 yards.",
+			"text":"Всеобщее помешательство: Применять когда Элита\/Босс или 3 монстра в пределах 18 ярдов.",
 			"left":177,
 			"top":243,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorSoulHarvest":{
-			"text":"Soul Harvest: Cast when elite\/Boss or 3 monsters within 18 yards.",
+			"text":"Жатва душ: Применять когда Элита\/Босс или 3 монстра в пределах 18 ярдов.",
 			"left":177,
 			"top":141,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorSoulHarvestJadeHarvester":{
-			"text":"Soul Harvest - Jade Harvester: Cast when equipped Jade Harvester set 6p and any monster within 18 \r\nyards around affected by Haunt, Cast when equipped Ring of Emptiness and any monster effected by \r\nHaunt and Locust, Priority to keep Jade Harvester Buff.",
+			"text":"Жатва душ - Нефритовый жнец: Применять когда экипировано 6 предметов сета Нефритовый жнец и любой монстр в пределах 18 \r\nярдов Поражен умением Мстительный дух, Применять когда надето кольцо пустоты и любой монстр \r\nярдов Поражен умением Мстительный дух и Саранча, Приоритет сохранения сет Нефритового жнеца.",
 			"left":177,
 			"top":184,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_WitchDoctorFetishArmy":{
-			"text":"Fetish Army: Cast when equipped Zunimassa set 2p and Fetish insufficient quantity.",
+			"text":"Армия фетишей: Применять когда экипировано 2 предмета из сета Зунимассы и недостаточное количество фетишей.",
 			"left":177,
 			"top":98,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorGargantuan":{
-			"text":"Gargantuan: Cast when elite\/Boss within 40 yards or health less than 50%.",
+			"text":"Громадень: Применять когда Элита\/Восс находится в пределах 40 ярдов или количество здоровья менее 50%.",
 			"left":177,
 			"top":55,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorZombieDogs":{
-			"text":"Zombie Dogs: Cast when Zombie Dogs quantity less than          or equipped The Tall Man's Finger and \r\nZombie Dogs disappear.",
+			"text":"Призыв псов зомби: Применяется, когда количество зомби-псов меньше          или надет Палец Высокого Человека и \r\nПсы-зомби исчезли.",
 			"left":177,
 			"top":12,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_MonkTempestRush":{
-			"text":"Tempest Rush: Auto hold Tempest Rush or lock the healthiest monster in the cursor area\r\n(Not including the Minion)",
+			"text":"Стремительность урагана: Автоматическое удержание Стремительности урагана или фиксация самого здорового монстра в области курсора\r\n(Not including the Minion)",
 			"left":16,
 			"top":21,
 			"width":619,
 			"height":48
 		},
 		"CheckBox_Lightning_MonkMysticAlly":{
-			"text":"Mystic Ally: Cast when Air Ally rune and Spirit less than 50%, Cast when Enduring Ally rune and health less than 30%.",
+			"text":"Таинственный союзник: Применять когда используется руна Воздушный союзник и запасы духа менее 50%, Применять когда активна руна Выносливый союзник и запас здоровья менее 30%.",
 			"left":24,
 			"top":253,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_MonkSweepingWind":{
-			"text":"Sweeping Wind: Keep Buff when enough resources.",
+			"text":"Хлещущий ветер: Применять бафф пока достаточно ресурса.",
 			"left":24,
 			"top":220,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_MonkBreathOfHeaven":{
-			"text":"Breath Of Heaven: Cast when any party member health less than 70% within 12 yards, \r\nCast when Blazing Wrath rune and elite\/Boss within 40 yards,\r\nCast when Zephyr rune and CDR above 65% and  надето ОКЗ or CDR above 74%,\r\nCast when Infused with Light rune and CDR above 65% and надето ОКЗ or CDR above 74% and \r\nSpirit less than 50%.",
+			"text":"Дыхание небес: Применяется, когда здоровье любого члена группы менее 70% в пределах 12 ярдов, \r\nПрименять когда используется руна Пламенный гнев и Элита\/Босс находится в пределах 40 ярдов,\r\nПрименять когда используется руна Ветерок и КДР более 65% и  надето ОКЗ или КДП более 74%,\r\nПрименять когда используется руна Наполненность светом КДР более 65% и надето ОКЗ или КДР более 74% и \r\nзапасы духа менее 50%.",
 			"left":24,
 			"top":140,
 			"width":600,
 			"height":80
 		},
 		"CheckBox_Lightning_MonkSerenity":{
-			"text":"Serenity: Cast when health less than 60% or health potion on cooldown and health less than 80%,\r\nCast when Tranquility rune and CDR above 70% and Support the priority protection of Witch Doctor, \r\nCNecromancer, and the Crusader.",
+			"text":"Покой: Применять когда запас здоровья менее 60% или зелье здоровья в откате и запас здоровья менее 80%,\r\nПрименять когда используется руна Спокойствие и КДР более 70% и при поддержке защиты Колдуна, \r\nНекроманта, Крестоносца.",
 			"left":24,
 			"top":90,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_MonkMantraOfConviction":{
-			"text":"Mantra Of Conviction: Keep Buff when Epiphany is activated and not idle,\r\nKeep Buff elite\/Boss is nearby and enough resources.",
+			"text":"Мантра осуждения: ПРименять бафф когда умение Прозрение активировано и не бездействует,\r\nУдерживать бафф когда Элита\/Босс рядом и достаточно ресурса.",
 			"left":24,
 			"top":50,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_MonkAutoFight":{
-			"text":"Auto Fight:\r\nAuto move to a good position around boss and fight\r\n(Use Deadly Reach first, then Crippling Wave)",
+			"text":"Автобой:\r\nАвтоматически перемещайтесь на хорошую позицию вокруг босса и сражайтесь\r\n(Сначала используйте Касание смерти затем Волна увечий)",
 			"left":16,
 			"top":21,
 			"width":597,
 			"height":48
 		},
 		"CheckBox_Lightning_MonkMantraOfHealing":{
-			"text":"Mantra Of Healing:Keep Buff when not idle and monster is around and Spirit above 90%.\r\n(Priority keep Aquila Cuirass Buff)\r\nCast when any party member the shield buff disappear and Spirit above 50%,\r\nDPS priority protection when Spirit less than 30%.",
+			"text":"Мантра исцеления:Держите бафф, когда не бездействуете, и монстр рядом, а дух выше 90%.\r\n(Приоритетно для Кирасы Акилы)\r\nПрименяется, когда у любого члена группы исчезает бафф щита и запасы духа более 50%,\r\nDPS приоритетная защита, когда запасы духа менее 30%.",
 			"left":24,
 			"top":250,
 			"width":600,
 			"height":64
 		},
 		"CheckBox_Lightning_MonkMantraOfSalvation":{
-			"text":"Mantra Of Salvation: Keep Buff when not idle and monster is around.",
+			"text":"Мантра спасения: Держите бафф, когда не бездействуете и рядом монстр.",
 			"left":24,
 			"top":210,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_MonkCycloneStrike":{
-			"text":"Cyclone Strike: Cast when Soothing Breeze rune and attacking monster within 50 yards(Do not cast when \r\nSpawning BOSS), Keep Buff when other runes and equipped Lefebvre's Soliloquy.",
+			"text":"Ураганный удар: Применяется когда используется руна Успокаивающее дыхание и происходит атака монстра в радиусе 50 ярдов(Не использовать когда \r\nСпавнится босс), Сохраняйте бафф, когда используются другие руны и используется Монолог Лефевр.",
 			"left":24,
 			"top":170,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_MonkInnerSanctuary":{
-			"text":"Inner Sanctuary:Cast when attacking and BOSS or 5 monsters within 50 yards.",
+			"text":"Святая святых: Применяется при атаке на БОССЕ или 5 монстрах в радиусе 50 ярдов..",
 			"left":24,
 			"top":130,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_MonkBlindingFlash":{
-			"text":"Blinding Flash: Cast when attacking and 5 monsters or elite within 20 yards,\r\nDo not cast when only BOSS is nearby.",
+			"text":"Ослепляющая вспышка: Применяется при атаке и 5 монстрах или элите в радиусе 20 ярдов.,\r\nНе используйте, когда рядом находится только БОСС.",
 			"left":24,
 			"top":90,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_MonkEpiphany":{
-			"text":"Epiphany: Keep Buff when idle and monster is around.",
+			"text":"Прозрение: Держите бафф, когда умение неактивно и монстр рядом.",
 			"left":24,
 			"top":50,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardArchonArcaneBlast":{
-			"text":"Archon - Arcane Blast: Cast when monster is around.",
+			"text":"Архонт - Чародейская вспышка: Применяется, когда рядом находится монстр.",
 			"left":177,
 			"top":488,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardArchonSlowTime":{
-			"text":"Archon - Slow Time: Auto activate",
+			"text":"Архонт - Замедление времени: Автоактивация",
 			"left":177,
 			"top":442,
 			"width":600,
@@ -2136,84 +2136,84 @@
 			"height":32
 		},
 		"CheckBox_Lightning_WizardBlackHole":{
-			"text":"Black Hole: Cast when Absolute Zero rune or Spellsteal rune and equipped COE and monster is within 15 \r\nyards from cursor position and COE less than 1s from highest element.",
+			"text":"Черная дыра: Cast when Absolute Zero rune or Spellsteal rune and equipped COE and monster is within 15 \r\nyards from cursor position and COE less than 1s from highest element.",
 			"left":177,
 			"top":356,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardHydra":{
-			"text":"Hydra: Cast when equipped Serpent's Sparker and Typhon set 4p and 5 stacks Arcane Dynamo within the cursor area near the elite in the Blizzard range.",
+			"text":"Гидра: Cast when equipped Serpent's Sparker and Typhon set 4p and 5 stacks Arcane Dynamo within the cursor area near the elite in the Blizzard range.",
 			"left":177,
 			"top":534,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardMirrorImage":{
-			"text":"Mirror Image: When equipped Firebird's Finery 6p and Elite or boss or more than 10 monsters within 20 \r\nyards, Cast in the appropriate COE cycle",
+			"text":"Зеркально отражение: When equipped Firebird's Finery 6p and Elite or boss or more than 10 monsters within 20 \r\nyards, Cast in the appropriate COE cycle",
 			"left":177,
 			"top":626,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardBlizzard":{
-			"text":"Blizzard: Cast when equipped Winter Flurry and elite not affected by Blizzard and at least one Hydra \r\nwithin cursor area.",
+			"text":"Снежная буря: Cast when equipped Winter Flurry and elite not affected by Blizzard and at least one Hydra \r\nwithin cursor area.",
 			"left":177,
 			"top":580,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardFamiliar":{
-			"text":"Familiar: Keep Buff.",
+			"text":"Фамилиар: Держите бафф.",
 			"left":177,
 			"top":313,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardMagicWeapon":{
-			"text":"Magic Weapon: Keep Buff.",
+			"text":"Магическое оружие: Держите бафф.",
 			"left":177,
 			"top":270,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardStormArmor":{
-			"text":"Storm Armor: Keep Buff.",
+			"text":"Доспех бури: Держите бафф.",
 			"left":177,
 			"top":227,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardIceArmor":{
-			"text":"Ice Armor: Keep Buff.",
+			"text":"Ледяной доспех: Держите бафф.",
 			"left":177,
 			"top":184,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardEnergyArmor":{
-			"text":"Energy Armor: Keep Buff.",
+			"text":"Энергетический доспех: Держите бафф.",
 			"left":177,
 			"top":141,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardFrostNova":{
-			"text":"Frost Nova: Cast when monster within 16 yards(Do not cast when Spawning BOSS)\r\nCast when Deep Freeze rune and 5 monsters are around.",
+			"text":"Кольцо льда: Cast when monster within 16 yards(Do not cast when Spawning BOSS)\r\nCast when Deep Freeze rune and 5 monsters are around.",
 			"left":177,
 			"top":98,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardExplosiveBlast":{
-			"text":"Explosive Blast: Cast when monster is around.",
+			"text":"Энергетический взрыв: Cast when monster is around.",
 			"left":177,
 			"top":55,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_WizardArcaneOrb":{
-			"text":"Arcane Orb - Arcane Orbit: Cast when Arcane Orbit disappear.",
+			"text":"Магическая сфера - Arcane Orbit: Cast when Arcane Orbit disappear.",
 			"left":177,
 			"top":12,
 			"width":600,
