@@ -1695,161 +1695,161 @@
 			"height":82
 		},
 		"CheckBox_Lightning_NecLandOfTheDead":{
-			"text":"Land Of The Dead: Keep buff when Simulacrum is in effect, it is cast in           to          seconds(Do not cast \r\nequipped Haunted Visions),When equipped Pestilence Master 6p and Captain Crimson 3p and  \r\nMesserschmidt or Blood is Power.",
+			"text":"Царство мертвых: Сохраняет бафф, когда действует Симулякр, он накладывается           to          секунд (Do not cast \r\nпри экипирован Призрачные видения),При наличии Покров Владыки мора 6 предметов и Одежды капитана Кримсона 3 предмета и  \r\nПохититель Мессершмитта или Активна пассивка Сила крови.",
 			"left":177,
 			"top":114,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_NecSimulacrum":{
-			"text":"Simulacrum: Cast when equipped Haunted Visions and quantity is insufficient. Cast when Land Of The \r\nDead effect is in 1s, Cast when CD less than Buff time +           s.",
+			"text":"Симулякр: Используется при экипировке Призрачные видения и недостаточном количестве. Применяется, когда эффект \r\nЦарство мертвых длится 1 с, Применяется, когда КД меньше времени Баффа +           s.",
 			"left":177,
 			"top":63,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_NecDevour":{
-			"text":"Devour: Cast when dead body around or Land Of The Dead is in effect and monster around or \r\nHealth or resource is insufficient.",
+			"text":"Пожирание: Применяется, когда вокруг труп или действует или действует царство мертвых и когда вокруг трупы или \r\nколичество здоровья или ресурса недостаточно.",
 			"left":177,
 			"top":12,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_DemonHunterStrafeHungeringArrow":{
-			"text":"Auto Strafe and Hungering Arrow: Keep Gears of Dreadlands set 2p BUFF and hole Strafe, \r\nyou can switch to Strafeing&Devouring, Shoot more Hungering Arrows.",
+			"text":"Автокаст обстрела и самонаводящейся стрелы: Экипировано 2 предмета из сета Шестерни мертвых земель и выбран обстрел, \r\nвы можете переключиться на Strafeing&Devouring, Выпускать больше самонаводящихся стрел.",
 			"left":16,
 			"top":19,
 			"width":597,
 			"height":32
 		},
 		"CheckBox_Lightning_DemonHunterRainofVengeance":{
-			"text":"Rain of Vengeance: Kepp Natalya 6p Buff.",
+			"text":"Ливень возмездия: При наличии 6 предметов сета Натальи.",
 			"left":177,
 			"top":604,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_DemonHunterImpale":{
-			"text":"Impale: Keep Chain of Shadows Buff when equipped Vault.",
+			"text":"Бросок кинжала: Сохраняйте бафф Цепи теней при использовании кульбит.",
 			"left":177,
 			"top":554,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_DemonHunterVengeance":{
-			"text":"Vengeance: When Dark Heart,Side Cannons rune, then cast health less then 60%, \r\nCast when equipped Dawn or Obsidian and elite is nearby, \r\nCast when CDR Above 29% and monster around, Keep Buff when CDR above 36%,\r\nCast when Seethe rune and Hatred less than 30.",
+			"text":"Возмездие: Когда активны руны мрачная душа, поясные пушки, затем каст здоровье менее 60%, \r\nПрименяется при экипировке Утренняя заря или Обсидиан (ОКЗ) и элита рядом, \r\nПрименяется, когда КДР выше 29% и монстры вокруг, Применяется, когда КДР выше 36%,\r\nПрименяется, когда активна руна Бешенство и ненависть меньше 30.",
 			"left":177,
 			"top":478,
 			"width":600,
 			"height":64
 		},
 		"CheckBox_Lightning_DemonHunterCompanion":{
-			"text":"Companion: Keep Buff when CDR above 69% or equipped Obsidian,Otherwise wolf, boar,spider cast only \r\nwhen elite or BOSS is nearby, Cast when Ferret and health less than 60% and health globe is nearby, \r\nCast when bat and Hatred less than 15%, When any party member equipped COE, then wolf cast \r\npossible during COE bursts(Give priority to your).",
+			"text":"Питомец: Сохраняйте бафф, когда CDR выше 69% или экипирован Обсидиан (ОКЗ), в противном случае - волк, вепрь, паук \r\nкастуется только когда рядом элита или БОСС, Применяется, когда активна руна Хорьки и здоровье меньше 60%, а рядом находится сфера здоровья, \r\nПрименяется, когда активна руна Летучая мышь и ненависть менее 15%, Когда любой член группы использует собрание стихий, тогда использовать руну Волк \r\nвозможно во время срабатывания стихии собрания (отдавайте приоритет своей стихии).",
 			"left":177,
 			"top":384,
 			"width":600,
 			"height":82
 		},
 		"CheckBox_Lightning_DemonHunterFanofKnives":{
-			"text":"Fan of Knives - Bladed Armor: Keep Buff when CDR above 40%, Otherwise cast monster in 40 yards.",
+			"text":"Веер клинков - Клинковая броня: Сохраняйте бафф, когда КДР выше 40%, в противном случае наличие монстров в 40 ярдах.",
 			"left":177,
 			"top":340,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_DemonHunterEvasiveFire":{
-			"text":"Evasive Fire: Keep Bastions of Will Buff when Hardened, Focus rune and monster within 30 yards of the \r\ncursor, Keep Wraps of Clarity Buff, Cast when Hatred less than 20%, \r\nCast when equipped Unhallowed Essence set 2p and Discipline insufficient.",
+			"text":"Отход под прикрытием: Используется Бафф Оплота воли руна Сгруппироваться, руна Внимание и \r\nналичие монстров в пределах 30 ярдов от курсора, наличие баффа Обмотки ясности, Применяется, когда ненависть меньше 20%, \r\nПрименяется при экипировке 2 предметов от сета Сущность порока и недостаточном количестве концентрации.",
 			"left":177,
 			"top":264,
 			"width":600,
 			"height":64
 		},
 		"CheckBox_Lightning_DemonHunterChakramShurikenCloud":{
-			"text":"Chakram Shuriken Cloud - Shuriken Cloud: Keep Buff",
+			"text":"Шакрам - Облако сюрикенов - Облако сюрикенов: Удерживать бафф",
 			"left":177,
 			"top":220,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_DemonHunterPreparation":{
-			"text":"Preparation - Other runes: Cast when Discipline Consumed        , Cast when Battle Scars and health less than 40%.",
+			"text":"На изготовку - другие руны: Применяется при потреблении концентрации        , Применяется при руне Боевые шрамы и наличии здоровья менее 40%.",
 			"left":177,
 			"top":176,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_DemonHunterPreparationPunishment":{
-			"text":"Preparation - Punishment: Cast when Hatred insufficient",
+			"text":"На изготовку - Наказание: Применяется при недостаточной ненависти",
 			"left":177,
 			"top":132,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_DemonHunterShadowPower":{
-			"text":"Shadow Power: Cast when in danger, Activate when equipped The \r\nShadow’s Mantle set 4p, Keep Buff when equipped Gears of Dreadlands set 6p.",
+			"text":"Сила тьмы: Применяется при опасности, Активируйте при надевании \r\n4 предмета из сета Мантия тени, удерживать бафф когда экипировано 6 предметов из сета Шестерни мертвых земель.",
 			"left":177,
 			"top":72,
 			"width":434,
 			"height":48
 		},
 		"CheckBox_Lightning_DemonHunterSmokeScreen":{
-			"text":"Smoke Screen: Cast when in danger, Activate when equipped Elusive Ring,\r\nCast when equipped Gears of Dreadlands set 6p and monster is around,\r\nCast when Displacement rune and RCR above 40%.",
+			"text":"Дымовая завеса: Применяется при опасности, Активировать когда надето Кольцо уклонения,\r\nПрименять когда экипировано 6 предметов из сета Шестерни мертвых земель и монстры в округе,\r\nПрименять когда активирована руна Сдвиг и РКР более 40%",
 			"left":177,
 			"top":12,
 			"width":600,
 			"height":48
 		},
 		"CheckBox_Lightning_CrusaderAkaratsChampion":{
-			"text":"Akarats Champion: Cast when resource less than 20% or elite\/Boss in 40 yards,\r\nKeep Buff when CDR above 75% or (50% and equipped Akkhan set 4p or equipped Obsidian or  Akarat's \r\nAwakening). Cast when you are Aegis of Valor Split Fury build and COE During the holy.",
+			"text":"Поборник Аккарата: Применяется при ресурсе менее 20% или Элите\/Боссе в пределах 40 ярдов,\r\nУдерживать бафф при КДР выше 75% или (50% и экипированных 4 предметах сета Аккана или надетом ОКЗ или  надетом \r\nПробуждении Аккарата). Применяется, когда вы используете билд Ярость небес в сете Эгида доблести и собрание стихий, стихия Света.",
 			"left":177,
 			"top":289,
 			"width":600,
 			"height":64
 		},
 		"CheckBox_Lightning_CrusaderCondemn":{
-			"text":"Condemn: Cast when have enough resources and monster is around.",
+			"text":"Порицание: Применяется, когда достаточно ресурсов и рядом монстр.",
 			"left":177,
 			"top":254,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_CrusaderProvoke":{
-			"text":"Provoke: Cast when in danger or resources less than monster's resources amount, Cast when CDR \r\nabove 50%,Cast when Bombardment Crusader activated Reflective Skin.",
+			"text":"Насмешка: Применяется, когда в опасности или ресурсы меньше, чем количество монстров, Применяется, когда КДР \r\nболее 50%,Применяется когда Крестоносец Бомбардир применяет скилл Железная кожа - Отражающая кожа",
 			"left":177,
 			"top":214,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_CrusaderLawsOfValor":{
-			"text":"Laws Of Valor: Keep Buff when equipped Long Arm of the Law or CDR above 50% or equipped Obsidian.",
+			"text":"Принцип доблести: Удерживать бафф когда активирована пассивка Длинная рука закона или КДР выше 50% или надето ОКЗ.",
 			"left":177,
 			"top":174,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_CrusaderLawsOfJustice":{
-			"text":"Laws Of Justice: Cast when any party member in danger.\r\nKeep Buff when equipped Long Arm of the Law or CDR above 50% or equipped Obsidian.",
+			"text":"Принцип справедливости: Применяется когда любой член группы в опасности.\r\nУдерживать бафф когда активирована пассивка Длинная рука закона или КДР выше 50% или надето ОКЗ.",
 			"left":177,
 			"top":134,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_CrusaderLawsOfHope":{
-			"text":"Laws Of Hope: Cast when any party member in danger.\r\nKeep Buff when equipped Long Arm of the Law or CDR above 50% or equipped Obsidian.",
+			"text":"Принцип надежды: Применяется когда любой член группы в опасности.\r\nУдерживать бафф когда активирована пассивка Длинная рука закона или КДР выше 50% или надето ОКЗ.",
 			"left":177,
 			"top":94,
 			"width":600,
 			"height":32
 		},
 		"CheckBox_Lightning_CrusaderIronSkin":{
-			"text":"Iron Skin: Cast when in danger, Keep Buff when CDR above 50% or equipped Obsidian. \r\nCast when Reflective Skin and equipped COE, monster within 30 yards and COE less than 3s from physical.",
+			"text":"Железная кожа: Применяется при опасности, Удерживать бафф когда КДР выше 50% или надето ОКЗ. \r\nПрименяется когда активен скилл Железная кожа - Отражающая кожа и надето Собрание стихий, наличии мостров в пределах 30 ярдов и осталось менее 3 с. до стихии физ. урона.",
 			"left":177,
 			"top":44,
 			"width":610,
 			"height":48
 		},
 		"CheckBox_Lightning_BarbarianWrathOfTheBerserker":{
-			"text":"Wrath Of The Berserker: Keep Buff when equipped Immortal King 4p or equipped Boon of Bul-Kathos \r\nand CDR above 75% or equipped Obsidian or equipped Messerschmidt,Otherwise only cast when \r\nelite\/Boss is nearby or health less than 30%.",
+			"text":"Wrath Of The Berserker: Keep Buff when equipped Immortal King 4p or equipped Boon of Bul-Kathos \r\nand CDR above 75% or надето ОКЗ or equipped Messerschmidt,Otherwise only cast when \r\nelite\/Boss is nearby or health less than 30%.",
 			"left":24,
 			"top":332,
 			"width":600,
@@ -1954,7 +1954,7 @@
 			"height":32
 		},
 		"CheckBox_Lightning_WitchDoctorHorrify":{
-			"text":"Horrify: Cast when 5 monsters or elite\/Boss within skill range,\r\nCast when equipped Obsidian and monster is around,\r\nCast when Frightening Aspect and monster within 50 yards",
+			"text":"Horrify: Cast when 5 monsters or elite\/Boss within skill range,\r\nCast when надето ОКЗ and monster is around,\r\nCast when Frightening Aspect and monster within 50 yards",
 			"left":177,
 			"top":415,
 			"width":600,
@@ -2045,7 +2045,7 @@
 			"height":32
 		},
 		"CheckBox_Lightning_MonkBreathOfHeaven":{
-			"text":"Breath Of Heaven: Cast when any party member health less than 70% within 12 yards, \r\nCast when Blazing Wrath rune and elite\/Boss within 40 yards,\r\nCast when Zephyr rune and CDR above 65% and  equipped Obsidian or CDR above 74%,\r\nCast when Infused with Light rune and CDR above 65% and equipped Obsidian or CDR above 74% and \r\nSpirit less than 50%.",
+			"text":"Breath Of Heaven: Cast when any party member health less than 70% within 12 yards, \r\nCast when Blazing Wrath rune and elite\/Boss within 40 yards,\r\nCast when Zephyr rune and CDR above 65% and  надето ОКЗ or CDR above 74%,\r\nCast when Infused with Light rune and CDR above 65% and надето ОКЗ or CDR above 74% and \r\nSpirit less than 50%.",
 			"left":24,
 			"top":140,
 			"width":600,
